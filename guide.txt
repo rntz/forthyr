@@ -1,34 +1,68 @@
-An Earther's Guide to my World
-==============================
+title: An Earther's Guide to the World
+...
+
+
+## I. Skies
 
 Where can I even begin?
 
-I suppose I will start with the skies. On Earth, if you look up on a clear day, you see mere blue nothingness---and somewhere in it, the sun. But if instead you look up on a clear night, you can see the whole universe before you. Earthers are lucky that way: your sky is limitless, an opportunity without bound.
+I suppose I will begin with the skies. On Earth, if you look up on a clear day, you will see the sun suspended in a sea of mere blue nothingness. But if, instead, you look up on a clear night, you will see the whole universe before you. Earthers are lucky that way: your sky is limitless, an opportunity without bound.
 
 With us, it is almost the reverse. If you look up at night all you see is the moon, embedded in an empty black void. But if you are lucky enough to look up on a clear and sunny day (for such days are rare), you can see the whole world, rising away from you on all sides, with all its continents and archipelagos, its mountains and its oceans, its rough, hard dirt and its cool, enveloping waters.
 
-If you are still confused, Earther, think of it this way: You live on the outside of a ball. We live on the inside of one. There are no stars, no planets, no galaxies, no far-flung astronomic universe for us---just our world itself. We have known since first we had eyes to see that there was nowhere else to go. We lack even the word for "Universe", a word so much more expansive than "world" or "Earth".
+<!-- TODO: work in stars rotating vs continents rotating -->
 
-Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other; together they are called the Eyes of God. Each sits at the peak of a mountain much higher than Everest. "Mountain" is perhaps inaccurate; at their peaks they are more like pillars. Our astronomers (another poor word, for they watch the sky, not the stars; they are also our cartographers and our weather-readers) tell us that the lands surrounding the Eyes are swathed constantly in clouds. It must be a strange place to live, if anyone does live there.
+If you are confused, Earther, think of it this way: You live on the outside of a ball. We live on the inside of one. There are no stars, no planets, no galaxies, no far-flung astronomic universe for us—just our world itself. We have known since first we had eyes to see that there was nowhere else to go. We lack even the word for "Universe", a word so much more expansive than "world" or "Earth".
 
-Day begins when the Sun, having lain dormant during the night, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm reddish hue---gentler to my eyes than your Sun's glaring yellow, but I doubt you would find it appealing. The Moon wanes as the Sun waxes, 
+Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of God. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
 
-The continent where I was born, Forthyr, lies about halfway between Sun and Moon. The shadows there lie long, no matter if it is night or day.
+<!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
 
-There are four cardinal directions for us: Sunward, Moonward, North, and South. (I could as easily have called these last two East and West, or Clockwise and Anticlockwise, or Fi and Fum; but if you think of the Sun as being in the East, where on Earth it rises, then you will grasp which direction North and South are relative to Sunwards and Moonwards.)
+<!-- TODO: "blinding white" isn't a perfect phrase -->
 
--- EDIT
-Our worlds could not be more different, and yet they are strangely similar. We have days and nights like yours; tides like yours; seasons, not quite like yours, but seasons nonetheless; even some animals and plants like yours (and some unlike yours).
+Day begins when the Sun, having lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, almost the strength of a full moon on Earth.
 
-If you find this landscape to be an unreasonable amalgamation of the alien and the familiar, you are not alone. Your world is just as alien and just as familiar to me.
+Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
 
-If at this point you find yourself objecting, if you find this landscape alien, then you are not alone. Your world is just as alien to me. If your objection is couched in the language of natural science, of physics and mathematics---perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours---then forgive me, but I do not know. Perhaps you simply want answers, scientific or no, to the obvious questions: What is outside the "ball" that we are on the inside of? What are the Sun and the Moon made of? Why do they brighten and dim at regular intervals? What causes our tides? Our seasons? How did our world come to be? How did we come to be?
+<!-- Should Sun/Moon colors vary by season? But this would make season a *global* thing, not continent-specific. -->
+<!-- Should there be an exception to "other continents do the same"? -->
 
-I have no answers for you. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I do not have time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world---but that is a subject for another time.
+From this constant we find our bearings. There are no compasses on Forthyr; day or night you can tell direction from the sky. Our four cardinal directions are Sunward, Moonward, North, and South. (One could as easily call the last two East and West, or Clockwise and Anticlockwise, or Fi and Fum; but if you think of the Sun as being in the East, where on Earth it rises, then you will grasp which direction North and South are relative to Sunwards and Moonwards.)
 
-----------
+<!-- TODO: finishing paragraph -->
 
-There are three seasons on Forthyr. The year begins when snow gives way to rain and the monsoon season begins.
+
+## II. Seasons
+
+There are three seasons on Forthyr: the monsoons, the dry season, and Winter.
+
+The year begins when snow gives way to rain and the monsoons begin. Immediately the land is drenched by torrential, ceaseless rain. The air grows heavy with humidity and heat, especially in the lowlands. After the initial onslaught the rain lessens a shade, just barely enough for the soil to turn from impenetrable waist-deep mud into something dry enough to sow seed in. So begins the growing season—which is merely a name for the time when it is possible to grow crops topside. It is not one of the three seasons itself, but it is just as important as any of them.
+
+<!-- Need to talk about life blossoming from the soil spontaneously, "trees" growing etc. OR could talk about that in flora and fauna section. -->
+
+After the monsoons comes the dry season. The rains slowly taper off and the air grows hotter yet, a dry heat this time. The land parches and bakes, and one by one the rivers dry up. The growing season's end is traditionally marked when the nearest riverbed begins to crack in the heat. Only the mighty Pelluin remains flowing for the entire season. Halfway into the dry season, the dust storms begin. After that, travel topside is nearly impossible.
+
+<!-- TODO: need sentence or phrase on effect of Pelluin's flowing on nearby cultivation and kingdoms etc. -->
+
+After the dry season comes Winter. The dust storms end, the heat slowly fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows and snows and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody spends Winter above ground and survives.
+
+During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in tiny caves painstakingly hollowed out by shovel and pick, generation by generation.
+
+<!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
+
+Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; sometimes Winter arrives on time, but doesn't leave when you expect it to.
+
+Forgive me if I make our world sound harsh, if I make our lives sound hard. Forgive me if I sound bitter. But our world is harsh, and our lives are hard. My friends and family, and all those many others who still live in Forthyr, would not say it is so; but that is only because they have nothing else to compare it with. And that is why I am bitter.
+
+<!-- Two hundred day years, with barely enough time for the crops to grow, but so little winter that it hardly matters, are not unknown. A six-hundred-day year comes once in as many years, and leaves few survivors. -->
+
+<!-- TODO: insert historic anecdote -->
+
+<!-- The monsoon and dry seasons generally last about a hundred days each; and Winter lasts as long as both combined. Half the year is Winter; the other half together is called Summer. -->
+
+<!--
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Monsoon - Dust/Dry - Winter
 year begins when winter becomes monsoon
@@ -38,8 +72,128 @@ Long years require storing food and careful rationing; short years don't leave e
 
 When are crops grown anyway? monsoon season, mostly, or as monsoon turns into dust season. maybe store up water from monsoon season to irrigate during dust season? use giant underground cisterns, like the Fremen in Dune?
 
-----------
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
 People do travel overground if they need to or if it's faster, but year-round settlements are always underground, to survive the winter. A site without underground connections is completely isolated during the winter. (However, also protected from gloom monsters? Or from attacks by other people? Unclear. Maybe no advantage to this at all.)
 
 Nomads (mostly Orcs) in the Moonward Wastes migrate from winter strongholds to monsoon/dry season sites (different spots for monsoon & dry season? how does nomad agriculture work? or are they hunter-gatherers?)
+
+---------- EXCISED PASSAGES ----------
+
+The continent where I was born, Forthyr, lies about halfway between Sun and Moon. The shadows there lie long, no matter if it is night or day.
+
+Our astronomers (another poor word, for they watch the sky, not the stars; they are also our cartographers and our weather-readers) tell us that the lands surrounding the Eyes are swathed constantly in clouds. It must be a strange place to live, if anyone does live there.
+
+^ EDIT: remove astronomers sentence? it is plain to the eye that the moon is surrounded in clouds during the day.
+
+-->
+
+
+## III. Peoples
+
+The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years. <!-- should "gremlins" be "kobolds" instead? -->
+
+### 1. Humans
+
+I am human, and this guide is written from a human perspective. When I say "we" or "us" or "our", I speak of humanity, as it exists on Forthyr and other continents of our World. When I say "you" or "yours", I mean the humans of Earth. As far as can be determined, we and you are of the same species. This is somewhat surprising. It does, however, save me the trouble of explaining your own species to you.
+
+<!-- TODO: explanation of ethnicities
+
+I will note in passing that Forthyr is home to many ethnicities; save the pale barbarians of the Northern Wastes and the Travellers descended from them, most have skin in various shades of brown.
+-->
+
+<!-- TODO: para explaining why we don't live underground all year? -->
+
+### 2. Dwarves
+
+Humans live underground when they have to. Dwarves live underground because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; and they have divined the operation of many ancient artifacts, although they are not quite as prodigious in this regard as human savvyheads.
+
+They are also short and bearded, in case you were wondering.
+
+They are not, however, greedy for gold or jewels; neither are they of particularly warlike demeanor; nor are they honor-bound to a fault, save in the matter of Dwarven Secrets; they do not have a long-running feud with a race of elf-like beings, as indeed there are no such beings on Forthyr; and they certainly do not speak in a Scottish accent.
+
+So much for your Dwarven stereotypes.
+
+<!-- what do dwarves trade FOR? what do they value that humans can make?
+
+well, they'll certainly trade for interesting ancient tech. is that all?
+-->
+
+<!-- TODO -->
+
+Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; <!-- TODO -->
+
+For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk theory is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
+
+Dwarves have certainly been observed to form strong individual bonds, some of them so close and lasting as to appear marriages, but whether these are truly romantic relationships or merely companionate ones is anyone's guess.
+
+The Dwarves themselves quite pointedly have nothing to say on the matter. It seems likely that it constitutes a Dwarven Secret. Indeed, according to legend, the only person to ever dissect a dwarf corpse, seeking to discover the truth of the matter, was murdered by Dwarves and then dissected himself—or, in the more gruesome version of the tale, vivisected.
+
+<!-- TODO: well, you could tell by dissecting them! perhaps only one dissection has been performed and it resulted in a dwarven honor-killing
+
+two options:
+- dwarven internals are like humans; they're a urethra and anus
+- dwarven internals are very unlike humans and it's not clear what the fuck is going on
+
+I like the second one. -->
+
+#### Dwarven Secrets
+
+It seems appropriate at this point to explain the matter of Dwarven Secrets.
+
+### 3. The Traders
+
+The Traders are a mysterious folk.
+
+### 4. Other species
+
+#### Orcs
+I do not know much about orcs. They live on the other side of the Moon Mountains, where also dwell the Moonward tribes. To my knowledge they are much like humans in stature and intelligence, and much like the tribesfolk in technology and social structure. But they are said to be of a brawnier build than humans and have strange features (some say they have tusks, others say they have horns, yet others suggest a third eye). I have never met one; it is possible they are merely an unusual race of humans and the stories about them are exaggerations.
+
+#### Goblins
+The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
+
+<!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
+
+#### Kobolds
+
+Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
+
+<!-- TODO: expand on kobolds -->
+
+#### Others
+
+<!-- TODO -->
+
+
+## IV. The Ancient World
+
+<!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
+
+Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours.
+
+<!-- Apparently they were not advanced enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
+
+
+## V. Religions
+
+Religion is a major force on Forthyr.
+
+
+## X. Aside
+
+<!--
+Our worlds could not be more different, and yet they are strangely similar. We have days and nights like yours; tides like yours; seasons, not quite like yours, but seasons nonetheless; even some animals and plants like yours (and some unlike yours).
+
+Your world is just as alien, just as familiar, to me.
+-->
+
+<!-- TODO: is capitalization used after a colon? -->
+
+If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know.
+
+Or perhaps you simply want answers, scientific or no, to the obvious questions: What is outside the "ball" that we are on the inside of? What are the Sun and the Moon made of? Why do they brighten and dim at regular intervals? What causes our seasons? Our tides? Our continents' movements? How did our world come to be? How did *we* come to be?
+
+I have no answers for you. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
+
+
