@@ -1,0 +1,664 @@
+* Sections
+
+1. Skies
+2. Seasons
+
+3. Peoples
+3.1 Humans
+3.2 Dwarves
+3.3 Orcs
+3.4 Kobolds, Trolls, and other species
+
+4. The Ancient World
+- no writings or inscriptions
+- strongholds
+- tunnels too straight to have been produced in the modern day
+- ancient tech
+4.1 Reincarnation Machines
+? 4.2 The Deep
+4.3 Its effects on the present
+- cities
+- travel underground
+- exarchs
+- savvyheads
+- dungeon delvers
+
+5. Religions
+preamble about religion being a major force in the world
+5.1 Religion B
+5.2 Religion A
+5.3 Religions D & E
+5.4 Religion C
+
+6. Geography
+7. Kingdoms and City-States
+
+? The Economy
+? Flora and Fauna (subsections: topside, below, the deep)
+
+8. An Aside
+
+
+* What do I want to be significant in the World?
+
+- Religion & reincarnation
+  - link with Traders/ancient tech?
+
+- The seasons
+
+- Feudal politics, city-states and warring kingdoms
+
+- The landscape
+
+- The Traders
+
+- Prehistory/ancient tech, a la Dwemer in TES
+  - link with Traders?
+
+- The drug trade?
+  - Hallucinogens & entheogens as religious tools?
+
+- information is valuable!
+  - libraries worth their weight in gold
+  - information from old world gives power, requires dedication and wealth
+    (monastic orders?)
+
+
+* MISCELLANEOUS NOTES
+** Food, topside and underground
+Food can be grown both underground and topside, but topside plants are generally
+both more nutritious and tastier. It is possible for humans to subsist on a diet
+of entirely underground plants but this generally results in malnutrition.
+Winter malnutrition is a chronic problem among the poor. (NEEDS NAME)
+
+** The "Growing season"
+Current idea is that there is a "growing season" during which it is possible to
+grow plants and farmers keep trying to grow things until the growing season
+ends.
+
+But this doesn't seem to make sense. You have to harvest crops when they're
+ready to be harvested; and it doesn't make sense to replant unless there's a
+reasonable chance you'll have time to harvest again. Maybe if you use really
+short-period crops? This is an alternate world, after all.
+
+Solution: there are some crops, including at least (or perhaps exactly) one
+staple, which just keep producing more fruit/tuber/whatever as they grow. So it
+is best to let them grow as long as possible. (If you trim off some of the
+fruit/tuber/whatever early they die, I guess? Or they grow back but less
+quickly? Or become less hardy? Or you get less seed? Or something.)
+
+Also there are some quicker-growing crops which can, if you're lucky, grow in
+the time between the end or near-end of the monsoons and the end of the growing
+season. So there's a harvest and second planting near end of monsoons.
+
+Of course, you also want to harvest some food as soon as possible because your
+supplies have run out over winter, so there's a balancing act here; you want to
+plant quick-growing crops early in monsoon season, but also reserve some space
+for long-growing productive plants, etc, etc.
+
+I really don't have much idea how crop cultivation works. How do we get crops
+year-round anyways? I should into this.
+
+** The origin and nature of the seasons
+Are the seasons continent-specific, or does all the world experience the same
+seasons at the same time? And in either case, what causes them?
+
+Original explanation: The seasons are caused by malfunctioning ancient
+technology (life support systems?). But still, where does the heat come from in
+dry season? From the ground? From the sun? I want it to be (or at least seem to
+be) from the sun, but that implies the seasons are global, which I don't want to
+commit to.
+
+Current decision: punt on the issue. Don't know if they're global b/c never been
+to other continents (maybe some astronomers/skywatchers know). If I come up with
+a good explanation later I can use it. And I can always invoke "magic"/"it's not
+clear".
+
+However, I *do* need to determine whether the seasons are correlated with
+position relative to Moon/Sun. For now, let's say no.
+
+Some other possible solutions:
+
+- They are global.
+
+- They are continent-specific, and are connected to the movement of the
+  continents between Moon and Sun. Dry season begins upon closest approach to
+  sun, winter is the half of the year closest to the Moon. But still need
+  explanation of monsoon vs dry seasons.
+
+
+* DICTIONARY OF TERMS
+
+# Summer
+Not-winter; the monsoon and dust seasons taken together.
+
+# Enclave
+A place underground where people stay during the winter. Also, the group of
+people who stay there. People identify with their enclaves, just as they do by
+ethnicity, religion, caste, etc. Enclaves are usually left uninhabited (with
+occasional inspections) during summer; people disperse into villages to make
+maximal use of available farmland. (One of the factors distinguishing cities
+from enclaves is that cities are inhabited year-round.)
+
+TODO: PROBLEM: how do people find water during the dry season? what do they do
+topside during the dry season?
+
+Enclaves generally need the following attributes:
+
+- Space for people to live in. Even a small enclave is usually at least 100
+  people, and more typically 500. 1000 people is a really big enclave, almost a
+  small city.
+
+- A water source, usually a well, spring or underground river. Sometimes a large
+  cistern is used to store up water filled during the monsoon season, but this
+  presents its own unique set of problems (keeping the cistern clean, non-leaky,
+  etc). If the cistern fails, a winter migration usually follows.
+
+- Defensible, both against other humans and against monsters from the depths.
+
+- A place to grow food during the winter. Usually this means underground food,
+  fungi mostly, but if artificial light can be procured (usually using ancient
+  tech) then topside food can sometimes be grown. Only highly energy-dense food
+  is grown due to lack of space, and plenty of space is usually required anyway.
+
+# Migration
+The period at the end of summer when people move from villages into enclaves,
+and at the beginning of summer when they move back into villages.
+
+# Ancient tech
+TODO: better name
+ancestor tech?
+
+
+* RELIGIONS
+** RELIGION A
+
+Does not have saints. Rather, has elders (of whom the immortals are a subset),
+and martyrs. Anybody who dies rather than being rejuvented is either no longer
+spiritually significant, or a martyr who died before their time. To die rather
+than being rejuvenated is seen as an unjust and premature death for those who
+deserved better, just as much as being killed for one's beliefs is - which, of
+course, also happened to believers of religion A sometimes.
+
+*** HISTORY OF RELIGION A
+
+About 550 years ago, a group of about six hundred religion A believers made
+landfall on Forthyr in, if you believe their stories, a gigantic Ark.[1] They
+landed on the Desolate Isle, just off the North-Sunward coast of the main
+landmass of Forthyr. Their histories say they fled from terrible persecution in
+a land far across the Northern ocean [2]. They believed themselves to be the
+entire remaining population of religion A.
+
+[1] Have remains of this Ark been found or not found? Looked for? Could make interesting story hook.
+[2] NB/TODO: Story parallels Pharoah & Moses, except with escape via Ark instead of by parting the sea.
+
+TODO: How many of the current Nine Immortals were on the Ark? One, Two?
+
+The Desolate Isle was then and remains uninhabited, save for the caves off the
+coast of Freeport; so the group did not make contact with any native
+Forthyrians. They occupied the ancient ruin of Sangraha, though a group of about
+fifty left, disobeying their elders' commands, fearing that the island was too
+infertile and the remaining time too short to grow enough food to sustain them
+through winter. The coming winter was indeed disastrous; fully two-thirds of
+those who remained perished in it. For this reason the city of Sangraha is also
+known as "The Martyred City" to the Church.
+
+The fifty who left found safe haven and passage to the mainland at Freeport. A
+small temple still stands there dedicated to their memory. Foresighted though
+they were, they are called the Unfaithful and considered traitors in the
+official Church history. (TODO?: Their descendents bear a mark, indicating???)
+
+TODO: is "Unfaithful" best name?
+
+Once the winter ended, the Unfaithful returned to find what had become of their
+brethren. They guided the few hundred survivors to Freeport, but it was quickly
+determined that the city could not support so many
+
+TODO: finish
+
+
+** RELIGION B
+
+TODO: snazzier name for "gods" and "demons", name for "Brahman"
+kami/akuma, deva/asura, god/demon
+
+Polytheistic, believes in a pantheon of major gods and goddesses and a whole
+mess of minor ones. Think half Greco-Roman, half Hindu, with some animist
+influences thrown in. Animist influences come because it merged with / absorbed
+an animist folk religion about 600 years ago, after a long struggle between the
+two. The common folk practices of ancestor- and hero-worship and -deification
+are encouraged, within limits. Most cities and towns have a patron god/goddess;
+some families even have a patron (generally a venerated ancestor).
+
+Also believes in demons, which were ancestors / relatives of the gods that the
+gods overthrew long ago (think asuras vs devas, or titans vs gods).
+
+Official church line is that most of the spirits revered by the animist
+tradition are actually demons who have been pressed into the service of gods in
+the Pantheon. Folk traditions of worshipping these spirits are tolerated as long
+as they don't cause trouble, but such worship is fundamentally wrongheaded: one
+should worship gods, not demons! (Need better name than gods/demons?)
+
+Believes reincarnation machines are perversions of the cycle of life and death.
+This doesn't win it a lot of friends among the powerful, but it has a broad base
+of support among everyone else; it is a folk religion, albeit in debased form
+(many folk beliefs go against official church doctrine).
+
+Very (~3000yr) old religion. Church internal structure is complicated. Divided
+into "cults" of different deities.
+
+Identify Religion A's Sky Father as the demon SKYFATHERNAME, and identify Dirt
+Mother as the Goddess DIRTMOTHERNAME. Believe that SKYFATHERNAME raped
+DIRTMOTHERNAME and her tears became the oceans and rivers. Consequently, they
+consider believers of Religion A to be highly confused.
+
+*** PLANES OF EXISTENCE; THE NATURE OF DIVINITIES
+
+(Perhaps the following is just *one* view of the nature of existence, from a
+particular cult. Maybe the most common cult among ordinary folk? Makes religion
+like Hinduism, with very many different ways of seeing the world.)
+
+If you accrue enough karma you are reborn into a higher plane of existence.
+Higher planes are benevolent, heavenly places; the higher the better. Beings in
+higher planes have the ability to intercede in the affairs of those in lower
+planes; they are the saints and spirits and gods. But they are still, like us,
+bound to the cycle of reincarnation; only they live for centuries, millenia, or
+eons (depending on their respective plane; the higher the longer-lived) that
+they seem everlasting to us mere mortals. So if they live good lives they ascend
+to even higher planes of existence.
+
+We are on level 0. Those on levels 1-3 are saints and venerated ancestors, 4-6
+spirits, 7-9 gods and goddesses. The 10th level is Brahman (supreme divinity),
+in which all are as one (at least from the perspective of us puny mortals).
+Opinions differ as to what goes on in the levels above that, and indeed on
+whether such levels exist; but regardless they are not concerned with the lives
+of us mere mortals.
+
+(Also, they get to keep their awareness of who they are after they die? So
+rebirth is not such a big issue for them? Maybe. Makes sense if they believe
+that some truly enlightened people can recall their past lives.)
+
+There are also lower levels, levels of Hell. However, our plane (level 0) is the
+unique "middle level"; levels above 0 have influence on the levels below them,
+and levels below 0 have influence on the levels above them; so we are influenced
+from both directions, from the Heavens and from the Hells. (Of course, we can
+occasionally influence levels above or below us, but only the most powerful
+among us can do so, and usually only by interacting with the beings in those
+levels who choose to manifest themselves in our plane.)
+
+Belief in positive-feedback cycles: positive surroundings, traditions,
+acculturation, good neighbors, upbringing, etc, help to ensure that a person
+becomes good. This applies in our plane, so believers have a reason to focus on
+social work (which from a modern Earth perspective can be both good and bad.
+Good: feeding the hungry, public works. Bad: enforcing certain social mores
+which we might call oppressive or puritanical etc.); it also applies on the
+higher and lower planes. This positive feedback loop means being on higher
+planes tend to ascend toward enlightenment, and beings on lower planes tend to
+dive lower and lower in a vicious cycle. This means lives lived in the present
+plane are of particular spiritual importance! (Of course, there are exceptions
+to this positive feedback rule. It's not *impossible* to ascend from hell, nor
+to fall from grace.)
+
+
+*** SAINTS AND ANCESTORS
+
+There is a belief, especially prevalent among common folk, that venerated
+ancestors and saints have ascended into the lower levels of the heavenly planes.
+They are commonly called upon to help us mere mortals or act as intercessors
+between us and the gods.
+
+
+*** HISTORY OF DEVAS (GODS) AND ASURAS (DEMONS)
+
+Long ago the Devas and the Asuras were two peoples who lived together in harmony
+and peace on the banks of the ${BIG SPIRITUALLY IMPORTANT RIVER}. They accrued
+good karma together and eventually ascended to Heaven. But eventually, when they
+were on the brink of ascending to the seventh level, there grew a conflict
+between them over the nature of morality. <SOME EXPLANATION OF THE CONFLICT.
+Maybe this is a part that differs among different tellings of the tale?>
+
+The Devas were correct, and the Asuras erred; but some of the Asuras were so
+convinced of their position that they came to blows, believing that the Devas
+could not be allowed to continue in their beliefs. And so the Heavens warred
+among themselves, and it was a time of great woe for those in the lesser levels.
+<<-- Connect this to some time of great turbulence in mortal history? -->>
+Eventually the Asuras, being in the wrong, lost; and from the bad karma they
+accrued from their unjustified war they fell ten levels in one fell swoop, and
+landed in Hell.
+
+But the Devas were so full of sorrow for their brethren, even though they had
+been wronged by them, that once they ascended to godhood they took pity on the
+Asuras and raised them back out of Hell. They could not remove the stain of the
+Asura's bad karma from their souls, for that is beyond even the gods. <<-- "Only
+Brahma can grant or remove karma."(?) -->> But in their infinite benevolence
+they permitted the Asuras to work off their karma in the planes of Heaven, and
+not of Hell. (Of course, not all of them accepted the offer.)
+
+
+*** THE PANTHEON
+Inspiration list: hindu, greek (eleusinian mysteries), sumerian, tolkien, elder
+scrolls, egyptian
+
+Idea: Maybe there is a system in which some gods are "aspects of" or
+"subordinate to" other gods; they are part of the higher god's "retinue", so to
+speak. Kind of like saints intervene between humans and God, these minor gods
+intervene between humans and the major gods. This permits more-specific patron
+gods and goddesses for specific professions!
+
+it also produces lots and lots of little gods, with associated ceremonies, which
+gives the priesthood work, gives a measure of "merit" or "ability" for priests
+(eg. wandering priest comes to town, "our local priest doesn't know the rites of
+$FOO, can you help us?" "why yes I can")
+
+**** Major gods
+***** "Joe" Jehovah-Vishnu-Aulë-Vulcan
+
+god of law and order, law-giver and oath-binder
+architect, artificer, stone- and metal-worker
+creator (of artificial things) and destroyer (of ill things)
+god of justice and justified wrath
+upholder of the castes and rules of society
+god of fire tamed, not of wild-fire
+
+aspects: judge, oath-binder, wrathful destroyer, architect/builder, forge-fire, hearth-fire
+
+***** "Liz" Ishtar-Inanna-Demeter-Shakti
+
+Fertility, death-and-rebirth, sex, and war
+
+NOTE TO SELF: might be too strong/big. remove/reduce agriculture domain from
+her? remove/reduce war domain?
+
+Goddess of death and rebirth: prayed to at funerals, asked to judge the departed
+mercifully and give them a happy next life. Presides over the cycle of
+reincarnation - all return to her womb when they die, and from it are reborn
+into the world.
+
+Goddess of fertility: prayed to when seeds are sown and when they are reaped.
+But between the sowing and reaping, farmers pray to Zeus-Shiva for good weather.
+
+The stereotype is that farmers pray to Zeus-Shiva for good weather before their
+crops are grown, but give their thanks to Demeter once harvest time comes.
+FIXME: need to update this saying for praying to Innana during planting.
+
+Goddess of victory in battle: prayed to by warriors before battle.
+(has aspect/avatar/sub-incarnation: equivalent of nike, goddess of victory?)
+
+Goddess of sex, but not of love or of marriage. Women may pray to her, but only
+prostitutes take her as patron. Goddess of judgment and rebirth, but not of
+motherhood; she is not prayed to for safe delivery (would that be Ti Kuan Yin?).
+
+ishtar: "fertility, love, war, and sex"
+judges souls for reincarnation, presides over the cycle of reincarnation
+all return to her womb on death and from it are born again into the world
+her followers most hate the reincarnation machines
+
+Ironically, is nowadays rarely worshipped by females - her cult, previously
+small and female-led, was co-opted 800 years ago when religion B reinvented
+itself after the Crusades died. it proved useful in assimilating female-focused
+folk cults, but the then-leaders of the cult were unfriendly to the iconoclast's
+revolution and didn't want to dilute their religion by absorbing outside
+influences.
+
+Or perhaps her worship by females at a lay level is institutionalized, but her
+priesthood is all-male. that makes more sense: keep females in the institution
+but out of power. a fertility goddess has fertility rites, after all. :/
+
+Third idea: her priesthood is the only major cult of religion B which accepts
+women, *but* they have only accepted women for the last hundred years or so.
+
+***** "Tom/Tomas" Tammuz-Hermaeus Mora-Charon
+
+"The divided god", divided into two major aspects: Tom, active during rainy &
+dry(?) seasons; and Tomas, active during winter.
+
+His priesthood and temples are also divided. One temple, split down the middle
+(the main hall of each temple, in which public worship occurs, always has a
+groove running down the middle representing the separation between the two
+halves; the primary statue or icon that usually stands at the end of this hall
+straddles this split). Two priesthoods which share these temples (though usually
+keep to their respective sides).
+
+Tom: God of male generativity, youth, vegetation, poetry, beauty(?) and love(?),
+god of topside, consort of Liz aspects?: poetry and love, topside
+
+Tomas: God of mysticism, magic, gateways and thresholds, seeing or finding that
+which is hidden, scrying, prophesy, ordeals and paths, the underground and
+depths aspects: gateways and thresholds, seeing and scrying, prophesy, the
+depths
+
+Both: god of intelligence. in Tom's case, extroverted intelligence - poetry,
+crafts, wit; in Tomas' case, introverted intelligence - book learning,
+cleverness and craftiness, magic.
+
+Both: life-death-rebirth
+Tom dies in dry season (the dry season is his slow death)
+dead, becomes Tomas, during winter season
+Tom is reborn at the start of rainy season
+the rain is Liz's tears of joy at her consort's return
+the heat and humidity is the heat and sweat of their lovemaking
+sowing seeds is symbolic of Tom's semen entering Liz' womb
+
+Both: The undertaker; accepts dead souls and guides them through the mystery of
+death to rebirth
+
+
+
+**** Other gods
+***** Night/Moon/Sun/Day quartet
+Goddess of the Sun - married to - God of the Day
+        |                             |
+    sibling to                     sibling to
+        |                             |
+   God of the Moon - married to - Goddess of the Night
+
+God of Day hates God of the Moon
+Goddess of the Night hates God of the Sun
+
+So once the Sun is full-bright, the Night cannot stand her and leaves, and the
+Moon follows her; and when the Moon is full-bright, the Day leaves, and the Sun
+follows him; and so the siblings Day and the Night, and Sun and Moon, never meet
+one another but briefly.
+
+They have family problems, in other words.
+
+These beliefs/patterns are remnants of a different and small folk religion /
+cult that also got absorbed during the revolution.
+
+***** God of the Ocean and of the Storm (Proteus - Poseidon - Charybdis)
+See myth of Proteus. ever-changing, shapeshifter, can foretell the future, but
+you have to catch him to get him to do this, and he shapeshifts to avoid being
+caught.
+
+A demon/asura with a physical existence on this plane.
+
+Patron of Lands' end at the eastern tip of Old Gurth
+
+***** Goddess of the Downtrodden (Ti Kuan Yin - Isis - Artemis - Virgin Mary)
+friend to slaves, sinners, and maidens
+goddess of compassion, mercy, pity, unconditional love, motherhood
+
+her symbol, a "lotus" (fungal? plant that flowers in underground pools where
+no-one can see it). her temples a place of shelter for beggars, for outcastes
+(literally), for orphans, for those with a grievance with authority, etc.
+
+
+*** MAJOR MYTHS
+
+TODO: write myth about what happens to souls when they die & are reborn
+
+passes from joe(judgement) to liz(execution) to tom/tomas(ordeal, mystery) to
+liz(womb, rebirth) to joe(blessing/instruction, instillment of soul into a body)
+
+TODO: write myth explaining why Tom dies during winter, which also explains the seasons
+
+
+*** HISTORY OF THE CHURCH
+**** 1000-800 years ago: THE CRUSADES AND THE REVOLUTION
+
+A thousand (or maybe just 800?) years ago, when Religion B had a strong central
+organization and had yet to merge with the animistic folk religion, it waged a
+series of Crusades to destroy all Reincarnation Machines. The early crusades
+went well, but the final Crusade ended in crushing defeat and religion B's
+central organizational structure was nearly destroyed.
+
+(Who were they fighting in the final Crusade? Maybe an external ethnic group
+that responded by invading them? *How were the traders involved?*)
+
+However, a small group of iconoclasts who had previously been suppressed by the
+church banded together and remade religion B after their own designs ("the
+revolution" TODO: catchier name. TODO: church internal history of this event -
+why, morally-religiously, did it happen?). It became a proselytising,
+evangelising, and syncretising religion; this was when it absorbed the animistic
+folk religion, and in doing so gained a broad base of popular support.
+
+However, the new movement was unable to come to agreement on key issues and
+splintered into many fractious factions (a power struggle among the
+iconoclasts?) rather than producing a new, unified, institution of the Church.
+Thus religion B gained longevity and broad strength at the expense of unity of
+vision and will.
+
+
+*** ETHICS
+**** EUNUCHS?
+**** NON-HETEROSEXUALITY
+
+TODO: what is the typical "conceptual model" that they have of sexual
+orientation? different cultures handle this differently. see eg. hijra, native
+american beliefs (two-spirit), third gender, etc.
+
+Major sects have no official position on non-heterosexuality. To the extent that
+{homo,bi,etc}-sexuality interferes with traditional family structure, it is
+generally discouraged; but in many places homo- and bi-sexuality are tolerated
+so long as they do not interfere with family structure.
+
+Bestiality is generally regarded as gross by city folk, but there are no laws
+against it.
+
+Sex with prepubescents is illegal. Females are considered sexually mature once
+they begin menstruating (~13 years? ~15 years?). Men are considered sexually
+mature at 15 years. Rites of passage probably depend on ethnic group?
+
+**** GENDERS, GENDER IDENTIFICATION AND TRANSGENDERISM
+???
+
+
+** RELIGION C
+
+Has sages, masters(, buddhas?, boddhisatvas?) instead of saints or elders.
+
+
+** RELIGION D
+
+Inspiration:
+- ethnicities: Gypsies/Romani, Jews, Berbers, Irish Travellers
+  http://en.wikipedia.org/wiki/Gypsy
+
+- religions: Judaism, Islam, Jainism/Ahimsa
+
+- ideas: tinkers, travelling performers, hedge wizards/witches
+  find work at funfairs in rainy/dry season and as savvyheads in winter
+  they travel during rainy/dry season, encamp (usually near a city or town) during winter
+
+TODO: better name than "travellers"
+TODO: name for "travelling group"
+
+A religion older than any reliable recorded history. Matriarchal, pacifistic,
+non-proselytising, strongly associated with particular ethnic group, the
+travellers.
+
+See religion E as a misled offshoot of themselves.
+
+Believe in one universal God, called the One, who is immanent in everything; in
+some sense, the world *is* the One (monism). All other Gods are faces of the
+One. Believe that death is in some sense return to the One, and that self-aware
+beings exist as a way for the One to examine itself. So they don't believe in
+reincarnation in the sense everyone else does, of recycling an immortal soul;
+but they do believe that in some sense we are immortal and endlessly recurring:
+birth is a separation (of sorts) from the One, to whom we return on death.
+
+They avoid using pronouns to refer to the One when talking with foreigners, but
+among themselves they refer to the One as a she.
+
+Believe that God originally created the world separate from itself to observe
+it. But then, realising that the world was full of suffering because of its
+separation from God, God entered into it and became One with it; hence the name
+"the One". In doing so the One became shattered into many parts and aspects,
+just as the world is shattered into many peoples; and this is why so many
+different gods are worshipped by different peoples; and yet God remained
+essentially One. (For this reason they occasionally call the One "the Shattered
+God"; other culture's gods are "faces of the Shattered God".)
+
+But the only people to recognize God's essential unity were the people of
+${FOUNDINGMOTHER} and ${FOUNDINGFATHER} (shared with religion E).
+
+Do not have a central organizing structure; each travelling group is led by a
+woman-man pair with twin responsibilities. (TODO: are they always a wife-husband
+pair? or is that unrelated?) The woman deals with religious matters and
+long-term planning, the man with everyday work and interactions with outsiders.
+This man is often perceived as the chief by outsiders, but is in fact
+technically subordinate to the woman matriarch (though they are generally
+treated as near-equals with separate but intersecting domains of power).
+
+Are strict pacifists; they will not fight, even to defend themselves. They do not eat meat.
+
+TODO: maybe only some of them take vows of nonviolence? not being able to defend yourself is pretty self-destructive in such an age.
+http://en.wikipedia.org/wiki/Ahimsa_in_Jainism#Laity_Practices_for_adherence_of_Ahi.E1.B9.83s.C4.81
+
+Their own histories, oral and written, go back tens of thousands of years, but
+they do not share them with outsiders. They are also fragmented, divided among
+their many travelling groups. They have stories of an ancient library which
+keeps a copy of all their histories, back in their homeland, but that is far,
+far away.
+
+Stories and histories are very important to them. They keep both written and
+oral histories. They realise that stories that are not written down are doomed
+to be lost eventually (except, of course, that the One will remember them, as
+She remembers everything), but also realise that if they were to write
+everything down they would soon have more than they could carry, more indeed
+than they could feasibly remember and re-tell. (They have a saying: "Some
+stories need to be forgotten so that new ones may be remembered.") Moreover,
+even written stories need to be orally retold and performed occasionally;
+otherwise they are merely dead literature, rather than a living memory.
+
+
+** RELIGION E
+
+A religion older than recorded history. Prevalent among the nomadic barbarians
+of the Northern Wastes, who are ethnically related to the travellers, and in the
+kingdoms beyond the Northern Wastes (about which very little is known in the
+Heartland region).
+
+Patriarchal, fairly aggressive. Not evangelising but their conquests are
+encouraged to convert to their religion to enjoy the full benefits of
+citizenship. The nomads who live near the Heartlands rarely conquer territory
+permanently, so this facet is rarely shown to Heartlanders.
+
+See religion D as an illegitimate offshoot of themselves. (TODO: What is their
+active relationship with people of religion D?)
+
+?? Believe in one God, believe all other gods are false idols.
+
+
+* PLOT HOOK
+
+Broken reincarnation machine, some king or religious order ask party to recover
+parts from ancient ruin. But in ruins, find a _functioning_ reincarnation
+machine being exploited by a "lich" (by which I mean just a person achieving
+immortality through perpetual reincarnation).
+
+Want to present moral dilemma of some sort. Maybe what to do with the machine?
+But what's the alternative to giving it to the king/monks?
+
+- Maybe they go in not knowing that the parts they're looking for are part of a
+  reincarnation machine.
+
+  - This makes the items extremely valuable, which they didn't know.
+
+  - Reincarnation is morally contentious in Forthyr; have them write up their
+    character's moral opinions on reincarnation before session. (It's a divisive
+    issue!)
+
+- Leaving it with the lich? But why? Is lich sympathetic? What are his/her goals?
+
+- Maybe they learn something important about it, that makes dubious the morality of the king's/monks' use of it? Or makes it obviously useful/valuable for the party?
