@@ -19,8 +19,9 @@ Our Sun and Moon do not hang distantly revolving in the sky; each sits in a defi
 <!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
 
 <!-- TODO: "blinding white" isn't a perfect phrase -->
+<!-- TODO: "lain dormant"? "having lain dormant"? -->
 
-Day begins when the Sun, having lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, almost the strength of a full moon on Earth.
+Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, almost the strength of a full moon on Earth.
 
 Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
 
@@ -44,7 +45,9 @@ After the monsoons comes the dry season. The rains slowly taper off and the air 
 
 <!-- TODO: need sentence or phrase on effect of Pelluin's flowing on nearby cultivation and kingdoms etc. -->
 
-After the dry season comes Winter. The dust storms end, the heat slowly fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows and snows and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody spends Winter above ground and survives.
+<!-- TODO: fix "as if in knowledge" awkwardness -->
+
+After the dry season comes Winter. The dust storms end, the heat slowly fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
 
 During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in tiny caves painstakingly hollowed out by shovel and pick, generation by generation.
 
@@ -106,13 +109,13 @@ I will note in passing that Forthyr is home to many ethnicities; save the pale b
 
 ### 2. Dwarves
 
-Humans live underground when they have to. Dwarves live underground because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; and they have divined the operation of many ancient artifacts, although they are not quite as prodigious in this regard as human savvyheads.
+Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
 
 They are also short and bearded, in case you were wondering.
 
 They are not, however, greedy for gold or jewels; neither are they of particularly warlike demeanor; nor are they honor-bound to a fault, save in the matter of Dwarven Secrets; they do not have a long-running feud with a race of elf-like beings, as indeed there are no such beings on Forthyr; and they certainly do not speak in a Scottish accent.
 
-So much for your Dwarven stereotypes.
+So much for Dwarven stereotypes.
 
 <!-- what do dwarves trade FOR? what do they value that humans can make?
 
@@ -121,9 +124,10 @@ well, they'll certainly trade for interesting ancient tech. is that all?
 
 <!-- TODO -->
 
-Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; <!-- TODO -->
+Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? --> 
+We have myths and folk-tales about all of these things, of course, but they vary inconsistently from region to region and teller to teller.
 
-For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk theory is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
+For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk tale is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
 
 Dwarves have certainly been observed to form strong individual bonds, some of them so close and lasting as to appear marriages, but whether these are truly romantic relationships or merely companionate ones is anyone's guess.
 
@@ -141,9 +145,29 @@ I like the second one. -->
 
 It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
+<!-- FIXME: this is a joke -->
+
+<center><strong style="font-family: Courier, monospace">[REDACTED]</strong></center>
+
 ### 3. The Traders
 
-The Traders are a mysterious folk.
+<!-- They are called Traders because that is what they do, and it is only because they trade that we know anything about them at all. Otherwise their existence is entirely obscure, to humanity at least—if the Dwarves know anything about them, they're not telling. -->
+
+The Traders are a mysterious folk, more secretive even than Dwarves. They are called Traders because that is the one thing that we know them to do. We do not even know if they need to sleep, eat, breathe, or excrete.
+
+They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips.
+
+Beneath all these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
+
+<!-- TODO: and what of their eyes? -->
+
+<!-- They dress head to toe in bright-colored cloths. -->
+
+<!-- An Earther might say Traders look like Touaregs wearing gas masks and wetsuits. To me, Touaregs look like Traders with human faces and bodies. -->
+
+<!-- You might say they look like Touaregs wearing gas masks and wetsuits. Of course, that is an Earthen way of seeing it. To me, Touaregs look like Traders with human faces and bodies. -->
+
+<!-- Underneath that, however, is a substance I now recognize as rubber, or something like it. Not a scrap of skin shows beneath it. -->
 
 ### 4. Other species
 
@@ -158,6 +182,12 @@ The goblins were a peculiar race, extinct now for about three hundred years. The
 #### Kobolds
 
 Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
+
+<!-- Kobold traps are particularly devious because they often incorporate ancient artifacts; kobolds have a savvyhead-like affinity for such devices. -->
+
+<!-- Kobolds are also known for tinkering, savvyhead-like, with ancient artifacts, often incorporating them into traps. -->
+
+<!-- Kobolds are also known for a savvyhead-like proficiency in tinkering with ancient artifacts, which often shows in their traps. -->
 
 <!-- TODO: expand on kobolds -->
 
