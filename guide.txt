@@ -1,8 +1,9 @@
 title: An Earther's Guide to the World
+style: /forthyr/guide-style.css
 ...
 
 
-## I. Skies
+## <span class="heading-number">I.</span> Skies
 
 Where can I even begin?
 
@@ -33,7 +34,7 @@ From this constant we find our bearings. There are no compasses on Forthyr; day 
 <!-- TODO: finishing paragraph -->
 
 
-## II. Seasons
+## <span class="heading-number">II.</span> Seasons
 
 There are three seasons on Forthyr: the monsoons, the dry season, and Winter.
 
@@ -96,7 +97,7 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years. <!-- should "gremlins" be "kobolds" instead? -->
 
-### 1. Humans
+### 1 Humans
 
 I am human, and this guide is written from a human perspective. When I say "we" or "us" or "our", I speak of humanity, as it exists on Forthyr and other continents of our World. When I say "you" or "yours", I mean the humans of Earth. As far as can be determined, we and you are of the same species. This is somewhat surprising. It does, however, save me the trouble of explaining your own species to you.
 
@@ -107,7 +108,7 @@ I will note in passing that Forthyr is home to many ethnicities; save the pale b
 
 <!-- TODO: para explaining why we don't live underground all year? -->
 
-### 2. Dwarves
+### 2 Dwarves
 
 Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
 
@@ -141,7 +142,7 @@ two options:
 
 I like the second one. -->
 
-#### Dwarven Secrets
+#### 2.1 Dwarven Secrets
 
 It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
@@ -149,7 +150,7 @@ It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
 <center><strong style="font-family: Courier, monospace">[REDACTED]</strong></center>
 
-### 3. The Traders
+### 3 The Traders
 
 <!-- They are called Traders because that is what they do, and it is only because they trade that we know anything about them at all. Otherwise their existence is entirely obscure, to humanity at least—if the Dwarves know anything about them, they're not telling. -->
 
@@ -169,17 +170,17 @@ Beneath all these clothes, they are covered in the same black substance their mo
 
 <!-- Underneath that, however, is a substance I now recognize as rubber, or something like it. Not a scrap of skin shows beneath it. -->
 
-### 4. Other species
+### 4 Other species
 
-#### Orcs
-I do not know much about orcs. They live on the other side of the Moon Mountains, where also dwell the Moonward tribes. To my knowledge they are much like humans in stature and intelligence, and much like the tribesfolk in technology and social structure. But they are said to be of a brawnier build than humans and have strange features (some say they have tusks, others say they have horns, yet others suggest a third eye). I have never met one; it is possible they are merely an unusual race of humans and the stories about them are exaggerations.
+#### 4.1 Orcs
+I do not know much about orcs. They live on the other side of the Moon Mountains, where also dwell the Moonward tribes. To my knowledge they are much like humans in stature and intelligence, and much like the tribesfolk in technology and social structure. But they are said to be of a brawnier build than humans and have strange features (tusks, horns, a third eye; accounts differ on the details). I have never met one; it is possible they are merely an unusual race of humans and the stories about them are exaggerations.
 
-#### Goblins
+#### 4.2 Goblins
 The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
 
 <!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
 
-#### Kobolds
+#### 4.3 Kobolds
 
 Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
 
@@ -191,7 +192,7 @@ Clever creatures that live in ancient ruins and lay traps for unwary treasure-hu
 
 <!-- TODO: expand on kobolds -->
 
-#### Others
+#### 4.4 Others
 
 <!-- TODO -->
 
@@ -207,7 +208,35 @@ Our world is littered with the remains of an ancient civilisation, one evidently
 
 ## V. Religions
 
-Religion is a major force on Forthyr.
+Religion is a major force on Forthyr; the two largest religions, the Church and the Faith, are more powerful than most kingdoms.
+
+### 1 The Church
+
+#### 1.1 The Caste System
+
+#### 1.2 The Pantheon
+##### 1.2.1 The Cult of Joe
+The Cult of Joe is lorem ipsum dolor sit amet yadda blah this that and the other fuds
+##### 1.2.2 The Cult of Liz
+##### 1.2.3 The Cult of Tom
+
+##### 1.6 The Southern Church
+#### 1.7 The History of the Crusades
+#### 1.8 The Divine History of the Devas and Asuras
+
+### 2 The Faith
+
+### 3 The Way
+
+### 4 The Tradition of the Travellers
+
+#### 4.1 The Tradition of the Northern Barbarians
+
+### 6 Others
+
+#### The Quartet of the Sky
+
+#### The Sky-and-Earth Worshippers
 
 
 ## X. Aside
