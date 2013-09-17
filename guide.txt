@@ -109,7 +109,7 @@ I will note in passing that Forthyr is home to many ethnicities; save the pale b
 
 ### <span class="num">2</span> Dwarves
 
-Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
+Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all manners of crafting and artifice, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
 
 They are also short and bearded, in case you were wondering.
 
@@ -192,7 +192,7 @@ The goblins were a peculiar race, extinct now for about three hundred years. The
 
 #### <span class="num">4.4</span> Others
 
-There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton, they say, that proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from oxen or mammoths.
+There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton, they say, that proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from wraxen or mammoths.
 
 There are regions of Forthyr so isolated, unexplored or impenetrable that strange intelligences could easily lurk in them all but unknown to the outside world: far within the Fungal Forest, or in the darkest depths of the Great Chasm, or beneath the Hill-Mazes of Zoth, or some lonely spot on the far side of the Desolate Isle. But most monster tales talk not of such exotic places, but of trolls lurking beneath bridges, or ratmen hiding in caverns just a secret passage away from the well-trodden tunnels of commerce; and it seems to me that if intelligent species were to be found in such pedestrian locations, we would surely know more of them than old wives' tales by now.
 
@@ -203,9 +203,27 @@ There are regions of Forthyr so isolated, unexplored or impenetrable that strang
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
-Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours.
+Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Many, perhaps most, of our cities and enclaves are but repurposed ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->. <!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
 
-<!-- Apparently they were not advanced enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
+<!-- built on the bones of some ancient bunker
+
+No memory or record survives of the time when whoever or whatever created and used the
+
+Apparently even the ancients were not powerful enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
+
+### <span class="num">1</span> The Reincarnation Machines
+
+Of all the technological relics left behind by the ancients, without doubt the most significant are the Reincarnation Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
+
+These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Reincarnation Machines. The Exarchs are rulers who use the Machines to achieve immortal kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone who, by secrecy, sorcery, or trickery, still manages to possess and use a Reincarnation Machine, is called a Lich.
+
+The Reincarnation Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said he set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
+
+<!-- Third, liches, a catch-all category for someone is neither a ruler nor an Arhist Elder, but still manages to keep their machine, usually by a combination of secrecy and sorcery.
+
+Those with enough power to possess and use them are called exarchs, immortal rulers. -->
+
+### <span class="num">2</span> Savvyheads
 
 
 ## <span class="num">V</span> Religions
