@@ -1,5 +1,4 @@
 title: An Earther's Guide to the World
-style: /forthyr/guide-style.css
 ...
 
 
@@ -176,7 +175,7 @@ I do not know much about orcs. They live on the other side of the Moon Mountains
 
 #### <span class="num">4.2</span> Kobolds
 
-Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
+Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
 
 #### <span class="num">4.3</span> Goblins
 The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
@@ -260,6 +259,30 @@ The last time the Church of the Devout was united under one leadership, Forthyr 
 
 ### <span class="num">2</span> Arhism
 
+The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago, and first made contact with native Forthyrians in Freeport. They became for a few decades an itinerant people, selling their labor and preaching on the side, until by chance the king of a small country took an interest, and eventually converted wholeheartedly to Arhism.  From this meagre foothold they grew rapidly to become the second most powerful religion in central Forthyr, converting significant portions of the Lowlands, establishing minor presence in the Northern Heartlands, and outright conquering Sunward Himlas, which is now the center and capital of their religious empire.
+
+The Arhists do not believe in a god or gods. They believe instead the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
+
+Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but coalesces in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and imperfection. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
+
+The Arhists have a very different view of reincarnation machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death is a servant of Kamma, ever seeking to destroy the progress we achieve in our lifetimes.
+
+<!-- TODO: how do they see the sacrifices needed to run the Machines? -->
+
+Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone of spiritual significance is either an Elder, one whose life is to be preserved forever by the reincarnation machines, or a Martyr, who would be an Elder but that their life was cut tragically short before they could achieve their full potential.
+
+<!-- TODO: this view wins them appeal among kings seeking to become exarchs -->
+
+#### <span class="num">2.1</span> The History of Arhism
+
+The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a different continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
+
+The Desolate Isle was then and remains uninhabited, save for the caves off the coast of Freeport; so the group did not make contact with any native Forthyrians. They occupied the ancient ruin of Sangraha. A group of about fifty left, however, disobeying their elders' commands for fear that the island was too infertile and the remaining time too short to grow enough food to sustain them through Winter. They were right; fully two-thirds of those who remained perished in the coming Winter. For this reason Sangraha is known to Arhists as "The Martyred City".
+
+The fifty who left found safe haven and passage to the mainland at Freeport. A small temple still stands there dedicated to their memory. Foresighted though they were, they are called the Unfaithful and considered cowards in official Arhist history.
+
+Once Winter ended, the Unfaithful returned to find what had become of their brethren. They guided the few hundred survivors to Freeport, but it 
+
 <!--
 The Faithful of Arha.
 One who strives toward Arha. A Striver. Of the Faithful.
@@ -285,7 +308,7 @@ A group of Travellers is called a Cord. No two Cords are entirely alike; each ha
 
 Traveller culture values stories highly. Each Cord keeps its own library as well as maintaining an oral tradition. The Travellers believe a story is only truly alive so long as it has tellers. If they write down a story, they are committed to telling it again and again, or else they will have wasted parchment on a dead story. So they write down only the important stories, the ones they will always tell; and the less important stories are passed down by mouth.
 
-The Travellers are vegetarians and pacifists, avoiding the use of force unless absolutely necessary. Because of this they are often taken advantage of by outsiders. <!-- how do they deal with this? perhaps it's taboo to fuck with Travellers? -->
+The Travellers are vegetarians and pacifists, avoiding the use of force unless absolutely necessary. As they provide valuable services and entertainment, however, fighting with or taking advantage of Travellers is taboo among Heartlanders. This taboo is often justified via a superstition that claims the Travellers are protected by a magical Covenant that curses any who mistreat them. This taboo does not translate into personal respect or hospitality, however. Travellers dealing with Heartlanders experience a unique mixture of eagerness and admiration for their tinkering and performing skills, fearful respect of their Covenant, and suspicion of them as outsiders and infidels.
 
 <!-- Like the Northern Barbarians they are related to, they often have light-colored hair and eyes; subtler differences of facial structure also -->
 
@@ -344,7 +367,7 @@ Across the Tall Mountains are the Southern Kingdoms. The Tall Mountains live up 
 
 South-Sunward across the Short Mountains is Chengusa, a large kingdom with intensely insular, xenophobic tendencies and relatively advanced technology. In particular, they possess primitive firearms. In spite of their xenophobia, they are rumoured to enjoy good relations with the Dwarves, which may explain where their technology comes from.
 
-Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an unnavigable and uncharted tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
+Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an  uncharted and unnavigable tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
 
 At the Sunward edge of the Lowlands lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the mythical First Exarch.
 
@@ -352,19 +375,19 @@ Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zo
 
 #### <span class="num">6.1</span> Peχavn
 
-South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. Peχavn is ruled by an exarch, who has no name she cares to divulge, who is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
+South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. The exarch of Peχavn, who has no name she cares to divulge, is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
 
-The Wizard of Peχavn has never been defeated in a duel, and her forces have never been defeated in battle. Plots to destroy her reincarnation machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her have ended in the deaths of the plotters from the very poison they planned to use. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She was the only one to return alive; whether she succeeded or failed is known only to her.
+The Wizard of Peχavn has never been defeated in a duel, and her forces have never been defeated in battle. Plots to destroy her reincarnation machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her typically end when the plotters die of their own poison. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her.
 
-When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist's Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
+When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
 
-Among students at the University of Roke, the question of whether the Wizard of Peχavn could steal a Dwarven Secret and survive is roughly the equivalent of the Earther dilemma regarding what happens when an unstoppable force meets an immovable object.
+Among students at the University of Roke, the question of whether the Wizard of Peχavn could steal a Dwarven Secret and survive is roughly equivalent to the Earther dilemma regarding what happens when an unstoppable force meets an immovable object.
 
-##### <span class="num">6.1.2</span> The name Peχavn
+##### <span class="num">6.1.1</span> The name Peχavn
 
 "Peχavn" is strangely spelled, I realize. But it is the best rendering I can give of the name of her realm. It is pronounced "PECH-av-in", with "ch" sounding as in the Scottish "loch". I use the Greek letter Chi (χ) rather than "ch" or "x" to indicate that the name Peχavn as rendered in our writing contains a glyph not found in the Sikandan syllabary, which is the common script of central Forthyr. This glyph is similar but not identical to one in our syllabary, as Greek "χ" is to the Latin "x".
 
-One may wonder why we use this glyph at all, if it occurs in only one name and has a ready substitute. We do not simply write "Pexavn" because there is, according to superstition, a curse on the name Peχavn that descends upon those who inscribe it incorrectly. This superstition is backed up by numerous tales of the fate of those who violated it, some of them quite recent. The reputed effects of the curse vary wildly. One recipient choked to death on her own vomit. Another found that wherever he travelled, the monsoons failed to fall; he was eventually hung by angry villagers. Another became irresistibly attractive to fungus hogs for the rest of his life.
+One may wonder why we use this glyph at all, if it occurs in only one name and has a ready substitute. We do not simply write "Pexavn" because there is, according to superstition, a curse on the name Peχavn that descends upon those who inscribe it incorrectly. This superstition is backed up by numerous tales of the fate of those who violated it, some of them quite recent. The reputed effects of the curse vary wildly. One recipient vomited up feces, then choked to death on it. Another found that wherever he travelled, the monsoons failed to fall; he was eventually hung by angry villagers. Another became irresistibly attractive to fungus hogs for the rest of his life.
 
 
 ## <span class="num">X</span> Aside
