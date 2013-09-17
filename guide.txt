@@ -3,7 +3,7 @@ style: /forthyr/guide-style.css
 ...
 
 
-## <span class="heading-number">I.</span> Skies
+## <span class="num">I</span> Skies
 
 Where can I even begin?
 
@@ -34,7 +34,7 @@ From this constant we find our bearings. There are no compasses on Forthyr; day 
 <!-- TODO: finishing paragraph -->
 
 
-## <span class="heading-number">II.</span> Seasons
+## <span class="num">II</span> Seasons
 
 There are three seasons on Forthyr: the monsoons, the dry season, and Winter.
 
@@ -48,13 +48,13 @@ After the monsoons comes the dry season. The rains slowly taper off and the air 
 
 <!-- TODO: fix "as if in knowledge" awkwardness -->
 
-After the dry season comes Winter. The dust storms end, the heat slowly fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
+After the dry season comes Winter. The dust storms end, the heat fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
 
 During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in tiny caves painstakingly hollowed out by shovel and pick, generation by generation.
 
 <!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
 
-Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; sometimes Winter arrives on time, but doesn't leave when you expect it to.
+Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; and all too often Winter arrives on time, but doesn't leave when you expect it to.
 
 Forgive me if I make our world sound harsh, if I make our lives sound hard. Forgive me if I sound bitter. But our world is harsh, and our lives are hard. My friends and family, and all those many others who still live in Forthyr, would not say it is so; but that is only because they have nothing else to compare it with. And that is why I am bitter.
 
@@ -93,11 +93,11 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 -->
 
 
-## III. Peoples
+## <span class="num">III</span> Peoples
 
 The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years. <!-- should "gremlins" be "kobolds" instead? -->
 
-### 1 Humans
+### <span class="num">1</span> Humans
 
 I am human, and this guide is written from a human perspective. When I say "we" or "us" or "our", I speak of humanity, as it exists on Forthyr and other continents of our World. When I say "you" or "yours", I mean the humans of Earth. As far as can be determined, we and you are of the same species. This is somewhat surprising. It does, however, save me the trouble of explaining your own species to you.
 
@@ -108,7 +108,7 @@ I will note in passing that Forthyr is home to many ethnicities; save the pale b
 
 <!-- TODO: para explaining why we don't live underground all year? -->
 
-### 2 Dwarves
+### <span class="num">2</span> Dwarves
 
 Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all forms of craftsmanship, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
 
@@ -125,10 +125,10 @@ well, they'll certainly trade for interesting ancient tech. is that all?
 
 <!-- TODO -->
 
-Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? --> 
+Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? -->
 We have myths and folk-tales about all of these things, of course, but they vary inconsistently from region to region and teller to teller.
 
-For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk tale is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
+For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk theory is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
 
 Dwarves have certainly been observed to form strong individual bonds, some of them so close and lasting as to appear marriages, but whether these are truly romantic relationships or merely companionate ones is anyone's guess.
 
@@ -142,7 +142,7 @@ two options:
 
 I like the second one. -->
 
-#### 2.1 Dwarven Secrets
+#### <span class="num">2.1</span> Dwarven Secrets
 
 It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
@@ -150,7 +150,7 @@ It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
 <center><strong style="font-family: Courier, monospace">[REDACTED]</strong></center>
 
-### 3 The Traders
+### <span class="num">3</span> The Traders
 
 <!-- They are called Traders because that is what they do, and it is only because they trade that we know anything about them at all. Otherwise their existence is entirely obscure, to humanity at least—if the Dwarves know anything about them, they're not telling. -->
 
@@ -158,9 +158,10 @@ The Traders are a mysterious folk, more secretive even than Dwarves. They are ca
 
 They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips.
 
-Beneath all these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
+Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
 
 <!-- TODO: and what of their eyes? -->
+<!-- TODO: and what do they trade for? -->
 
 <!-- They dress head to toe in bright-colored cloths. -->
 
@@ -168,21 +169,19 @@ Beneath all these clothes, they are covered in the same black substance their mo
 
 <!-- You might say they look like Touaregs wearing gas masks and wetsuits. Of course, that is an Earthen way of seeing it. To me, Touaregs look like Traders with human faces and bodies. -->
 
-<!-- Underneath that, however, is a substance I now recognize as rubber, or something like it. Not a scrap of skin shows beneath it. -->
+### <span class="num">4</span> Other species
 
-### 4 Other species
+#### <span class="num">4.1</span> Orcs
+I do not know much about orcs. They live on the other side of the Moon Mountains, where also dwell the Moonward tribes. To my knowledge they are much like humans in stature and intelligence, and much like the tribesfolk in technology and social structure. But they are said to be of a brawnier build than humans and have strange features (tusks, horns, a third eye; accounts differ). I have never met one; it is possible they are merely an unusual race of humans and the stories about them are exaggerations.
 
-#### 4.1 Orcs
-I do not know much about orcs. They live on the other side of the Moon Mountains, where also dwell the Moonward tribes. To my knowledge they are much like humans in stature and intelligence, and much like the tribesfolk in technology and social structure. But they are said to be of a brawnier build than humans and have strange features (tusks, horns, a third eye; accounts differ on the details). I have never met one; it is possible they are merely an unusual race of humans and the stories about them are exaggerations.
+#### <span class="num">4.2</span> Kobolds
 
-#### 4.2 Goblins
+Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
+
+#### <span class="num">4.3</span> Goblins
 The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
 
 <!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
-
-#### 4.3 Kobolds
-
-Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also partly as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
 
 <!-- Kobold traps are particularly devious because they often incorporate ancient artifacts; kobolds have a savvyhead-like affinity for such devices. -->
 
@@ -192,12 +191,16 @@ Clever creatures that live in ancient ruins and lay traps for unwary treasure-hu
 
 <!-- TODO: expand on kobolds -->
 
-#### 4.4 Others
+#### <span class="num">4.4</span> Others
+
+There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton, they say, that proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from oxen or mammoths.
+
+There are regions of Forthyr so isolated, unexplored or impenetrable that strange intelligences could easily lurk in them all but unknown to the outside world: far within the Fungal Forest, or in the darkest depths of the Great Chasm, or beneath the Hill-Mazes of Zoth, or some lonely spot on the far side of the Desolate Isle. But most monster tales talk not of such exotic places, but of trolls lurking beneath bridges, or ratmen hiding in caverns just a secret passage away from the well-trodden tunnels of commerce; and it seems to me that if intelligent species were to be found in such pedestrian locations, we would surely know more of them than old wives' tales by now.
 
 <!-- TODO -->
 
 
-## IV. The Ancient World
+## <span class="num">IV</span> The Ancient World
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
@@ -206,40 +209,165 @@ Our world is littered with the remains of an ancient civilisation, one evidently
 <!-- Apparently they were not advanced enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
 
 
-## V. Religions
+## <span class="num">V</span> Religions
 
-Religion is a major force on Forthyr; the two largest religions, the Church and the Faith, are more powerful than most kingdoms.
+Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is godless—introduced by newcomers from across the ocean.
 
-### 1 The Church
+### <span class="num">1</span> The Church of the Devout
 
-#### 1.1 The Caste System
+The Church of the Devout is a splintered, many-faceted thing. I here describe it as it exists in the Heartlands of Forthyr, the region I am most familiar with. Even so it is more a group of related religious traditions than a unified church.
 
-#### 1.2 The Pantheon
-##### 1.2.1 The Cult of Joe
+There are two primary ways in which it is divided. First, it is split into many competing Cults, each worshipping a particular god or goddess, each with its own priesthood and institutional structure. Second, there is a distinction between High Church and Low Church; the former is the collection of beliefs and rituals practiced by nobility and upper priesthood, the latter those practiced by the commonfolk and local pastors.
+
+<!-- #### <span class="num">1.1</span> Core Beliefs -->
+
+If you ask the Cult priests what the essence of the Church is, they will speak of the pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest.
+
+But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention; and of the caste system that is justified by reincarnation—as the Church sees it.
+
+<!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
+
+#### <span class="num">1.1</span> Reincarnation
+
+Although almost all Forthyrian religions, and all Cults of the Church, believe in reincarnation, they disagree on its significance and moral nature. What is agreed upon among all the Cults is that when a person is born they are born into a specific
+
+<!-- fate -->
+
+<!-- TODO: put this in an appendix
+##### <span class="num">1.1.1</span> The Tomasian Account
+
+Of the major cults of the Heartlands, the Cult of Tomas most emphasizes the ladder of reincarnation, and has constructed the most detailed account of its workings. In case the reader should be interested, I relate their account here.
+-->
+
+#### <span class="num">1.2</span> The Caste System
+
+#### <span class="num">1.3</span> The Pantheon
+
+##### <span class="num">1.3.1</span> The Cult of Joe
 The Cult of Joe is lorem ipsum dolor sit amet yadda blah this that and the other fuds
-##### 1.2.2 The Cult of Liz
-##### 1.2.3 The Cult of Tom
+##### <span class="num">1.3.2</span> The Cult of Liz
+##### <span class="num">1.3.3</span> The Cult of Tom and Tomas
 
-##### 1.6 The Southern Church
-#### 1.7 The History of the Crusades
-#### 1.8 The Divine History of the Devas and Asuras
+#### <span class="num">1.4</span> The History of the Church
 
-### 2 The Faith
+<!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
-### 3 The Way
+The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the exarchs and destroyed their reincarnation machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
 
-### 4 The Tradition of the Travellers
+#### <span class="num">1.5</span> The Southern Church
 
-#### 4.1 The Tradition of the Northern Barbarians
+#### <span class="num">1.6</span> The Divine History of the Devas and Asuras
 
-### 6 Others
+### <span class="num">2</span> Arhism
 
-#### The Quartet of the Sky
+<!--
+The Faithful of Arha.
+One who strives toward Arha. A Striver. Of the Faithful.
 
-#### The Sky-and-Earth Worshippers
+Araha Aurha Aura
+Kamma -->
+
+### <span class="num">3</span> The Seekers of the Way
+
+The Devout of the Church believe in living according to one's fated place, come good or ill. The Strivers toward Arha believe in fostering progress in society, bringing it closer to Arha. A Seeker of the Way cares not for fate or for progress, but seeks personal enlightenment above all else.
+
+The Devout and the Strivers, for all their differences, both view the cycle of reincarnation as something like a ladder to be climbed, a path toward perfection so long it spans many lifetimes. To a Seeker of the Way, reincarnation is a distraction to be escaped, an illusion to be pierced.
+
+The Devic Cults and Arhism both seek popular support and political power; for the past five hundred years they have struggled for dominance, sought to convert each other's believers and gain the ears of kings. The Way can barely be said to be an organized religion, and does not seek power or proselytize, though individual Seekers may seek power or followers for their own ends.
+
+<!-- indeed, would-be Seekers are often hard-pressed to find a master to instruct them -->
+
+### <span class="num">4</span> The Tradition of the Travellers
+
+The Travellers migrated into the Heartlands from out of the Northern Wastes, some eight hundred years ago. They have not mixed with the native Heartlanders, and preserve their own peculiar religion, culture, and language. They live in wandering bands, as their name suggests, and make their living as performers, tinkers, traders, doers of odd-jobs, and occasional treasure-hunters.
+
+A group of Travellers is called a Cord. No two Cords are entirely alike; each has its own peculiar way of making decisions, its own traditions and stories, its own interpretation of their common religion. Usually, but not always, a Cord consists of several extended families. Almost all Cords are matriarchal, but they may be led by a single Cord Mother, or by a counsel of matriarchs; leadership may be inherited, or passed down by choice. Votes of all adult Cordmembers (or of all women Cordmembers, or of Cordmembers with children; the criteria vary) are often taken for important decisions, but some small Cords vote on almost all decisions.
+
+Traveller culture values stories highly. Each Cord keeps its own library as well as maintaining an oral tradition. The Travellers believe a story is only truly alive so long as it has tellers. If they write down a story, they are committed to telling it again and again, or else they will have wasted parchment on a dead story. So they write down only the important stories, the ones they will always tell; and the less important stories are passed down by mouth.
+
+The Travellers are vegetarians and pacifists, avoiding the use of force unless absolutely necessary. Because of this they are often taken advantage of by outsiders. <!-- how do they deal with this? perhaps it's taboo to fuck with Travellers? -->
+
+<!-- Like the Northern Barbarians they are related to, they often have light-colored hair and eyes; subtler differences of facial structure also -->
+
+#### <span class="num">4.1</span> The Shattered God
+
+The Travellers believe in one universal God, who they call the One, who is immanent in everything; in some sense, the world *is* the One. All other Gods, they say, are but faces of the One.
+
+#### <span class="num">4.2</span> The Northern Barbarians
+
+### <span class="num">5</span> Others
+
+#### <span class="num">5.1</span> The Quartet of the Sky
+
+#### <span class="num">5.2</span> The Sky-and-Earth Worshippers
 
 
-## X. Aside
+## <span class="num">VI</span> Geography
+
+<!-- TODO: a fucking map -->
+
+### <span class="num">1</span> The Heartlands and Lowlands
+
+<!-- TODO: describe how Heartlands are comparative bastion of Devout faith -->
+<!-- TODO: more description of Heartlands and Lowlands independent of each other -->
+
+Forthyr is a large continent; we know the shape it makes on the sky, but we do not know what sorts of peoples dwell at its far limits. By "we" I refer to the dwellers of the Heartlands, a region lying more or less at the center of Forthyr, and my homeland.
+
+The Heartlands are mountainous, but well-populated, for the underground tunnel system is dense here and the land fertile. Only the Lowlands, which lie in the verdant valley of the great river Pelluin as it runs Sunwards to the sea, are more populous. The Heartlands and Lowlands are separated by the Great Chasm, a canyon so deep the bottom lies in permanent shadow. It is perhaps a kilometer wide. Its depth is unknown, and its bottom has never been reached. No river carved it, for it does not reach the sea; besides, it runs too straight and its walls are too sheer to have formed naturally. It is generally believed to be the relic of some ancient disaster.
+
+<!-- TODO: convey how bad going around either end of it is compared to the Gap
+TODO: make the description of Pelluin waterfall convey scale better? -->
+
+No human-made bridge spans the Chasm, and no tunnel runs under it. There are three ways past it: go around its North end in Himlas; go around its South end, in xenophobic Chengusa; or cross the Gap. The Gap lies at the center of the Chasm's North-South run. It is a pair of apparently natural stone bridges. One bridge runs between two underground tunnels on each side of the Chasm. The other carries the Pelluin from where it waterfalls over the Moonward side to an underground aqueduct on the Sunward side, from which it eventually springs forth onto the surface.
+
+The Heartlands are bounded to Sunwards by the Chasm, and otherwise are ringed by mountain ranges: to the North, the Himlas Mountains; to the Moonward, the Moon Mountains; to the South, the Tall Mountains; and to the South-Sunwards the Short Mountains. It should be noted that the Short Mountains are "short" only in comparison with the Tall mountains; they are the Alps to the Tall Mountains' Himalayas.
+
+### <span class="num">2</span> Himlas
+
+Himlas lies North of the Heartlands, across the same-named mountains. It is a broad flat land, comparatively barren and sparsely inhabited, for the dry season begins early there. It is divided by a small mountain range, the Lorheins, into Sunward and Moonward Himlas. These were once united under the Torvil Dynasty, a religious empire with its own peculiar interpretation of the Church of the Devout. Sunward Himlas fell to the Arhists four hundred years ago. The remains of the Dynasty hold most of the smaller Moonward Himlas, clinging desperately to a century-old stalemate line. "Dynasty" is now a misnomer, as the country is ruled by regents since the last Torvil heir disappeared centuries ago.
+
+### <span class="num">3</span> The Northern Wastes
+
+Moonwards of Himlas, North-Moonwards of the Heartlands, are the Northern Wastes. They are more barren than Himlas, and permanently inhabited only by a few scattered tribes, but when the monsoons come the nomadic Northern Barbarians migrate into the Wastes, raiding the villagers and living off the land. Occasionally a particularly greedy barbarian warlord crosses the Horned Pass to attack the Heartlands, aiming to carve out a new kingdom. This rarely succeeds, but is always bloody.
+
+The Wastes are bounded Sunward and Moonward by the sea, forming a wide isthmus. The barbarians, when they can be convinced to talk at all, tell of a grand empire beyond the Wastes, from which they are either exiles or emissaries. The Travellers, who came out of the Northern Wastes and share many of the barbarian's ethnic features, have similar histories (which they are similarly reluctant to tell to outsiders). <!-- TODO: more? -->
+
+### <span class="num">4</span> The Tribelands
+
+Beyond the Moon Mountains lie the Tribelands. <!-- TODO -->
+
+### <span class="num">5</span> The Southern Kingdoms
+
+Across the Tall Mountains are the Southern Kingdoms. The Tall Mountains live up to their name; moreover, there are not many underground passages through them. Consequently the Heartland and the Southern Kingdoms have little contact. The Southern Kingdoms are a bastion for the Church of the Devout, and were less affected by the Reformation than the Heartlands. <!-- They are rich in good (WHAT?) -->
+
+### <span class="num">6</span> The Sunward Lands
+
+South-Sunward across the Short Mountains is Chengusa, a large kingdom with intensely insular, xenophobic tendencies and relatively advanced technology. In particular, they possess primitive firearms. In spite of their xenophobia, they are rumoured to enjoy good relations with the Dwarves, which may explain where their technology comes from.
+
+Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an unnavigable and uncharted tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
+
+At the Sunward edge of the Lowlands lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the mythical First Exarch.
+
+Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zoth to the South-Moonward, and Fennimore to the South-Sunward, is Nobody Land. Although it is fertile and has a good climate, there are no underground caverns or tunnels in Nobody Land, nowhere to hide when Winter comes, and so nobody lives there.
+
+#### <span class="num">6.1</span> Peχavn
+
+South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. Peχavn is ruled by an exarch, who has no name she cares to divulge, who is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
+
+The Wizard of Peχavn has never been defeated in a duel, and her forces have never been defeated in battle. Plots to destroy her reincarnation machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her have ended in the deaths of the plotters from the very poison they planned to use. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She was the only one to return alive; whether she succeeded or failed is known only to her.
+
+When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist's Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
+
+Among students at the University of Roke, the question of whether the Wizard of Peχavn could steal a Dwarven Secret and survive is roughly the equivalent of the Earther dilemma regarding what happens when an unstoppable force meets an immovable object.
+
+##### <span class="num">6.1.2</span> The name Peχavn
+
+"Peχavn" is strangely spelled, I realize. But it is the best rendering I can give of the name of her realm. It is pronounced "PECH-av-in", with "ch" sounding as in the Scottish "loch". I use the Greek letter Chi (χ) rather than "ch" or "x" to indicate that the name Peχavn as rendered in our writing contains a glyph not found in the Sikandan syllabary, which is the common script of central Forthyr. This glyph is similar but not identical to one in our syllabary, as Greek "χ" is to the Latin "x".
+
+One may wonder why we use this glyph at all, if it occurs in only one name and has a ready substitute. We do not simply write "Pexavn" because there is, according to superstition, a curse on the name Peχavn that descends upon those who inscribe it incorrectly. This superstition is backed up by numerous tales of the fate of those who violated it, some of them quite recent. The reputed effects of the curse vary wildly. One recipient choked to death on her own vomit. Another found that wherever he travelled, the monsoons failed to fall; he was eventually hung by angry villagers. Another became irresistibly attractive to fungus hogs for the rest of his life.
+
+
+## <span class="num">X</span> Aside
 
 <!--
 Our worlds could not be more different, and yet they are strangely similar. We have days and nights like yours; tides like yours; seasons, not quite like yours, but seasons nonetheless; even some animals and plants like yours (and some unlike yours).
