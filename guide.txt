@@ -1,5 +1,6 @@
 title: An Earther's Guide to the World
 ...
+<!--<center><aside>we are all just fragments of a larger idea</aside></center>-->
 
 
 ## <span class="num">I</span> Skies
@@ -10,25 +11,24 @@ I suppose I will begin with the skies. On Earth, if you look up on a clear day, 
 
 With us, it is almost the reverse. If you look up at night all you see is the moon, embedded in an empty black void. But if you are lucky enough to look up on a clear and sunny day (for such days are rare), you can see the whole world, rising away from you on all sides, with all its continents and archipelagos, its mountains and its oceans, its rough, hard dirt and its cool, enveloping waters.
 
-<!-- TODO: work in stars rotating vs continents rotating -->
-
 If you are confused, Earther, think of it this way: You live on the outside of a ball. We live on the inside of one. There are no stars, no planets, no galaxies, no far-flung astronomic universe for us—just our world itself. We have known since first we had eyes to see that there was nowhere else to go. We lack even the word for "Universe", a word so much more expansive than "world" or "Earth".
 
-Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of God. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
+Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of the Gods. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
 
 <!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
 
-<!-- TODO: "blinding white" isn't a perfect phrase -->
 <!-- TODO: "lain dormant"? "having lain dormant"? -->
 
-Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, almost the strength of a full moon on Earth.
+Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, as bright as a full moon on Earth.
 
 Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
 
 <!-- Should Sun/Moon colors vary by season? But this would make season a *global* thing, not continent-specific. -->
 <!-- Should there be an exception to "other continents do the same"? -->
 
-From this constant we find our bearings. There are no compasses on Forthyr; day or night you can tell direction from the sky. Our four cardinal directions are Sunward, Moonward, North, and South. (One could as easily call the last two East and West, or Clockwise and Anticlockwise, or Fi and Fum; but if you think of the Sun as being in the East, where on Earth it rises, then you will grasp which direction North and South are relative to Sunwards and Moonwards.)
+From this constant we take our bearings. Our four cardinal directions are Sunward, Moonward, North, and South. One could as easily call the last two East and West, or Clockwise and Anticlockwise, or Fi and Fum; but if you think of the Sun as being in the East, where on Earth it rises, then you will grasp which direction North and South are relative to Sunwards and Moonwards.
+
+That, in brief, is how our skies differ from yours; perhaps the briefest of all our differences.
 
 <!-- TODO: finishing paragraph -->
 
@@ -215,9 +215,9 @@ Apparently even the ancients were not powerful enough to survive winter topside,
 
 Of all the technological relics left behind by the ancients, without doubt the most significant are the Reincarnation Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
 
-These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Reincarnation Machines. The Exarchs are rulers who use the Machines to achieve immortal kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone who, by secrecy, sorcery, or trickery, still manages to possess and use a Reincarnation Machine, is called a Lich.
+These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Reincarnation Machines. The Exarchs are rulers who use the Machines to achieve immortal kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Reincarnation Machine, is called a Lich.
 
-The Reincarnation Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said he set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
+The Reincarnation Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
 
 <!-- Third, liches, a catch-all category for someone is neither a ruler nor an Arhist Elder, but still manages to keep their machine, usually by a combination of secrecy and sorcery.
 
@@ -277,9 +277,11 @@ The last time the Church of the Devout was united under one leadership, Forthyr 
 
 ### <span class="num">2</span> Arhism
 
-The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago, and first made contact with native Forthyrians in Freeport. They became for a few decades an itinerant people, selling their labor and preaching on the side, until by chance the king of a small country took an interest, and eventually converted wholeheartedly to Arhism.  From this meagre foothold they grew rapidly to become the second most powerful religion in central Forthyr, converting significant portions of the Lowlands, establishing minor presence in the Northern Heartlands, and outright conquering Sunward Himlas, which is now the center and capital of their religious empire.
+The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meagre foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and most notably outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire. <!-- empire? conglomeration? federation? -->
 
-The Arhists do not believe in a god or gods. They believe instead the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
+<!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
+
+The Arhists do not believe in a god or gods. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
 
 Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but coalesces in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and imperfection. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
 
