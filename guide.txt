@@ -21,7 +21,7 @@ Our Sun and Moon do not hang distantly revolving in the sky; each sits in a defi
 
 Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, as bright as a full moon on Earth.
 
-Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
+Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in Winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
 
 <!-- Should Sun/Moon colors vary by season? But this would make season a *global* thing, not continent-specific. -->
 <!-- Should there be an exception to "other continents do the same"? -->
@@ -47,15 +47,15 @@ After the monsoons comes the dry season. The rains slowly taper off and the air 
 
 <!-- TODO: fix "as if in knowledge" awkwardness -->
 
-After the dry season comes Winter. The dust storms end, the heat fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
+After the dry season comes Winter. The dust storms end, the heat fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. <!-- The animals go to ground, disappearing into wherever it is they spend winter --> Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
 
-During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in tiny caves painstakingly hollowed out by shovel and pick, generation by generation.
+During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation.
 
 <!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
 
 Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; and all too often Winter arrives on time, but doesn't leave when you expect it to.
 
-Forgive me if I make our world sound harsh, if I make our lives sound hard. Forgive me if I sound bitter. But our world is harsh, and our lives are hard. My friends and family, and all those many others who still live in Forthyr, would not say it is so; but that is only because they have nothing else to compare it with. And that is why I am bitter.
+Forgive me if I make our world sound harsh, if I make our lives sound hard. Forgive me if I sound bitter. But our world is harsh, and our lives are hard. My friends and family, and all those many others I knew who still live in Forthyr, would not say it is so; but that is only because they have nothing else to compare it with. And that is why I am bitter.
 
 <!-- Two hundred day years, with barely enough time for the crops to grow, but so little winter that it hardly matters, are not unknown. A six-hundred-day year comes once in as many years, and leaves few survivors. -->
 
@@ -94,7 +94,7 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 ## <span class="num">III</span> Peoples
 
-The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years. <!-- should "gremlins" be "kobolds" instead? -->
+The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years.
 
 ### <span class="num">1</span> Humans
 
@@ -158,6 +158,14 @@ The Traders are a mysterious folk, more secretive even than Dwarves. They are ca
 They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips.
 
 Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
+
+They trade for all manner of odd things, for religious relics and heirloom jewelry, for story books and children's toys, for ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to end up dead, or missing.
+
+What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for ancient machines that broke down just ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
+
+<!-- Most infamously, they barter for slaves. At least, it is assumed that is what they do with the people they buy.
+
+They have a knack of getting what they ask for. -->
 
 <!-- TODO: and what of their eyes? -->
 <!-- TODO: and what do they trade for? -->
