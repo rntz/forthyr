@@ -157,20 +157,13 @@ The Traders are a mysterious folk, more secretive even than Dwarves. They are ca
 
 They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips.
 
+<!-- TODO: and what of their eyes? -->
+
 Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
 
 They trade for all manner of odd things, for religious relics and heirloom jewelry, for story books and children's toys, for ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to end up dead, or missing.
 
-What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for ancient machines that broke down just ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
-
-<!-- Most infamously, they barter for slaves. At least, it is assumed that is what they do with the people they buy.
-
-They have a knack of getting what they ask for. -->
-
-<!-- TODO: and what of their eyes? -->
-<!-- TODO: and what do they trade for? -->
-
-<!-- They dress head to toe in bright-colored cloths. -->
+What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for that ancient machine that broke down just ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
 
 <!-- An Earther might say Traders look like Touaregs wearing gas masks and wetsuits. To me, Touaregs look like Traders with human faces and bodies. -->
 
@@ -219,13 +212,13 @@ No memory or record survives of the time when whoever or whatever created and us
 
 Apparently even the ancients were not powerful enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
 
-### <span class="num">1</span> The Reincarnation Machines
+### <span class="num">1</span> The Immortality Machines
 
-Of all the technological relics left behind by the ancients, without doubt the most significant are the Reincarnation Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
+Of all the technological relics left behind by the ancients, without doubt the most significant are the Immortality Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
 
-These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Reincarnation Machines. The Exarchs are rulers who use the Machines to achieve immortal kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Reincarnation Machine, is called a Lich.
+These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve unending kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Immortality Machine, is called a Lich.
 
-The Reincarnation Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
+The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
 
 <!-- Third, liches, a catch-all category for someone is neither a ruler nor an Arhist Elder, but still manages to keep their machine, usually by a combination of secrecy and sorcery.
 
@@ -254,7 +247,7 @@ But the true core of the Church is its attitude to reincarnation, belief in whic
 
 #### <span class="num">1.1</span> Reincarnation
 
-Although almost all Forthyrian religions, and all Cults of the Church, believe in reincarnation, they disagree on its significance and moral nature. What is agreed upon among all the Cults is that when a person is born they are born into a specific
+Although almost all Forthyrian religions believe in reincarnation, they disagree on its significance and moral nature. The Church believes that when a person is reborn they are they are given a specific and immutable fate. This fate is determined by the person's <em>ka</em>, roughly the state of one's soul.
 
 <!-- fate -->
 
@@ -277,7 +270,7 @@ The Cult of Joe is lorem ipsum dolor sit amet yadda blah this that and the other
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
-The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the exarchs and destroyed their reincarnation machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
+The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
 
 #### <span class="num">1.5</span> The Southern Church
 
@@ -291,13 +284,13 @@ The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They
 
 The Arhists do not believe in a god or gods. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
 
-Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but coalesces in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and imperfection. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
+Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but coalesces in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
 
-The Arhists have a very different view of reincarnation machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death is a servant of Kamma, ever seeking to destroy the progress we achieve in our lifetimes.
+The Arhists have a very different view of Immortality Machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death is a servant of Kamma, ever seeking to destroy the progress we achieve in our lifetimes.
 
 <!-- TODO: how do they see the sacrifices needed to run the Machines? -->
 
-Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone of spiritual significance is either an Elder, one whose life is to be preserved forever by the reincarnation machines, or a Martyr, who would be an Elder but that their life was cut tragically short before they could achieve their full potential.
+Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone of spiritual significance is either an Elder, one whose life is to be preserved forever by the Machines, or a Martyr, who would be an Elder but that their life was cut tragically short before they could achieve their full potential.
 
 <!-- TODO: this view wins them appeal among kings seeking to become exarchs -->
 
@@ -336,7 +329,7 @@ A group of Travellers is called a Cord. No two Cords are entirely alike; each ha
 
 Traveller culture values stories highly. Each Cord keeps its own library as well as maintaining an oral tradition. The Travellers believe a story is only truly alive so long as it has tellers. If they write down a story, they are committed to telling it again and again, or else they will have wasted parchment on a dead story. So they write down only the important stories, the ones they will always tell; and the less important stories are passed down by mouth.
 
-The Travellers are vegetarians and pacifists, avoiding the use of force unless absolutely necessary. As they provide valuable services and entertainment, however, fighting with or taking advantage of Travellers is taboo among Heartlanders. This taboo is often justified via a superstition that claims the Travellers are protected by a magical Covenant that curses any who mistreat them. This taboo does not translate into personal respect or hospitality, however. Travellers dealing with Heartlanders experience a unique mixture of eagerness and admiration for their tinkering and performing skills, fearful respect of their Covenant, and suspicion of them as outsiders and infidels.
+The Travellers are vegetarians and pacifists, avoiding the use of force unless absolutely necessary. As they provide valuable services and entertainment, however, fighting with or taking advantage of Travellers is taboo among Heartlanders. This taboo is often justified via a superstition that claims the Travellers are protected by a magical Covenant that curses any who mistreat them. This taboo does not translate into personal respect or hospitality, however. Travellers dealing with Heartlanders are thus the objects of a unique mixture of eagerness and admiration for their tinkering and performing skills, fearful respect of their Covenant, and suspicion of them as outsiders and infidels.
 
 <!-- Like the Northern Barbarians they are related to, they often have light-colored hair and eyes; subtler differences of facial structure also -->
 
@@ -403,9 +396,9 @@ Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zo
 
 #### <span class="num">6.1</span> Peχavn
 
-South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. The exarch of Peχavn, who has no name she cares to divulge, is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
+South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. The Exarch of Peχavn, who has no name she cares to divulge, is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
 
-The Wizard of Peχavn has never been defeated in a duel, and her forces have never been defeated in battle. Plots to destroy her reincarnation machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her typically end when the plotters die of their own poison. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her.
+The Wizard of Peχavn has never lost a duel, and her forces have never been defeated in battle. Plots to destroy her Immortality Machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her typically end when the plotters die of their own poison. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her.
 
 When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
 
