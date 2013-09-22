@@ -49,7 +49,7 @@ After the monsoons comes the dry season. The rains slowly taper off and the air 
 
 After the dry season comes Winter. The dust storms end, the heat fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. <!-- The animals go to ground, disappearing into wherever it is they spend winter --> Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
 
-During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation.
+During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the Ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation.
 
 <!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
 
@@ -92,7 +92,34 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 -->
 
 
-## <span class="num">III</span> Peoples
+## <span class="num">III</span> The Ancient World
+
+<!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
+
+Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Many, perhaps most, of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->. <!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
+
+<!-- built on the bones of some ancient bunker
+
+No memory or record survives of the time when whoever or whatever created and used the
+
+Apparently even the Ancients were not powerful enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
+
+### <span class="num">1</span> The Immortality Machines
+
+Of all the technological relics left behind by the Ancients, without doubt the most significant are the Immortality Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
+
+These machines are of course rare. They are beyond price: their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve undying sovereignty. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Immortality Machine, is called a Lich.
+
+The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
+
+<!-- Third, liches, a catch-all category for someone is neither a ruler nor an Arhist Elder, but still manages to keep their machine, usually by a combination of secrecy and sorcery.
+
+Those with enough power to possess and use them are called exarchs, immortal rulers. -->
+
+### <span class="num">2</span> Savvyheads
+
+
+## <span class="num">IV</span> Peoples
 
 The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years.
 
@@ -109,7 +136,7 @@ I will note in passing that Forthyr is home to many ethnicities; save the pale b
 
 ### <span class="num">2</span> Dwarves
 
-Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all manners of crafting and artifice, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many ancient artifacts, although they lack the intuitive genius of human savvyheads.
+Humans live underground when they have to. Dwarves live underground permanently, because they like it. They are masters of the depths and the dark; they are skilled in all manners of crafting and artifice, but above all in stone- and metal-work; they are strong, sturdy, and have both a taste and a tolerance for alcohol and other mind-altering substances; they are secretive, though not deceptive, and slow to trust non-Dwarves; and they have divined the operation of many Ancient artifacts, although they lack the intuitive genius of human savvyheads.
 
 They are also short and bearded, in case you were wondering.
 
@@ -119,7 +146,7 @@ So much for Dwarven stereotypes.
 
 <!-- what do dwarves trade FOR? what do they value that humans can make?
 
-well, they'll certainly trade for interesting ancient tech. is that all?
+well, they'll certainly trade for interesting Ancient tech. is that all?
 -->
 
 <!-- TODO -->
@@ -155,15 +182,23 @@ It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
 The Traders are a mysterious folk, more secretive even than Dwarves. They are called Traders because that is the one thing that we know them to do. We do not even know if they need to sleep, eat, breathe, or excrete.
 
-They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips.
+They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. Inset in their masks are glass eyepieces, usually tinted green or red or gold, which are opaque and mirrorlike from the outside. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips. They are fond of decoration and jewelry, wearing gold-trimmed headscarves, tasseled shawls, bracelets and necklaces. They often wear decorated belts or silken sashes, hung heavy with pouches, trinkets and weaponry: swords, hooks, whips, and Ancient weapons of strange design.
 
-<!-- TODO: and what of their eyes? -->
+<!-- TODO: they are fond of jewelry -->
 
 Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
 
-They trade for all manner of odd things, for religious relics and heirloom jewelry, for story books and children's toys, for ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to end up dead, or missing.
+They trade for all manner of odd things, for religious relics and children's toys, for heirloom jewelry and story books, for Ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to end up dead, or missing.
 
-What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for that ancient machine that broke down just ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
+<!-- Nobody knows what happens to the people they buy. They are rarely seen again, and those who do return are never of their original minds. -->
+
+What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for that Ancient machine that broke down ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
+
+The Traders have no permanent abode that we know of. They travel in caravans, composed equally of Ancient vehicles and wraxen-pulled carts. Meeting a Trader caravan on the move is rare, however; when they visit a town, they seem to arrive out of thin air, and depart just as suddenly. Even if you manage to catch them leaving, trying to follow a Trader caravan is a sure recipe for getting oneself lost.
+
+It is a mistake of legendary proportions to attack the Traders. They rarely stray from their caravans, which never camp inside city walls. They are almost always armed, and even when they do not seem armed, I would not be surprised to see a knife emerge from the deep folds of their clothing. According to the few stories of those unwise enough to attempt the deed, they are preternaturally fast, can brush off blows that would kill a human, and their rubbery "skin" is tough and resistant to edged weapons. Nonetheless,  individual Traders have been slain, and Trader caravans have been driven off (though not destroyed). Every such incident has been repaid, however, by a retaliatory attack of overwhelming force.
+
+<!-- No Trader has ever been observed to use magic. -->
 
 <!-- An Earther might say Traders look like Touaregs wearing gas masks and wetsuits. To me, Touaregs look like Traders with human faces and bodies. -->
 
@@ -176,7 +211,7 @@ I do not know much about orcs. They live on the other side of the Moon Mountains
 
 #### <span class="num">4.2</span> Kobolds
 
-Clever creatures that live in ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
+Clever creatures that live in Ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
 
 #### <span class="num">4.3</span> Goblins
 The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
@@ -200,33 +235,6 @@ There are regions of Forthyr so isolated, unexplored or impenetrable that strang
 <!-- TODO -->
 
 
-## <span class="num">IV</span> The Ancient World
-
-<!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
-
-Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Many, perhaps most, of our cities and enclaves are but repurposed ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->. <!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
-
-<!-- built on the bones of some ancient bunker
-
-No memory or record survives of the time when whoever or whatever created and used the
-
-Apparently even the ancients were not powerful enough to survive winter topside, however; all of their cities that we have encountered are underground. -->
-
-### <span class="num">1</span> The Immortality Machines
-
-Of all the technological relics left behind by the ancients, without doubt the most significant are the Immortality Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
-
-These machines are of course rare. They are beyond price; their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve unending kingship. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Immortality Machine, is called a Lich.
-
-The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
-
-<!-- Third, liches, a catch-all category for someone is neither a ruler nor an Arhist Elder, but still manages to keep their machine, usually by a combination of secrecy and sorcery.
-
-Those with enough power to possess and use them are called exarchs, immortal rulers. -->
-
-### <span class="num">2</span> Savvyheads
-
-
 ## <span class="num">V</span> Religions
 
 Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is godless—introduced by newcomers from across the ocean.
@@ -247,9 +255,17 @@ But the true core of the Church is its attitude to reincarnation, belief in whic
 
 #### <span class="num">1.1</span> Reincarnation
 
-Although almost all Forthyrian religions believe in reincarnation, they disagree on its significance and moral nature. The Church believes that when a person is reborn they are they are given a specific and immutable fate. This fate is determined by the person's <em>ka</em>, roughly the state of one's soul.
+Although almost all Forthyrian religions believe in reincarnation, they disagree on its significance and moral nature. The Church believes that when a person is reborn they are they are given a specific and immutable fate. This fate is determined by the person's *ka*, meaning roughly the state of one's soul. This fate in turn determines everything important about one's life: where, to whom, and into what caste one is born; how one shall die; one's personality and moral tendencies; one's profession or calling; and what one may hope to accomplish in the world.
 
-<!-- fate -->
+Though our fates are decided at birth, it remains to us to decide whether to willingly fulfill our destiny to the fullest degree, or to senselessly fight and resist it, and so become a mere shadow of what we could have been. Deliberately following one's inevitable fate is noble and right; conversely, denying one's fate is both futile and reprehensible.
+
+In particular, by following one's fate one acquires positive *ka*; resisting it accumulates negative *ka*. The greater one's *ka*, the more noble and desirable the fate of one's next life. Eventually, a person possessed of truly magnificent *ka* ascends into Heaven upon being reborn. Heaven is not, however, the end of the journey. The Church believes in a great ladder of spiritual existence, on which our world is the middle rung. The realms of Heaven are the rungs above it, and those below it are of Hell.
+
+The caste system is an integral part of this ladder of reincarnation. Everyone has an assigned place in the caste system, a role to serve in society. They have this role, they are in their caste, because their *ka* deserves it. If they live according to their place they are rewarded by just treatment in this life and a grander fate in the next.
+
+This may sound unjust to your ears, Earther, but bear in mind that it is a source of immeasurable comfort to millions of people. The caste system merely codifies that which would most likely be the case anyways: the vast majority of people lead powerless, inconsequential lives toiling for a baron or king who cares little for them or their lot. They are subject to innumerable diseases, to the vagaries of the seasons, to the whims of their lord and the ambitions of their lord's enemies. Church doctrine does not serve only to castigate those who would exceed their place—it gives value and purpose to the lives of those for whom exceeding their place was never a real option to begin with. Such people are the majority, sadly.
+
+<!-- TODO: gods are in high levels, high levels in Heaven can influence lower levels (and lower levels in Hell can influence higher levels) -->
 
 <!-- TODO: put this in an appendix
 ##### <span class="num">1.1.1</span> The Tomasian Account
@@ -298,7 +314,7 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 
 The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a different continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
 
-The Desolate Isle was then and remains uninhabited, save for the caves off the coast of Freeport; so the group did not make contact with any native Forthyrians. They occupied the ancient ruin of Sangraha. A group of about fifty left, however, disobeying their elders' commands for fear that the island was too infertile and the remaining time too short to grow enough food to sustain them through Winter. They were right; fully two-thirds of those who remained perished in the coming Winter. For this reason Sangraha is known to Arhists as "The Martyred City".
+The Desolate Isle was then and remains uninhabited, save for the caves off the coast of Freeport; so the group did not make contact with any native Forthyrians. They occupied the Ancient ruin of Sangraha. A group of about fifty left, however, disobeying their elders' commands for fear that the island was too infertile and the remaining time too short to grow enough food to sustain them through Winter. They were right; fully two-thirds of those who remained perished in the coming Winter. For this reason Sangraha is known to Arhists as "The Martyred City".
 
 The fifty who left found safe haven and passage to the mainland at Freeport. A small temple still stands there dedicated to their memory. Foresighted though they were, they are called the Unfaithful and considered cowards in official Arhist history.
 
@@ -357,7 +373,7 @@ The Travellers believe in one universal God, who they call the One, who is imman
 
 Forthyr is a large continent; we know the shape it makes on the sky, but we do not know what sorts of peoples dwell at its far limits. By "we" I refer to the dwellers of the Heartlands, a region lying more or less at the center of Forthyr, and my homeland.
 
-The Heartlands are mountainous, but well-populated, for the underground tunnel system is dense here and the land fertile. Only the Lowlands, which lie in the verdant valley of the great river Pelluin as it runs Sunwards to the sea, are more populous. The Heartlands and Lowlands are separated by the Great Chasm, a canyon so deep the bottom lies in permanent shadow. It is perhaps a kilometer wide. Its depth is unknown, and its bottom has never been reached. No river carved it, for it does not reach the sea; besides, it runs too straight and its walls are too sheer to have formed naturally. It is generally believed to be the relic of some ancient disaster.
+The Heartlands are mountainous, but well-populated, for the underground tunnel system is dense here and the land fertile. Only the Lowlands, which lie in the verdant valley of the great river Pelluin as it runs Sunwards to the sea, are more populous. The Heartlands and Lowlands are separated by the Great Chasm, a canyon so deep the bottom lies in permanent shadow. It is perhaps a kilometer wide. Its depth is unknown, and its bottom has never been reached. No river carved it, for it does not reach the sea; besides, it runs too straight and its walls are too sheer to have formed naturally. It is generally believed to be the relic of some Ancient disaster.
 
 <!-- TODO: convey how bad going around either end of it is compared to the Gap
 TODO: make the description of Pelluin waterfall convey scale better? -->
