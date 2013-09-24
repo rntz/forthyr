@@ -1,4 +1,5 @@
 title: An Earther's Guide to the World
+scripts: ["guide.js"]
 ...
 <!--<center><aside>we are all just fragments of a larger idea</aside></center>-->
 
@@ -149,9 +150,13 @@ So much for Dwarven stereotypes.
 well, they'll certainly trade for interesting Ancient tech. is that all?
 -->
 
+<!-- The Dwarves live in cities and nations of their own, deep beneath Forthyr's surface. They rarely interact with humans, for they have little to gain from such interaction. -->
+
+<!-- tradition: dwarven rumspringa? -->
+
 <!-- TODO -->
 
-Despite Dwarves' fairly frequent contact with humans, surprisingly little is known about them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? -->
+Despite Dwarves' fairly frequent contact with humans, surprisingly little is known aboutp them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? -->
 We have myths and folk-tales about all of these things, of course, but they vary inconsistently from region to region and teller to teller.
 
 For another example, all Dwarves have beards and none appear to have breasts. It is not clear what, if anything, this means anything about their sex. The most common folk theory is that they are hermaphroditic. Dwarven corpses which have been examined have two holes, a front and a back, in their nether regions. A urethra and anus, apparently, but how to be sure? This suggests a species of  asexuals, which raises as many questions as it answers.
@@ -182,7 +187,7 @@ It seems appropriate at this point to explain the matter of Dwarven Secrets.
 
 The Traders are a mysterious folk, more secretive even than Dwarves. They are called Traders because that is the one thing that we know them to do. We do not even know if they need to sleep, eat, breathe, or excrete.
 
-They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. Inset in their masks are glass eyepieces, usually tinted green or red or gold, which are opaque and mirrorlike from the outside. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips. They are fond of decoration and jewelry, wearing gold-trimmed headscarves, tasseled shawls, bracelets and necklaces. They often wear decorated belts or silken sashes, hung heavy with pouches, trinkets and weaponry: swords, hooks, whips, and Ancient weapons of strange design.
+They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. Inset in their masks are glass eyepieces, usually tinted green or red or gold, which are opaque and mirrorlike from the outside. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips. They are fond of decoration and jewelry, wearing gold-trimmed headscarves, tasseled shawls, bracelets and necklaces. They often wear decorated belts or silken sashes, hung heavy with pouches, trinkets and weaponry: swords, hooks, whips, and Ancient weapons of strange designs.
 
 <!-- TODO: they are fond of jewelry -->
 
@@ -196,7 +201,7 @@ What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare p
 
 The Traders have no permanent abode that we know of. They travel in caravans, composed equally of Ancient vehicles and wraxen-pulled carts. Meeting a Trader caravan on the move is rare, however; when they visit a town, they seem to arrive out of thin air, and depart just as suddenly. Even if you manage to catch them leaving, trying to follow a Trader caravan is a sure recipe for getting oneself lost.
 
-It is a mistake of legendary proportions to attack the Traders. They rarely stray from their caravans, which never camp inside city walls. They are almost always armed, and even when they do not seem armed, I would not be surprised to see a knife emerge from the deep folds of their clothing. According to the few stories of those unwise enough to attempt the deed, they are preternaturally fast, can brush off blows that would kill a human, and their rubbery "skin" is tough and resistant to edged weapons. Nonetheless,  individual Traders have been slain, and Trader caravans have been driven off (though not destroyed). Every such incident has been repaid, however, by a retaliatory attack of overwhelming force.
+It is a mistake of legendary proportions to attack the Traders. They rarely stray from their caravans, which never camp inside city walls. They are almost always armed, and even when they do not seem armed, I would not be surprised to see a knife emerge from the deep folds of their clothing. According to the few stories of those unwise enough to attempt the deed, they are preternaturally fast, can shrug off heavy blows, and their rubbery "skin" is tough and resistant to edged weapons. Nonetheless,  individual Traders have been slain, and Trader caravans have been driven off (though not destroyed). Every such incident has been repaid, however, by a retaliatory strike of overwhelming force.
 
 <!-- No Trader has ever been observed to use magic. -->
 
@@ -253,7 +258,7 @@ But the true core of the Church is its attitude to reincarnation, belief in whic
 
 <!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
 
-#### <span class="num">1.1</span> Reincarnation
+#### <span class="num">1.1</span> The Ladder of Reincarnation
 
 Although almost all Forthyrian religions believe in reincarnation, they disagree on its significance and moral nature. The Church believes that when a person is reborn they are they are given a specific and immutable fate. This fate is determined by the person's *ka*, meaning roughly the state of one's soul. This fate in turn determines everything important about one's life: where, to whom, and into what caste one is born; how one shall die; one's personality and moral tendencies; one's profession or calling; and what one may hope to accomplish in the world.
 
@@ -275,10 +280,52 @@ Of the major cults of the Heartlands, the Cult of Tomas most emphasizes the ladd
 
 #### <span class="num">1.2</span> The Caste System
 
+<!-- TODO: maybe split this out into a separate top-level heading on societal structure -->
+
+The caste system, like the Church itself, is complex and not entirely self-consistent. At its core are the nearly-universal Four Castes, but they are merely the beginning of the many distinctions of rank and kind made by virtue of one's birth. But as these distinctions vary wildly from region to region, a description of the Four Castes will have to suffice.
+
+##### <span class="num">1.2.1</span> The Four Castes
+
+The Four Castes are Peasant, Warrior, Noble, and Priest. There are also various persons who fall temporarily or permanently outside of these castes, such as slaves and indentured servants, the newly-emerging merchant class, and followers of other religions.
+
+###### Peasants
+
+The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. I do not list farmers because almost all peasants are farmers, in addition to the other work they do. When the growing season comes, every able-bodied peasant is needed to tend the fields, farming as much land as possible so that the enclave has enough food to make it through Winter and still pay its taxes.
+
+Peasants are bound to the land of their ruling Noble, but the strictness and enforcement of this bond varies. In the most populous regions, in particular the Lowlands, it is generally impractical to enforce. When it is enforced, usually it is by levying a fine on the runaway peasant's family.
+
+Peasants are expected to take up arms during wartime, but they are not leaders in battle or in peacetime; that falls to the Warriors.
+
+###### Warriors
+
+Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, petty officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it.
+
+Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Sometimes these positions are hereditary, and so entire families of Warriors serve the Noble, and sometimes Warriors are called up from among the villages to fill these positions. Courtly Warriors generally have higher social status than village Warriors.
+
+###### Nobles
+
+Nobles are the ruling class. Every Noble family 
+
+<!-- TODO: barons vs kings -->
+
+###### Priests
+
+##### <span class="num">1.2.2</span> The Merchant Class
+##### <span class="num">1.2.3</span> Others
+
+<!-- Slaves, indentured servants, infidels, Seekers, savvyheads -->
+
+##### <span class="num">1.2.4</span> Caste Inheritance
+
+<!-- IN APPENDIX: caste inheritance -->
+
 #### <span class="num">1.3</span> The Pantheon
 
+<!-- TODO: think about structure of lesser cults. are they attached to greater cults? do they only exist in big cities? are they popular within small regions? -->
+
+There are many Devas, and almost as many Devic cults.
+
 ##### <span class="num">1.3.1</span> The Cult of Joe
-The Cult of Joe is lorem ipsum dolor sit amet yadda blah this that and the other fuds
 ##### <span class="num">1.3.2</span> The Cult of Liz
 ##### <span class="num">1.3.3</span> The Cult of Tom and Tomas
 
@@ -286,11 +333,15 @@ The Cult of Joe is lorem ipsum dolor sit amet yadda blah this that and the other
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
-The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
+The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults.
+
+In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
 
 #### <span class="num">1.5</span> The Southern Church
 
 #### <span class="num">1.6</span> The Divine History of the Devas and Asuras
+
+foo bar
 
 ### <span class="num">2</span> Arhism
 
@@ -337,6 +388,12 @@ The Devic Cults and Arhism both seek popular support and political power; for th
 
 <!-- indeed, would-be Seekers are often hard-pressed to find a master to instruct them -->
 
+The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and of reality during a visit to an abandoned enclave that had been overrun by a fungal bloom. Otaumo preached the insights he gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
+
+Otaumo himself wrote nothing down, but his five foremost disciples each wrote chronicles of his life and explanations of their understanding of his philosophy. These books together form the Pentad, a core text for Seekers. The Seekers have few traditions, and foremost among them is this: every Seeker keeps a copy of the Pentad, with selected commentary from later eminent Seekers, and blank pages at the end for the Seeker to write their own thoughts.
+
+<!-- Each lineage of the Way has its own particular selection of commentary, and many Seekers individually seek out further documents to include in their copy. -->
+
 ### <span class="num">4</span> The Tradition of the Travellers
 
 The Travellers migrated into the Heartlands from out of the Northern Wastes, some eight hundred years ago. They have not mixed with the native Heartlanders, and preserve their own peculiar religion, culture, and language. They live in wandering bands, as their name suggests, and make their living as performers, tinkers, traders, doers of odd-jobs, and occasional treasure-hunters.
@@ -353,13 +410,18 @@ The Travellers are vegetarians and pacifists, avoiding the use of force unless a
 
 The Travellers believe in one universal God, who they call the One, who is immanent in everything; in some sense, the world *is* the One. All other Gods, they say, are but faces of the One.
 
-#### <span class="num">4.2</span> The Northern Barbarians
+<!-- TODO: northern barbarian religion
+#### <span class="num">4.2</span> The Northern Barbarians -->
+
+<!-- TODO much later:
 
 ### <span class="num">5</span> Others
 
 #### <span class="num">5.1</span> The Quartet of the Sky
 
 #### <span class="num">5.2</span> The Sky-and-Earth Worshippers
+
+-->
 
 
 ## <span class="num">VI</span> Geography
@@ -406,7 +468,7 @@ South-Sunward across the Short Mountains is Chengusa, a large kingdom with inten
 
 Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an  uncharted and unnavigable tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
 
-At the Sunward edge of the Lowlands lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the mythical First Exarch.
+At the Sunward edge of the Lowlands lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the First Exarch.
 
 Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zoth to the South-Moonward, and Fennimore to the South-Sunward, is Nobody Land. Although it is fertile and has a good climate, there are no underground caverns or tunnels in Nobody Land, nowhere to hide when Winter comes, and so nobody lives there.
 
@@ -422,11 +484,12 @@ Among students at the University of Roke, the question of whether the Wizard of 
 
 ##### <span class="num">6.1.1</span> The spelling of &ldquo;Peχavn&rdquo;
 
-"Peχavn" is strangely spelled, I realize. But it is the best rendering I can give of the name of her realm. It is pronounced "PECH-av-in", with "ch" sounding as in the Scottish "loch". I use the Greek letter Chi (χ) rather than "ch" or "x" to indicate that the name Peχavn as rendered in our writing contains a glyph not found in the Sikandan syllabary, which is the common script of central Forthyr. This glyph is similar but not identical to one in our syllabary, as Greek "χ" is to the Latin "x".
+"Peχavn" is strangely spelled, I realize. But it is the best rendering I can give of the name of her realm. It is pronounced "pe-CHAV-un", with "ch" sounding as in the Scottish "loch". I use the Greek letter Chi (χ) rather than "ch" or "x" to indicate that the name Peχavn as rendered in our writing contains a glyph not found in the Sikandan syllabary, which is the common script of central Forthyr. This glyph is similar but not identical to one in our syllabary, as Greek "χ" is to the Latin "x".
 
 One may wonder why we use this glyph at all, if it occurs in only one name and has a ready substitute. We do not simply write "Pexavn" because there is, according to superstition, a curse on the name Peχavn that descends upon those who inscribe it incorrectly. This superstition is backed up by numerous tales of the fate of those who violated it, some of them quite recent. The reputed effects of the curse vary wildly. One recipient vomited up feces, then choked to death on them. Another found that wherever he travelled, the monsoons failed to fall; he was eventually hung by angry villagers. Another became irresistibly attractive to fungus hogs for the rest of his life.
 
 
+<!-- TODO: this is really out-of-place now -->
 ## <span class="num">X</span> Aside
 
 <!--
