@@ -97,7 +97,9 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
-Our world is littered with the remains of an ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Many, perhaps most, of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->. <!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
+Our world is littered with the remains of some ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
+
+<!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
 
 <!-- built on the bones of some ancient bunker
 
@@ -240,7 +242,117 @@ There are regions of Forthyr so isolated, unexplored or impenetrable that strang
 <!-- TODO -->
 
 
-## <span class="num">V</span> Religions
+## <span class="num">V</span> Life on Forthyr
+
+<!-- DISCUSS:
+
+- cities vs enclaves vs topside villages
+  - enclave identity
+- the feudal system in general
+- the position of magic & savvyheads
+  - magic in everyday life
+- the Heartlands
+  - the caste system
+  - life under the Exarchs?
+  - life under the Arhists?
+- domestic animals & plants
+- existence of professional adventurers
+  - ruin-looters
+- travel & trade?
+
+-->
+
+### <span class="num">1</span> Villages, Enclaves and Cities
+
+<!-- As I have said, during Winter we are forced to live underground. -->
+
+Good places to live underground are few and far between. You need a source of water, an aquifer or well. You need a space large enough for many people to live, and also enough to store the supplies of crop to last you through the winter, and seed to plant once it ends. You need a connection to the main network of underground tunnels that run beneath Forthyr. And of course, all this needs to be defensible.
+
+Consequently, life underground is concentrated into sparsely scattered but individually crowded and cramped dwelling-places called *enclaves*. A single enclave usually holds from a hundred to a thousand people. Anything larger than that tends to become a city—the distinction being that enclaves are Winter refuges, while cities are inhabited year-round.
+
+### <span class="num">2</span> The Caste System
+
+<!-- TODO: better phrasing for "varies from region to region". "not entirely consistent"? -->
+
+The core of the caste system is the nearly-universal Four Castes, but they are merely the beginning of the many distinctions of rank and kind made by virtue of one's birth. But as these distinctions vary wildly from region to region, a description of the Four Castes will have to suffice.
+
+<!-- TODO: I should really condense this into a few paragraphs if possible. Nobody wants to read pages and pages about the caste system. Caste inheritance DEFINITELY does not belong here, except to note that second & third sons of Nobles have a hard time. -->
+
+#### <span class="num">2.1</span> The Four Castes
+
+The Four Castes are Peasant, Warrior, Noble, and Priest. There are also various persons who fall temporarily or permanently outside of these castes, such as slaves and indentured servants, the newly-emerging merchant class, and infidels—followers of religions other than the Church of the Devout.
+
+##### <span class="num">2.1.1</span> Peasants
+
+The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. I do not list farmers because almost all peasants are farmers, in addition to the other work they do. When the growing season comes, every able-bodied peasant is needed to tend the fields, farming as much land as possible so that the enclave has enough food to make it through Winter and still pay its taxes.
+
+Peasants are bound to the land of their ruling Noble, but the strictness and enforcement of this bond varies. In the most populous regions, in particular the Lowlands, it is generally impractical to enforce. When it is enforced, usually it is by levying a fine on the runaway peasant's family.
+
+Peasants are expected to take up arms during wartime, but they are not leaders in battle or in peacetime; that falls to the Warriors.
+
+##### <span class="num">2.1.2</span> Warriors
+
+Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, petty officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it.
+
+Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Sometimes these positions are hereditary, and so entire families of Warriors serve the Noble, and sometimes Warriors are called up from among the villages to fill these positions. Courtly Warriors generally have higher social status than village Warriors.
+
+##### <span class="num">2.1.3</span> Nobles
+
+Nobles are the ruling class. Every Noble family has a *dominion*, a territory that belongs to them, along with the Peasants bound to it. 
+
+<!-- TODO: barons vs kings -->
+
+##### <span class="num">2.1.4</span> Priests
+
+The Priesthood of the Church of the Devout.
+
+#### <span class="num">2.2</span> The Merchant Class
+
+In the Lowlands of the Pelluin river valley a new merchant class is beginning to emerge, rich enough to be able to flaunt the strictures of the caste system. The Church is of course outraged, and regularly petitions nominally-Devout kings to punish such violations; but their complaints nowadays fall largely on deaf ears. Over the past half-century the Lowland kings have learned that a hostile attitude to entrepreneurship will leave kingdom rather less prosperous than its more open-minded neighbors.
+
+The reasons for this emergence I can only conjecture, but the relative mildness of the past hundred or so Winters in the Lowlands probably has something to do with it. A milder, shorter Winter means less time and effort spent merely surviving and more spent mining, smithing, crafting, and conquering. The Lowlands nations have become modestly rich as a result, and trade within and between nations is at an all-time high.
+
+<!--
+and the rulers whose states have grown rich from the merchants' trade are content to turn a blind eye to this violation.  -->
+
+#### <span class="num">2.3</span> Sans-castes
+
+A person outside the caste system is termed *sans-caste*. Sans-castes are generally treated poorly. A caste is a place in society; sans-castes have no place in, and receive no respect from, society. Merchants are a rare exception to this rule.
+
+Slaves are of course sans-castes: they are property, not persons. Slave-ownership is rare, however: under the caste system strictly interpreted only a Noble may own property, and why would a Noble keep slaves when the caste system already enslaves an entire populace to their whims?
+
+<!-- TODO: think about economics behind indentured servitude -->
+
+Indentured servitude is far more common. Even a Peasant may have an indentured servant; indentured servants are not property, they are merely working off a debt they owe. The indentured are *temporarily* without caste; they return to their caste upon their release from servitude. As such they are better-treated than other sans-castes.
+
+Infidels (i.e. non-Devout) are usually considered sans-caste, although some regions are more tolerant in this regard. How exactly they are treated depends on their religion or ethnic group. <!-- TODO: brief overview of how each group is treated? -->
+
+Savvyheads nominally have caste due to their birth, but are practically treated as sans-caste. Without the patronage of a baron or king, savvyheads are doomed to being social pariahs, beggars and vagrants. And that's if they're lucky enough not to be lynched.
+
+<!-- TODO: how are itinerants in general treated? adventurers are really just a special-case of this.
+
+Classes of itinerants:
+- adventurers
+- minstrels and performers
+- Travellers
+- pilgrims (these aren't sans-caste, but temporarily have their caste revoked)
+
+-->
+
+Adventurers and treasure-hunters are <!-- TODO -->
+
+Finally, there are outlaws. An outlaw has been stripped both of caste and protection under the law. Anyone may steal from them, kill them, or otherwise harm them without consequence. This punishment is generally reserved for heinous criminals who have repeatedly evaded capture.
+
+<!-- Slaves, indentured servants, infidels, Seekers, savvyheads -->
+
+<!--
+#### <span class="num">2.4</span> Caste Inheritance
+-->
+
+<!-- IN APPENDIX: caste inheritance -->
+
+
+## <span class="num">VI</span> Religions
 
 Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is godless—introduced by newcomers from across the ocean.
 
@@ -252,9 +364,7 @@ There are two primary ways in which it is divided. First, it is split into many 
 
 <!-- #### <span class="num">1.1</span> Core Beliefs -->
 
-If you ask the Cult priests what the essence of the Church is, they will speak of the pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest.
-
-But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention; and of the caste system that is justified by reincarnation—as the Church sees it.
+If you ask the Cult priests what the essence of the Church is, they will speak of the pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest. But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention.
 
 <!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
 
@@ -278,58 +388,20 @@ This may sound unjust to your ears, Earther, but bear in mind that it is a sourc
 Of the major cults of the Heartlands, the Cult of Tomas most emphasizes the ladder of reincarnation, and has constructed the most detailed account of its workings. In case the reader should be interested, I relate their account here.
 -->
 
-#### <span class="num">1.2</span> The Caste System
 
-<!-- TODO: maybe split this out into a separate top-level heading on societal structure -->
-
-The caste system, like the Church itself, is complex and not entirely self-consistent. At its core are the nearly-universal Four Castes, but they are merely the beginning of the many distinctions of rank and kind made by virtue of one's birth. But as these distinctions vary wildly from region to region, a description of the Four Castes will have to suffice.
-
-##### <span class="num">1.2.1</span> The Four Castes
-
-The Four Castes are Peasant, Warrior, Noble, and Priest. There are also various persons who fall temporarily or permanently outside of these castes, such as slaves and indentured servants, the newly-emerging merchant class, and followers of other religions.
-
-###### Peasants
-
-The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. I do not list farmers because almost all peasants are farmers, in addition to the other work they do. When the growing season comes, every able-bodied peasant is needed to tend the fields, farming as much land as possible so that the enclave has enough food to make it through Winter and still pay its taxes.
-
-Peasants are bound to the land of their ruling Noble, but the strictness and enforcement of this bond varies. In the most populous regions, in particular the Lowlands, it is generally impractical to enforce. When it is enforced, usually it is by levying a fine on the runaway peasant's family.
-
-Peasants are expected to take up arms during wartime, but they are not leaders in battle or in peacetime; that falls to the Warriors.
-
-###### Warriors
-
-Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, petty officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it.
-
-Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Sometimes these positions are hereditary, and so entire families of Warriors serve the Noble, and sometimes Warriors are called up from among the villages to fill these positions. Courtly Warriors generally have higher social status than village Warriors.
-
-###### Nobles
-
-Nobles are the ruling class. Every Noble family 
-
-<!-- TODO: barons vs kings -->
-
-###### Priests
-
-##### <span class="num">1.2.2</span> The Merchant Class
-##### <span class="num">1.2.3</span> Others
-
-<!-- Slaves, indentured servants, infidels, Seekers, savvyheads -->
-
-##### <span class="num">1.2.4</span> Caste Inheritance
-
-<!-- IN APPENDIX: caste inheritance -->
-
-#### <span class="num">1.3</span> The Pantheon
+#### <span class="num">1.2</span> The Pantheon
 
 <!-- TODO: think about structure of lesser cults. are they attached to greater cults? do they only exist in big cities? are they popular within small regions? -->
 
 There are many Devas, and almost as many Devic cults.
 
-##### <span class="num">1.3.1</span> The Cult of Joe
-##### <span class="num">1.3.2</span> The Cult of Liz
-##### <span class="num">1.3.3</span> The Cult of Tom and Tomas
+##### <span class="num">1.2.1</span> The Cult of Joe
+##### <span class="num">1.2.2</span> The Cult of Liz
+##### <span class="num">1.2.3</span> The Cult of Tom and Tomas
 
-#### <span class="num">1.4</span> The History of the Church
+<!-- TODO: #### High and Low Church -->
+
+#### <span class="num">1.3</span> The History of the Church
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
@@ -337,11 +409,13 @@ The last time the Church of the Devout was united under one leadership, Forthyr 
 
 In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
 
+<!-- TODO
+
 #### <span class="num">1.5</span> The Southern Church
 
 #### <span class="num">1.6</span> The Divine History of the Devas and Asuras
 
-foo bar
+-->
 
 ### <span class="num">2</span> Arhism
 
@@ -424,7 +498,7 @@ The Travellers believe in one universal God, who they call the One, who is imman
 -->
 
 
-## <span class="num">VI</span> Geography
+## <span class="num">VII</span> Geography
 
 <!-- TODO: a fucking map -->
 
