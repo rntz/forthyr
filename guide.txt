@@ -274,82 +274,13 @@ Consequently, life underground is concentrated into sparsely scattered but indiv
 
 <!-- TODO: better phrasing for "varies from region to region". "not entirely consistent"? -->
 
-The core of the caste system is the nearly-universal Four Castes, but they are merely the beginning of the many distinctions of rank and kind made by virtue of one's birth. But as these distinctions vary wildly from region to region, a description of the Four Castes will have to suffice.
+At the core of the caste system are the Four Castes: Peasant, Warrior, Noble, and Priest. These are merely the beginnings of the many distinctions of rank and kind made by virtue of one's birth; but as these distinctions vary wildly from region to region, I can give no brief account of them here.
 
-<!-- TODO: I should really condense this into a few paragraphs if possible. Nobody wants to read pages and pages about the caste system. Caste inheritance DEFINITELY does not belong here, except to note that second & third sons of Nobles have a hard time. -->
+The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. Almost all peasants are farmers, in addition to their other work. When the growing season comes every able-bodied peasant is needed to tend the fields, to ensure that the enclave has enough food to make it through Winter and still pay its taxes. Peasants are bound to the land, and may not move freely without their Noble's permission.
 
-#### <span class="num">2.1</span> The Four Castes
+Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, minor officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it. Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Courtly Warriors generally have higher social status than village Warriors.
 
-The Four Castes are Peasant, Warrior, Noble, and Priest. There are also various persons who fall temporarily or permanently outside of these castes, such as slaves and indentured servants, the newly-emerging merchant class, and infidels—followers of religions other than the Church of the Devout.
-
-##### <span class="num">2.1.1</span> Peasants
-
-The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. I do not list farmers because almost all peasants are farmers, in addition to the other work they do. When the growing season comes, every able-bodied peasant is needed to tend the fields, farming as much land as possible so that the enclave has enough food to make it through Winter and still pay its taxes.
-
-Peasants are bound to the land of their ruling Noble, but the strictness and enforcement of this bond varies. In the most populous regions, in particular the Lowlands, it is generally impractical to enforce. When it is enforced, usually it is by levying a fine on the runaway peasant's family.
-
-Peasants are expected to take up arms during wartime, but they are not leaders in battle or in peacetime; that falls to the Warriors.
-
-##### <span class="num">2.1.2</span> Warriors
-
-Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, petty officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it.
-
-Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Sometimes these positions are hereditary, and so entire families of Warriors serve the Noble, and sometimes Warriors are called up from among the villages to fill these positions. Courtly Warriors generally have higher social status than village Warriors.
-
-##### <span class="num">2.1.3</span> Nobles
-
-Nobles are the ruling class. Every Noble family has a *dominion*, a territory that belongs to them, along with the Peasants bound to it. 
-
-<!-- TODO: barons vs kings -->
-
-##### <span class="num">2.1.4</span> Priests
-
-The Priesthood of the Church of the Devout.
-
-#### <span class="num">2.2</span> The Merchant Class
-
-In the Lowlands of the Pelluin river valley a new merchant class is beginning to emerge, rich enough to be able to flaunt the strictures of the caste system. The Church is of course outraged, and regularly petitions nominally-Devout kings to punish such violations; but their complaints nowadays fall largely on deaf ears. Over the past half-century the Lowland kings have learned that a hostile attitude to entrepreneurship will leave kingdom rather less prosperous than its more open-minded neighbors.
-
-The reasons for this emergence I can only conjecture, but the relative mildness of the past hundred or so Winters in the Lowlands probably has something to do with it. A milder, shorter Winter means less time and effort spent merely surviving and more spent mining, smithing, crafting, and conquering. The Lowlands nations have become modestly rich as a result, and trade within and between nations is at an all-time high.
-
-<!--
-and the rulers whose states have grown rich from the merchants' trade are content to turn a blind eye to this violation.  -->
-
-#### <span class="num">2.3</span> Sans-castes
-
-A person outside the caste system is termed *sans-caste*. Sans-castes are generally treated poorly. A caste is a place in society; sans-castes have no place in, and receive no respect from, society. Merchants are a rare exception to this rule.
-
-Slaves are of course sans-castes: they are property, not persons. Slave-ownership is rare, however: under the caste system strictly interpreted only a Noble may own property, and why would a Noble keep slaves when the caste system already enslaves an entire populace to their whims?
-
-<!-- TODO: think about economics behind indentured servitude -->
-
-Indentured servitude is far more common. Even a Peasant may have an indentured servant; indentured servants are not property, they are merely working off a debt they owe. The indentured are *temporarily* without caste; they return to their caste upon their release from servitude. As such they are better-treated than other sans-castes.
-
-Infidels (i.e. non-Devout) are usually considered sans-caste, although some regions are more tolerant in this regard. How exactly they are treated depends on their religion or ethnic group. <!-- TODO: brief overview of how each group is treated? -->
-
-Savvyheads nominally have caste due to their birth, but are practically treated as sans-caste. Without the patronage of a baron or king, savvyheads are doomed to being social pariahs, beggars and vagrants. And that's if they're lucky enough not to be lynched.
-
-<!-- TODO: how are itinerants in general treated? adventurers are really just a special-case of this.
-
-Classes of itinerants:
-- adventurers
-- minstrels and performers
-- Travellers
-- pilgrims (these aren't sans-caste, but temporarily have their caste revoked)
-
--->
-
-Adventurers and treasure-hunters are <!-- TODO -->
-
-Finally, there are outlaws. An outlaw has been stripped both of caste and protection under the law. Anyone may steal from them, kill them, or otherwise harm them without consequence. This punishment is generally reserved for heinous criminals who have repeatedly evaded capture.
-
-<!-- Slaves, indentured servants, infidels, Seekers, savvyheads -->
-
-<!--
-#### <span class="num">2.4</span> Caste Inheritance
--->
-
-<!-- IN APPENDIX: caste inheritance -->
+Nobles are the ruling class. Every Noble family has a *dominion*, a territory that belongs to them, along with the Peasants bound to it. <!-- TODO -->
 
 
 ## <span class="num">VI</span> Religions
@@ -358,13 +289,23 @@ Religion is a major force on Forthyr, more powerful by far than any king or exar
 
 ### <span class="num">1</span> The Church of the Devout
 
+<!--
+The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In central Forthyr, these Cults in turn absorbed and merged with various local animistic folk religions.
+-->
+
+<!--Consequently, -->
+
 The Church of the Devout is a splintered, many-faceted thing. I here describe it as it exists in the Heartlands of Forthyr, the region I am most familiar with. Even so it is more a group of related religious traditions than a unified church.
 
-There are two primary ways in which it is divided. First, it is split into many competing Cults, each worshipping a particular god or goddess, each with its own priesthood and institutional structure. Second, there is a distinction between High Church and Low Church; the former is the collection of beliefs and rituals practiced by nobility and upper priesthood, the latter those practiced by the commonfolk and local pastors.
+<!-- First, it is split into many competing Cults -->
 
-<!-- #### <span class="num">1.1</span> Core Beliefs -->
+There are two primary ways in which it is divided. First, it is split into many competing Devic Cults, each with its own priesthood and institutional structure, each worshipping a particular god or goddess—although acknowledging the existence and divinity of the others in the Pantheon. Second, there is a distinction between High Church and Low Church; the former is the collection of beliefs and rituals practiced by nobility and upper priesthood, the latter those practiced by the commonfolk and local pastors.
 
-If you ask the Cult priests what the essence of the Church is, they will speak of the pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest. But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention.
+These divisions have their origins in the Crusades, a thousand years ago. The Church was united then, and Forthyr trembled beneath the boots of its armies. It very nearly exterminated the Exarchs and destroyed their Immortality Machines. But the Crusades failed, and the weakened Church was wracked by a Reformation that splintered it into separate Cults. In the Forthyrian Heartlands, moreover, these Cults absorbed and merged with various local animistic folk religions, producing the Low Church.
+
+<!-- The Low Church, with its practices of ancestor worship and rites invoking natural spirits, has its origins in this absorption. -->
+
+If you ask the Cult priests what the essence of the Church is, they will speak of the Pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest. But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention.
 
 <!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
 
@@ -393,21 +334,36 @@ Of the major cults of the Heartlands, the Cult of Tomas most emphasizes the ladd
 
 <!-- TODO: think about structure of lesser cults. are they attached to greater cults? do they only exist in big cities? are they popular within small regions? -->
 
-There are many Devas, and almost as many Devic cults.
+There are many Devas, and almost as many Devic cults. But in the Heartlands the Church has long been dominated by an alliance of three cults: the Cult of Joe, the Cult of Liz, and the bipartite Cult of Tom and Tomas.
 
 ##### <span class="num">1.2.1</span> The Cult of Joe
 ##### <span class="num">1.2.2</span> The Cult of Liz
 ##### <span class="num">1.2.3</span> The Cult of Tom and Tomas
 
-<!-- TODO: #### High and Low Church -->
+#### <span class="num">1.3</span> High and Low Church
 
-#### <span class="num">1.3</span> The History of the Church
+#### <span class="num">1.4</span> The History of the Church
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
+<!-- As the primary sources for the history of the Church of the Devout are the stories it chooses to tell about itself, it is hard to tell where myth turns into fact. According to Church dogma, the Church has existed for as long as humanity has. -->
+
+I should warn you that the earlier parts of this history are educated guesswork verging on speculation. The Church is unfathomably ancient—Church dogma claims it has existed as long as humanity itself—and written records of any time before the Crusades are few and far between. Most sources on that period are from the Church's own internal histories, so who knows how accurate they are?
+
+What seems likely is that, along with every other religion, the Church of the Devout was suppressed during the reign of the First Exarch Sikanda in favor of worship of Sikanda themself. It is perhaps from this source that the Church's lasting hatred for Exarchs and Immortality Machines springs.
+
+<!-- TODO: work on next paragraph -->
+<!-- scrabbled to grab a chunk of the rapidly disintegrating Empire -->
+
+In the aftermath of Sikanda's disappearance, while a hundred upstart Exarchs scrabbled and squabbled over the fragments of the disintegrating Empire, condemning millions to die in war and famine, the Church re-emerged as a force to be reckoned with. The Church alone cared for the common folk. The Church re-established peace and rule of law, holding back the advances of avaricious warlords and rogue wizards. The Church unified people in an era plagued by darkness and dissolution.
+
+So says the Church, anyways. And the Church indeed unified a great many territories.
+
+<!--
 The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults.
 
-In the Forthyrian Heartlands, these Cults merged with the local animistic folk religion.
+In the Forthyrian Heartlands, these Cults absorbed and merged with various local animistic folk religions. The Low Church, with its practices of ancestor worship and rites invoking natural spirits, has its origins in this absorption.
+-->
 
 <!-- TODO
 
