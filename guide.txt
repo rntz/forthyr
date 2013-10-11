@@ -99,17 +99,24 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
-Our world is strewn with the remains of some ancient civilisation, one clearly more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of deliberate construction: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
+Our world is strewn with the remains of an ancient civilisation, one clearly more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of deliberate construction: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
 
 The Ancients built on a massive scale. Our largest cities occupy merely the upper levels of their ruins. They built tunnels wide enough for a hundred men or more to march abreast; and these same tunnels continue razor-straight so far into the distance they shrink to mere points. Above ground, too, they left their mark, in the form of vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
 
-They built using materials we do not know how to replicate. Having spent some time on Earth I can now guess at the identity of a few of them, but not all. Their constructions have withstood uncounted millenia unmarked by rust and uneroded by weather. To be fair, perhaps that is merely because those that could not stand the test of time no longer exist at all.
+They built using materials we do not know how to replicate. Having spent some time on Earth I can now guess at the identity of a few of them, but not all. Their constructions have withstood uncounted millenia unmarked by rust and uneroded by weather. To be fair, perhaps that is simply because those that could not stand the test of time no longer exist at all.
+
+The Ancients left behind not only architecture, but artifacts. They left weaponry: guns, artillery, mobile weapon platforms (some tank-like, some humanoid, some monstrous), armored suits, glowing swords, death rays, psychic dampeners, hunter-seeker drones, city-destroying bombs, the whole shebang. They left infrastructure: power generators, light sources, plumbing systems, hydroponics chambers, teleporters, laboratories, factories. And they left thousands of other tools and gewgays: direction- and path-finders, lock-pickers, puzzles, jewelry, autonomous robots, toys, music-boxes; the list is endless.
+
+Unfortunately, they forgot to leave behind any instruction manuals. The fact is, we have no idea what half of the stuff they left behind is even *supposed* to do, let alone how to operate it. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard—if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
+
+<!-- TODO: ugh, awkward -->
 
 <!--
-The Ancients left behind not only architecture, but artifacts. They left weaponry: guns, but also 
+But most of what they left behind, we simply do not understand the purpose of.
+Even those things we do recognize, we rarely know how to operate. -->
 
-We do not know the original purpose or workings of half of what they left behind.
-
+<!--
+We do not know the original purpose of half of what they left behind. Even those things whose purpose is obvious we rarely know how to operate. Consequently, blah blah disrepair blah.
 -->
 
 <!-- the entrances to the lower levels [of the ruins] are deliberately blocked off or guarded to avoid leaving a back-door for attackers-->
@@ -161,7 +168,7 @@ Apparently even the Ancients were not powerful enough to survive winter topside,
 
 Of all the technological relics left behind by the Ancients, without doubt the most significant are the Immortality Machines. I cannot tell you how to operate one, or even how one looks; I have never seen one personally. But I can tell you what they do: two persons go in, a master and a victim; the machine is activated; and the mind of the master walks out in the body of the victim. The master's old body is dead, and the victim's old mind is gone.
 
-These machines are of course rare. They are beyond price: their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve undying sovereignty. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, still manages to possess and use a Immortality Machine, is called a Lich.
+These machines are of course rare. They are beyond price: their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve undying sovereignty. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, manages to possess and use a Immortality Machine, is called a Lich.
 
 The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millenium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so perhaps there is a grain of truth to it.
 
