@@ -31,8 +31,6 @@ From this constant we take our bearings. Our four cardinal directions are Sunwar
 
 That, in brief, is how our skies differ from yours; perhaps the briefest of all our differences.
 
-<!-- TODO: finishing paragraph -->
-
 
 ## <span class="num">II</span> Seasons
 
@@ -40,7 +38,7 @@ There are three seasons on Forthyr: the monsoons, the dry season, and Winter.
 
 The year begins when snow gives way to rain and the monsoons begin. Immediately the land is drenched by torrential, ceaseless rain. The air grows heavy with humidity and heat, especially in the lowlands. After the initial onslaught the rain lessens a shade, just barely enough for the soil to turn from impenetrable waist-deep mud into something dry enough to sow seed in. So begins the growing season—which is merely a name for the time when it is possible to grow crops topside. It is not one of the three seasons itself, but it is just as important as any of them.
 
-<!-- Need to talk about life blossoming from the soil spontaneously, "trees" growing etc. OR could talk about that in flora and fauna section. -->
+<!-- TODO: Need to talk about life blossoming from the soil spontaneously, "trees" growing etc. OR could talk about that in flora and fauna section. -->
 
 After the monsoons comes the dry season. The rains slowly taper off and the air grows hotter yet, a dry heat this time. The land parches and bakes, and one by one the rivers dry up. The growing season's end is traditionally marked when the nearest riverbed begins to crack in the heat. Only the mighty Pelluin remains flowing for the entire season. Halfway into the dry season, the dust storms begin. After that, travel topside is nearly impossible.
 
@@ -50,13 +48,17 @@ After the monsoons comes the dry season. The rains slowly taper off and the air 
 
 After the dry season comes Winter. The dust storms end, the heat fades, but the air stays dry as parchment. These are the dying days, as what little vegetation survived the dry season wilts as if in knowledge of what is to come. <!-- The animals go to ground, disappearing into wherever it is they spend winter --> Shortly the temperature falls below freezing and the snow begins. And it snows, and snows, and snows, and the snow piles up and does not melt until Winter is over. Nobody is quite sure how deep the snow gets; nobody and nothing survives Winter above ground.
 
-During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the Ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation.
+During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the Ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation. We live on grains and roots stored up during the growing season. We grow some food underground, fungi mostly, but not enough to live on; and you cannot make a good diet of fungi alone. Malnutrition is a serious problem in hard years.
 
 <!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
 
 Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; and all too often Winter arrives on time, but doesn't leave when you expect it to.
 
+If I make our world sound harsh, that is because it is. If I make our lives sound hard, they are. My friends and family, and those others I know who still live on Forthyr, would not say it is so; but that is only because they have nothing else to compare it to. <!-- So if my words sound bitter, it is because I am. -->
+
+<!--
 Forgive me if I make our world sound harsh, if I make our lives sound hard. Forgive me if I sound bitter. But our world is harsh, and our lives are hard. My friends and family, and all those many others I knew who still live in Forthyr, would not say it is so; but that is only because they have nothing else to compare it with. And that is why I am bitter.
+-->
 
 <!-- Two hundred day years, with barely enough time for the crops to grow, but so little winter that it hardly matters, are not unknown. A six-hundred-day year comes once in as many years, and leaves few survivors. -->
 
@@ -97,7 +99,55 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
-Our world is littered with the remains of some ancient civilisation, one evidently far more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of intelligence rather than natural formation: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
+Our world is strewn with the remains of some ancient civilisation, one clearly more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of deliberate construction: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
+
+The Ancients built on a massive scale. Our largest cities occupy merely the upper levels of their ruins. They built tunnels wide enough for a hundred men or more to march abreast; and these same tunnels continue razor-straight so far into the distance they shrink to mere points. Above ground, too, they left their mark, in the form of vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
+
+They built using materials we do not know how to replicate. Having spent some time on Earth I can now guess at the identity of a few of them, but not all. Their constructions have withstood uncounted millenia unmarked by rust and uneroded by weather. To be fair, perhaps that is merely because those that could not stand the test of time no longer exist at all.
+
+<!--
+The Ancients left behind not only architecture, but artifacts. They left weaponry: guns, but also 
+
+We do not know the original purpose or workings of half of what they left behind.
+
+-->
+
+<!-- the entrances to the lower levels [of the ruins] are deliberately blocked off or guarded to avoid leaving a back-door for attackers-->
+
+<!-- Then there are the boreholes, equally massive tunnels built straight down, for no purpose we can fathom. -->
+
+<!-- should it be yellow or green? -->
+
+<!-- Their favorite material, however, is a metal that yet remains a mystery: yellow, but paler and duller than gold, as strong as steel but impervious to rust, acid, and all the forces that wear -->
+
+<!--
+
+Points to make:
+
+- Massive construction: giant cities, hundred-meter wide tunnels, boreholes, the Chasm.
+  bridges between mountains, the bridge to the Desolate Isle, the Gap
+  towers jutting thousands of meters into the air
+
+- Strange materials: unrecognizable metals of unusual strength, plastics, etc.
+- We don't know the purpose of half of what they built.
+  eg. the Chasm, boreholes
+
+- Some artifacts still functional even now
+  Example artifacts:
+  - Weapons: projectile, projected-energy, invisible death ray, slap-on disabling devices
+  - Power generators, light sources
+  - Hydroponics chambers
+  - Immortality Machines
+  - Devices and chambers of unknown purposes. No instruction manual.
+  - Vehicles (?)
+  - Locks
+
+- Ruins usually thoroughly looted by now
+  But often possible to find more
+
+-->
+
+<!-- There are other signs, too: the Chasm, boreholes, the Zothi Hill-Mazes. -->
 
 <!-- TODO: why aren't these just the work of older generations of humans? what's ancient/superior about them? -->
 
@@ -147,16 +197,15 @@ They are not, however, greedy for gold or jewels; neither are they of particular
 
 So much for Dwarven stereotypes.
 
-<!-- what do dwarves trade FOR? what do they value that humans can make?
+<!-- TODO: how *do* dwarves interact with humans?
 
+eg. if Dwarves trade, what do dwarves trade FOR? what do they value that humans can make?
 well, they'll certainly trade for interesting Ancient tech. is that all?
+
+IDEA: Tradition: dwarven rumspringa?
 -->
 
 <!-- The Dwarves live in cities and nations of their own, deep beneath Forthyr's surface. They rarely interact with humans, for they have little to gain from such interaction. -->
-
-<!-- tradition: dwarven rumspringa? -->
-
-<!-- TODO -->
 
 Despite Dwarves' fairly frequent contact with humans, surprisingly little is known aboutp them, apart from the common knowledge I give above. For example, it is not known how long Dwarves typically live; how and by whom they rule themselves; what or how they worship; or how their writing system works. <!-- more? -->
 We have myths and folk-tales about all of these things, of course, but they vary inconsistently from region to region and teller to teller.
@@ -166,14 +215,6 @@ For another example, all Dwarves have beards and none appear to have breasts. It
 Dwarves have certainly been observed to form strong individual bonds, some of them so close and lasting as to appear marriages, but whether these are truly romantic relationships or merely companionate ones is anyone's guess.
 
 The Dwarves themselves quite pointedly have nothing to say on the matter. It seems likely that it constitutes a Dwarven Secret. Indeed, according to legend, the only person to ever dissect a dwarf corpse, seeking to discover the truth of the matter, was murdered by Dwarves and then dissected himself—or, in the more gruesome version of the tale, vivisected.
-
-<!-- TODO: well, you could tell by dissecting them! perhaps only one dissection has been performed and it resulted in a dwarven honor-killing
-
-two options:
-- dwarven internals are like humans; they're a urethra and anus
-- dwarven internals are very unlike humans and it's not clear what the fuck is going on
-
-I like the second one. -->
 
 #### <span class="num">2.1</span> Dwarven Secrets
 
@@ -220,11 +261,6 @@ I do not know much about orcs. They live on the other side of the Moon Mountains
 
 Clever creatures that live in Ancient ruins and lay traps for unwary treasure-hunters. They do this mostly to defend themselves, but also as an intellectual pastime. Successful raids on kobold strongholds have discovered meticulous records of each adventurer slain, how they died and who was responsible for the trap that got them. The kobolds, in other words, had been keeping score.
 
-#### <span class="num">4.3</span> Goblins
-The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
-
-<!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
-
 <!-- Kobold traps are particularly devious because they often incorporate ancient artifacts; kobolds have a savvyhead-like affinity for such devices. -->
 
 <!-- Kobolds are also known for tinkering, savvyhead-like, with ancient artifacts, often incorporating them into traps. -->
@@ -233,21 +269,30 @@ The goblins were a peculiar race, extinct now for about three hundred years. The
 
 <!-- TODO: expand on kobolds -->
 
+#### <span class="num">4.3</span> Goblins
+The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
+
+<!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
+
 #### <span class="num">4.4</span> Others
 
 There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton, they say, that proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from wraxen or mammoths.
 
 There are regions of Forthyr so isolated, unexplored or impenetrable that strange intelligences could easily lurk in them all but unknown to the outside world: far within the Fungal Forest, or in the darkest depths of the Great Chasm, or beneath the Hill-Mazes of Zoth, or some lonely spot on the far side of the Desolate Isle. But most monster tales talk not of such exotic places, but of trolls lurking beneath bridges, or ratmen hiding in caverns just a secret passage away from the well-trodden tunnels of commerce; and it seems to me that if intelligent species were to be found in such pedestrian locations, we would surely know more of them than old wives' tales by now.
 
-<!-- TODO -->
-
 
 ## <span class="num">V</span> Life on Forthyr
 
 <!-- DISCUSS:
 
+in rough order of importance:
+
 - cities vs enclaves vs topside villages
   - enclave identity
+- domestic animals & plants
+- wild animals & plants, that they arise & die every year by unknown processes
+  "apparently by spontaneous generation"
+- existence of/life as a professional adventurer, ruin-looter, dungeon-delver
 - the feudal system in general
 - the position of magic & savvyheads
   - magic in everyday life
@@ -255,9 +300,6 @@ There are regions of Forthyr so isolated, unexplored or impenetrable that strang
   - the caste system
   - life under the Exarchs?
   - life under the Arhists?
-- domestic animals & plants
-- existence of professional adventurers
-  - ruin-looters
 - travel & trade?
 
 -->
@@ -289,25 +331,31 @@ Religion is a major force on Forthyr, more powerful by far than any king or exar
 
 ### <span class="num">1</span> The Church of the Devout
 
+The Church of the Devout is a splintered, many-faceted thing. I here describe it as it exists in the Heartlands of Forthyr, the region I am most familiar with. Even so it is more a group of related religious traditions than a unified church.
+
+The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation led by a loose coalition of iconoclastic upstarts.
+
+<!--
+that left it splintered into many separate Devic Cults. In the Heartlands, moreover, these Cults absorbed and merged with various local animistic folk religions. -->
+
+The failure of the Crusades split the Church along two axes. First, the initially successful Reformation soon splintered into many competing Devic Cults. Each Cult has its own priesthood and institutional structure, and worships its own deity—although acknowledging the existence and divinity of the others in the Pantheon. Second, in the Heartlands these Cults, seeking to gain converts, merged with various local animistic religions. This produced a split between the syncretic Low Church tradition, popular with common folk and incorporating the local religions' ancestor- and nature-worship, and a purer High Church tradition practiced by the nobility and upper priesthood.
+
+Thus, if you ask the Cult priests what the essence of the Church is, they will speak of the Pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest. But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention.
+
+<!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
+
 <!--
 The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults. In central Forthyr, these Cults in turn absorbed and merged with various local animistic folk religions.
 -->
 
-<!--Consequently, -->
-
-The Church of the Devout is a splintered, many-faceted thing. I here describe it as it exists in the Heartlands of Forthyr, the region I am most familiar with. Even so it is more a group of related religious traditions than a unified church.
-
-<!-- First, it is split into many competing Cults -->
+<!--
+As a result, the Church is split along two axes. First, it is split into many competing Devic Cults. First, it is split into many competing Devic Cults, each with its own priesthood and institutional structure, each worshipping a particular god or goddess—although acknowledging the existence and divinity of the others in the Pantheon. Second, there is a distinction between High Church and Low Church; the former is the collection of beliefs and rituals practiced by nobility and upper priesthood, the latter those practiced by the commonfolk and local pastors.
 
 There are two primary ways in which it is divided. First, it is split into many competing Devic Cults, each with its own priesthood and institutional structure, each worshipping a particular god or goddess—although acknowledging the existence and divinity of the others in the Pantheon. Second, there is a distinction between High Church and Low Church; the former is the collection of beliefs and rituals practiced by nobility and upper priesthood, the latter those practiced by the commonfolk and local pastors.
 
 These divisions have their origins in the Crusades, a thousand years ago. The Church was united then, and Forthyr trembled beneath the boots of its armies. It very nearly exterminated the Exarchs and destroyed their Immortality Machines. But the Crusades failed, and the weakened Church was wracked by a Reformation that splintered it into separate Cults. In the Forthyrian Heartlands, moreover, these Cults absorbed and merged with various local animistic folk religions, producing the Low Church.
 
-<!-- The Low Church, with its practices of ancestor worship and rites invoking natural spirits, has its origins in this absorption. -->
-
-If you ask the Cult priests what the essence of the Church is, they will speak of the Pantheon of the Devas, of how their particular god or goddess is foremost among them, and of the great histories and scriptures and the guidance they offer us. If you ask the peasantfolk, they will speak of nature spirits, of venerated ancestors, and of the rituals that ensure a long summer and a good harvest. But the true core of the Church is its attitude to reincarnation, belief in which is so universal and unquestioned, shared by Arhists and Seekers of the Way and even the Travellers in their own way, that it is considered beneath mention.
-
-<!-- class division: polytheistic w/ pantheon in priesthood, semi-animistic w/ ancestor worship among common folk -->
+The Low Church, with its practices of ancestor worship and rites invoking natural spirits, has its origins in this absorption. -->
 
 #### <span class="num">1.1</span> The Ladder of Reincarnation
 
@@ -315,11 +363,11 @@ Although almost all Forthyrian religions believe in reincarnation, they disagree
 
 Though our fates are decided at birth, it remains to us to decide whether to willingly fulfill our destiny to the fullest degree, or to senselessly fight and resist it, and so become a mere shadow of what we could have been. Deliberately following one's inevitable fate is noble and right; conversely, denying one's fate is both futile and reprehensible.
 
-In particular, by following one's fate one acquires positive *ka*; resisting it accumulates negative *ka*. The greater one's *ka*, the more noble and desirable the fate of one's next life. Eventually, a person possessed of truly magnificent *ka* ascends into Heaven upon being reborn. Heaven is not, however, the end of the journey. The Church believes in a great ladder of spiritual existence, on which our world is the middle rung. The realms of Heaven are the rungs above it, and those below it are of Hell.
+In particular, by following one's fate one acquires positive *ka*; resisting it generates negative *ka*. The greater one's *ka*, the more noble and desirable the fate of one's next life. Eventually, a person possessed of truly magnificent *ka* ascends into Heaven upon being reborn. Heaven is not, however, the end of the journey. There is great ladder of spiritual existence, on which our world is merely the middle rung. The realms of Heaven are the rungs above it, and those below it are of Hell.
 
 The caste system is an integral part of this ladder of reincarnation. Everyone has an assigned place in the caste system, a role to serve in society. They have this role, they are in their caste, because their *ka* deserves it. If they live according to their place they are rewarded by just treatment in this life and a grander fate in the next.
 
-This may sound unjust to your ears, Earther, but bear in mind that it is a source of immeasurable comfort to millions of people. The caste system merely codifies that which would most likely be the case anyways: the vast majority of people lead powerless, inconsequential lives toiling for a baron or king who cares little for them or their lot. They are subject to innumerable diseases, to the vagaries of the seasons, to the whims of their lord and the ambitions of their lord's enemies. Church doctrine does not serve only to castigate those who would exceed their place—it gives value and purpose to the lives of those for whom exceeding their place was never a real option to begin with. Such people are the majority, sadly.
+This may sound unjust to your ears, Earther, but bear in mind that it is a source of immeasurable comfort to millions of people. The caste system merely codifies that which would most likely be the case anyways: the vast majority of people lead powerless, inconsequential lives toiling for a baron or king who cares little for them or their lot. They are subject to innumerable diseases, to the vagaries of the seasons, to the whims of their lord and the ambitions of their lord's enemies. Church doctrine does not serve only to castigate those who would exceed their place—it gives value and purpose to the lives of those for whom exceeding their place was never a real option to begin with. Such people are, sadly, in the majority.
 
 <!-- TODO: gods are in high levels, high levels in Heaven can influence lower levels (and lower levels in Hell can influence higher levels) -->
 
@@ -340,9 +388,9 @@ There are many Devas, and almost as many Devic cults. But in the Heartlands the 
 ##### <span class="num">1.2.2</span> The Cult of Liz
 ##### <span class="num">1.2.3</span> The Cult of Tom and Tomas
 
-#### <span class="num">1.3</span> High and Low Church
+<!-- #### <span class="num">1.3</span> High and Low Church -->
 
-#### <span class="num">1.4</span> The History of the Church
+#### <span class="num">1.3</span> The History of the Church
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
@@ -357,7 +405,7 @@ What seems likely is that, along with every other religion, the Church of the De
 
 In the aftermath of Sikanda's disappearance, while a hundred upstart Exarchs scrabbled and squabbled over the fragments of the disintegrating Empire, condemning millions to die in war and famine, the Church re-emerged as a force to be reckoned with. The Church alone cared for the common folk. The Church re-established peace and rule of law, holding back the advances of avaricious warlords and rogue wizards. The Church unified people in an era plagued by darkness and dissolution.
 
-So says the Church, anyways. And the Church indeed unified a great many territories.
+So says the Church, anyways. <!-- And the Church indeed unified a great many territories. -->
 
 <!--
 The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults.
@@ -375,13 +423,13 @@ In the Forthyrian Heartlands, these Cults absorbed and merged with various local
 
 ### <span class="num">2</span> Arhism
 
-The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meagre foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and most notably outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire. <!-- empire? conglomeration? federation? -->
+The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meagre foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire. <!-- empire? conglomeration? federation? -->
 
 <!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
 
 The Arhists do not believe in a god or gods. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
 
-Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but coalesces in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
+Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
 
 The Arhists have a very different view of Immortality Machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death is a servant of Kamma, ever seeking to destroy the progress we achieve in our lifetimes.
 
@@ -393,7 +441,7 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 
 #### <span class="num">2.1</span> The History of Arhism
 
-The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a different continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
+The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a far continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
 
 The Desolate Isle was then and remains uninhabited, save for the caves off the coast of Freeport; so the group did not make contact with any native Forthyrians. They occupied the Ancient ruin of Sangraha. A group of about fifty left, however, disobeying their elders' commands for fear that the island was too infertile and the remaining time too short to grow enough food to sustain them through Winter. They were right; fully two-thirds of those who remained perished in the coming Winter. For this reason Sangraha is known to Arhists as "The Martyred City".
 
@@ -418,7 +466,7 @@ The Devic Cults and Arhism both seek popular support and political power; for th
 
 <!-- indeed, would-be Seekers are often hard-pressed to find a master to instruct them -->
 
-The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and of reality during a visit to an abandoned enclave that had been overrun by a fungal bloom. Otaumo preached the insights he gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
+The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and of reality during a visit to an abandoned enclave that had been overrun by a fungal bloom. Otaumo preached the insights he had gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
 
 Otaumo himself wrote nothing down, but his five foremost disciples each wrote chronicles of his life and explanations of their understanding of his philosophy. These books together form the Pentad, a core text for Seekers. The Seekers have few traditions, and foremost among them is this: every Seeker keeps a copy of the Pentad, with selected commentary from later eminent Seekers, and blank pages at the end for the Seeker to write their own thoughts.
 
@@ -519,7 +567,7 @@ Among students at the University of Roke, the question of whether the Wizard of 
 One may wonder why we use this glyph at all, if it occurs in only one name and has a ready substitute. We do not simply write "Pexavn" because there is, according to superstition, a curse on the name Peχavn that descends upon those who inscribe it incorrectly. This superstition is backed up by numerous tales of the fate of those who violated it, some of them quite recent. The reputed effects of the curse vary wildly. One recipient vomited up feces, then choked to death on them. Another found that wherever he travelled, the monsoons failed to fall; he was eventually hung by angry villagers. Another became irresistibly attractive to fungus hogs for the rest of his life.
 
 
-<!-- TODO: this is really out-of-place now -->
+<!-- TODO: this is really out-of-place now. adapt this to be a better conclusion. -->
 ## <span class="num">X</span> Aside
 
 <!--
@@ -527,8 +575,6 @@ Our worlds could not be more different, and yet they are strangely similar. We h
 
 Your world is just as alien, just as familiar, to me.
 -->
-
-<!-- TODO: is capitalization used after a colon? -->
 
 If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know.
 
