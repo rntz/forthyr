@@ -174,6 +174,67 @@ The Immortality Machines have shaped the history, religion, and politics of Fort
 
 ### <span class="num">2</span> Savvyheads
 
+<!-- A very few people possess a unique and innate talent for working with Ancient devices. -->
+
+Every once in a while, a person is born who displays from a young age a unique and innate talent for working with Ancient devices. Such persons are called savvyheads, and their talent comes with a curse: savvyheads are never quite of sound mind—or at least, not of normal mind. Their abilities are intuitive, rather than rational; they do not study to acquire them, and they cannot explain their techniques to others. Indeed, savvyheads find communication generally difficult, although the extent of this disability varies from mere difficulty putting things into words, to complete incoherency, to muteness.
+
+Put simply, savvyheads are weird. Difficulty communicating is their only universal oddity. Other common traits include: physical and verbal tics; obsessive but pointless habits; childish behavior such as tantrums, pickiness about food, and the need for security blankets or dolls; and intense aversion to magic.
+Savvyheads sometimes behave oddly toward artifacts they are investigating: caressing, smelling, or licking them, meditating or ritually preparing themselves before using them, etc.
+They frequently have "deviant" sexuality: object, animal, and body part fetishes, sadism, masochism, or lack of any sexual attraction whatsoever. (Homo- and bi-sexuality, however, do not appear more common among savvyheads than the general populace, and neither does variant gender expression.)
+Savvyheads who engage in artistic expression, though rare, produce surreal and disconcerting work, as if they see and experience a universe totally foreign to us.
+
+<!-- TODO: when do their abilities manifest? their strangeness? what if identified as savvyheads early? what if never identified as savvyheads b/c never exposed to artifacts? -->
+
+Savvyhead's utter strangeness is little-tolerated by society. Without the patronage of a baron or king, they are doomed to being social pariahs, beggars and vagrants—and that's if they're lucky enough not to be lynched. But they frequently receive such Noble protection, because their abilities are invaluable to those in positions of power and responbility. A savvyhead's skills can turn a moldy Ancient ruin fit only to be a Winter enclave into an artificially-lit city with running water, impenetrable defenses, and a vat-grown supply of nutritious food. Savvyheads are also a practical necessity for any Exarch who does not wish to spend decades studying the workings of the Immortality Machines.
+
+And, of course, a savvyhead given access to Ancient weaponry can equip an army with enough firepower to overcome any force not similarly advantaged. This is a dangerous path to go down, however, for two reasons. Firstly, though a savvyhead may be able to repair and operate Ancient weaponry themselves, due to the intuitive nature of their ability and their general difficulty communicating, they cannot explain to others how to imitate them. To equip an army with Ancient weaponry, therefore, requires modifying the weaponry to operate by some means easily accessible to an ordinary soldier. This is only occasionally possible, and often renders the weaponry unreliable and unpredictable.
+
+Secondly, making use of Ancient weaponry in battle has a tendency to alarm one's neighbors and cause them to make a common cause of defeating you. Even if you defeat them, you then have to worry about your neighbors' neighbors, et cetera.
+
+<!-- Savvyheads often display other behavioral peculiarities, although difficulty communicating is the only universal trait. -->
+
+<!-- Savvyheads also display peculiar behavior, in the form of quirks and tics, obsessive habits. -->
+
+<!-- How can savvyheads be portrayed as "weird fuckers"?
+
+- Universal: Difficulty communicating
+  Everything else variable.
+
+- Tics, quirks, obsessions
+- Strange behavior involving artifacts
+- Childish desires and demands:
+  - Temper tantrums, pickiness about food, need for security items
+- Sexual "deviancy": object fetishes, S/M, needles, bestiality
+  - lack of sexual attraction to human bodies
+- Grotesque self-expression: poems, artwork,
+  They see and describe a different world.
+- Intense aversion to magic?
+
+NOT any more likely to be homicidal, brutal, or psychopathic. Even the ones who enjoy sexual sadism. Indeed, generally easy to manipulate if their wants are met.
+
+-->
+
+ <!-- This problem is not merely verbal, either; they have equal difficulty understanding and communicating with body language, the written word, gestures and tones of voice. -->
+
+<!-- TO explain re savvyheads:
+
+- intuitive not rational
+- weird fuckers
+  - display strange and asocial behavior
+  - not good at communicating (linguistically, varies from difficulty putting things into words to entirely incoherent to mute)
+  - bad at reading body language
+  - quirks or tics are common
+  - especially when fiddling with a device: smelling, licking, caressing, meditating
+
+- start displaying behavior + abilities when approaching puberty
+- social outcasts (among Arhists, taken into special order)
+- valuable to kings and exarchs
+
+- when tech used for warfare, generally goes badly in the end
+
+-->
+ 
+
 
 ## <span class="num">IV</span> Peoples
 
