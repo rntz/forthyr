@@ -18,8 +18,6 @@ Our Sun and Moon do not hang distantly revolving in the sky; each sits in a defi
 
 <!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
 
-<!-- TODO: "lain dormant"? "having lain dormant"? -->
-
 Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, as bright as a full moon on Earth.
 
 Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in Winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
@@ -50,8 +48,6 @@ After the dry season comes Winter. The dust storms end, the heat fades, but the 
 
 During Winter we hide underground, like moles. We hide in the caves and tunnels that riddle the surface of this hollow ball we live in. We hide in the ruins of cities the Ancients built, we hide in natural caverns carved by underground rivers, and, if we must, we hide in cramped caves painstakingly hollowed out by shovel and pick, generation by generation. We live on grains and roots stored up during the growing season. We grow some food underground, fungi mostly, but not enough to live on; and you cannot make a good diet of fungi alone. Malnutrition is a serious problem in hard years.
 
-<!-- TODO: need note on how they actually survive winter, having stored up food and stuff -->
-
 Most years last about four hundred days. The monsoons last for a quarter of the year; the dry season, another quarter; cruel Winter takes the rest. But all of these are generalizations. A year can be four hundred days, yes, or three hundred, or two, or an unhappy five hundred. Sometimes the dry season comes early, and the crops are stunted; sometimes it arrives late, and Winter barely comes at all; and all too often Winter arrives on time, but doesn't leave when you expect it to.
 
 If I make our world sound harsh, that is because it is. If I make our lives sound hard, they are. My friends and family, and those others I know who still live on Forthyr, would not say it is so; but that is only because they have nothing else to compare it to. <!-- So if my words sound bitter, it is because I am. -->
@@ -61,8 +57,6 @@ Forgive me if I make our world sound harsh, if I make our lives sound hard. Forg
 -->
 
 <!-- Two hundred day years, with barely enough time for the crops to grow, but so little winter that it hardly matters, are not unknown. A six-hundred-day year comes once in as many years, and leaves few survivors. -->
-
-<!-- TODO: insert historic anecdote -->
 
 <!-- The monsoon and dry seasons generally last about a hundred days each; and Winter lasts as long as both combined. Half the year is Winter; the other half together is called Summer. -->
 
@@ -109,7 +103,7 @@ The Ancients left behind not only architecture, but artifacts. They left weaponr
 
 Unfortunately, they forgot to leave behind any instruction manuals. The fact is, we have no idea what half of the stuff they left behind is even *supposed* to do, let alone how to operate it. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard—if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
 
-<!-- TODO: ugh, awkward -->
+<!-- TODO: ^ ugh, awkward transition -->
 
 <!--
 But most of what they left behind, we simply do not understand the purpose of.
@@ -195,42 +189,15 @@ Secondly, making use of Ancient weaponry in battle has a tendency to alarm one's
 
 <!-- Savvyheads also display peculiar behavior, in the form of quirks and tics, obsessive habits. -->
 
-<!-- How can savvyheads be portrayed as "weird fuckers"?
+<!-- Note: savvyheads not any more likely to be homicidal, brutal, or psychopathic. Even the ones who enjoy sexual sadism. Indeed, generally easy to manipulate if their wants are met. -->
 
-- Universal: Difficulty communicating
-  Everything else variable.
+<!-- This problem is not merely verbal, either; they have equal difficulty understanding and communicating with body language, the written word, gestures and tones of voice. -->
 
-- Tics, quirks, obsessions
-- Strange behavior involving artifacts
-- Childish desires and demands:
-  - Temper tantrums, pickiness about food, need for security items
-- Sexual "deviancy": object fetishes, S/M, needles, bestiality
-  - lack of sexual attraction to human bodies
-- Grotesque self-expression: poems, artwork,
-  They see and describe a different world.
-- Intense aversion to magic?
-
-NOT any more likely to be homicidal, brutal, or psychopathic. Even the ones who enjoy sexual sadism. Indeed, generally easy to manipulate if their wants are met.
-
--->
-
- <!-- This problem is not merely verbal, either; they have equal difficulty understanding and communicating with body language, the written word, gestures and tones of voice. -->
-
-<!-- TO explain re savvyheads:
-
-- intuitive not rational
-- weird fuckers
-  - display strange and asocial behavior
-  - not good at communicating (linguistically, varies from difficulty putting things into words to entirely incoherent to mute)
-  - bad at reading body language
-  - quirks or tics are common
-  - especially when fiddling with a device: smelling, licking, caressing, meditating
+<!-- TODO explain re savvyheads:
 
 - start displaying behavior + abilities when approaching puberty
+  (around age 10?)
 - social outcasts (among Arhists, taken into special order)
-- valuable to kings and exarchs
-
-- when tech used for warfare, generally goes badly in the end
 
 -->
  
@@ -295,8 +262,6 @@ It seems appropriate at this point to explain the matter of Dwarven Secrets.
 The Traders are a mysterious folk, more secretive even than Dwarves. They are called Traders because that is the one thing that we know them to do. We do not even know if they need to sleep, eat, breathe, or excrete.
 
 They swathe themselves from head to toe in bright-hued cloths. Their faces they cover with metal masks, no two alike, etched with spirals, whorls, and geometric patterns. Inset in their masks are glass eyepieces, usually tinted green or red or gold, which are opaque and mirrorlike from the outside. From where their mouths would be hangs a bag of a flexible black substance, pierced here and there with holes (for breathing, perhaps, although they make no sound). On their feet they wear large leather boots with pointed toes, and on their hands leather gloves with metal knuckles and fingertips. They are fond of decoration and jewelry, wearing gold-trimmed headscarves, tasseled shawls, bracelets and necklaces. They often wear decorated belts or silken sashes, hung heavy with pouches, trinkets and weaponry: swords, hooks, whips, and Ancient weapons of strange designs.
-
-<!-- TODO: they are fond of jewelry -->
 
 Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
 
@@ -369,8 +334,6 @@ in rough order of importance:
 -->
 
 ### <span class="num">1</span> Villages, Enclaves and Cities
-
-<!-- As I have said, during Winter we are forced to live underground. -->
 
 Good places to live underground are few and far between. You need a source of water, an aquifer or well. You need a space large enough for many people to live, and also enough to store the supplies of crop to last you through the winter, and seed to plant once it ends. You need a connection to the main network of underground tunnels that run beneath Forthyr. And of course, all this needs to be defensible.
 
