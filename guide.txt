@@ -339,17 +339,25 @@ Good places to live underground are few and far between. You need a source of wa
 
 Consequently, life underground is concentrated into sparsely scattered but individually crowded and cramped dwelling-places called *enclaves*. A single enclave usually holds from a hundred to a thousand people. Anything larger than that tends to become a city—the distinction being that enclaves are Winter refuges, while cities are inhabited year-round.
 
+When Summer begins, an enclave's inhabitants disperse into a number of topside villages of roughly twenty to fifty people each. The enclave itself is left with only a token guard (which rotates to avoid boredom and to evenly distribute labor); this leaves the enclave dangerously vulnerable, but is necessary to free up labor to work the fields. The first weeks of the monsoons are spent rebuilding the villages from the damage they sustained during Winter. At Summer's end, the topside villages empty and people return to the shelter of their enclaves.
+
+Cities are much the same, but remain inhabited (albeit less densely) and fully guarded during Summer. Living in a city during Summer is a sign of affluence and power; it sets you apart from the peasants who work the fields for a living.
+
 ### <span class="num">2</span> The Caste System
 
 <!-- TODO: better phrasing for "varies from region to region". "not entirely consistent"? -->
 
-At the core of the caste system are the Four Castes: Peasant, Warrior, Noble, and Priest. These are merely the beginnings of the many distinctions of rank and kind made by virtue of one's birth; but as these distinctions vary wildly from region to region, I can give no brief account of them here.
+In the Heartlands and Lowlands of Central Forthyr, society is organized according to a strict caste system. At the core of this system are the Four Castes: Peasant, Warrior, Noble, and Priest. These are merely the beginnings of the many distinctions of rank and kind made by virtue of one's birth; but as these distinctions vary wildly from region to region, I can give no brief account of them here.
 
 The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. Almost all peasants are farmers, in addition to their other work. When the growing season comes every able-bodied peasant is needed to tend the fields, to ensure that the enclave has enough food to make it through Winter and still pay its taxes. Peasants are bound to the land, and may not move freely without their Noble's permission.
 
 Warriors are village chiefs and battle-leaders, trained swordsmen and scribes, minor officials and enforcers of the law. They generally receive tutoring from a Priest in reading, writing, culture and law. They are bound to the service of their Noble, rather than to the land. Generally a topside village has one or two Warrior families living in it. Nobles also keep some Warriors in service at their court, as guards, scribes, messengers, courtiers, etc. Courtly Warriors generally have higher social status than village Warriors.
 
-Nobles are the ruling class. Every Noble family has a *dominion*, a territory that belongs to them, along with the Peasants bound to it. <!-- TODO -->
+Nobles are the ruling class. Every Noble family has a *dominion*, a territory that belongs to them, along with the Peasants bound to it. Nobles are the only caste that owns land (topside or underground); the land their subjects live on is merely granted to them temporarily. Nobles are arranged in feudal hierarchies: sovereign Kings at the top taking fealty from lesser vassal Nobles, who may have vassals of their own in turn. <!-- Male Nobles not in the line of inheritance for their family's dominion are expected to become diplomats, generals, or otherwise make a name for themselves. Female Nobles are married off to form political alliances. -->
+
+<!-- TODO: more stuff on Priests -->
+
+The Priest caste serve many roles: teachers, historians, mediators, counselors. The highest calling for a Priest, of course, is to be a priest of the Church of the Devout (discussed later). Priests are the only caste not bound to a Noble's service or territory; they may go where they please, although they are not above the law.
 
 
 ## <span class="num">VI</span> Religions
@@ -409,11 +417,41 @@ Of the major cults of the Heartlands, the Cult of Tomas most emphasizes the ladd
 
 <!-- TODO: think about structure of lesser cults. are they attached to greater cults? do they only exist in big cities? are they popular within small regions? -->
 
-There are many Devas, and almost as many Devic cults. But in the Heartlands the Church has long been dominated by an alliance of three cults: the Cult of Joe, the Cult of Liz, and the bipartite Cult of Tom and Tomas.
+There are many Devas, and almost as many Devic cults. But in the Heartlands the Church has long been dominated by an alliance of three major cults: the Cult of Joe, the Cult of Liz, and the bipartite Cult of Tom and Tomas.
 
 ##### <span class="num">1.2.1</span> The Cult of Joe
+
+Joe is the law-giver and the oath-binder. He is the god of order and of a well-ordered society; he is the architect of the caste system and the upholder of the rules of civilization. Justice is his domain, and justified wrath his privilege. He is also the patron of architects, artificers, stone- and metal-workers; and more generally he blesses those who create and build things of good use, and aids those who destroy things of ill use.
+
+The Cult of Joe is the wealthiest and most politically influential of the Cults. There is a temple to Joe in every major city not controlled by an Exarch, and a few that are.
+
+<!-- TODO: more stuff here -->
+
 ##### <span class="num">1.2.2</span> The Cult of Liz
+
+Liz is the goddess of death and rebirth, of fertility, of sex, and of war.
+
+Although each of the three major Devas play a role in the process of reincarnation, Liz is the most central. Death is but a return to her womb, from which one is reborn into the next life. When a person dies, it is Joe who judges their *ka*, and Tomas who guides their soul on its journey into its new body; but Liz alone determines their new fate. At funerals, Liz is paid respect above all others. She is asked to look mercifully on the departed and grant them a happy next life.
+
+Liz and Tom are lovers; the monsoon rains are her tears of joy at the return of Tom at the end of Winter. Liz is the goddess of the fertility of the soil, and Tom of the virility of the seed planted in it; they are prayed to when seeds are sown and when plants are harvested.
+
+Liz is the goddess of sex and passion, but not of love or of marriage. Women may pray to her, but only prostitutes take her as patron. She is the goddess of fertility and rebirth, but not of motherhood; she is not prayed to for safe delivery. Although she is portrayed as beautiful, she is not even the goddess of beauty: that is Tom's domain.
+
+Liz is the goddess of war and conflict, which is of course connected with her aspect as the goddess of death, and also with her aspect as goddess of passion. Warriors pray to her for victory before battle—and the less confident pray to her also for a better fate in their next life should they die.
+
+The Cult of Liz boasts the most worshippers of any Cult; Liz's many roles, and in particular her prominent roles in planting, harvest, and funeral ceremonies, guarantee the Cult a large audience. They are also the Cult which most vehemently hates the Immortality Machines, due to Liz's connection with the cycle of rebirth.
+
 ##### <span class="num">1.2.3</span> The Cult of Tom and Tomas
+
+Tom and Tomas are names for two aspects of the same Deva, who takes on different aspects at different times of year: Tom during Summer, Tomas during Winter. Together they are sometimes called "the divided god".
+
+The Cult is similarly divided. It has two separate but parallel priesthoods, one of Tom and another of Tomas; each priest of any significant rank has an exact counterpart with whom they work closely. Their temples are also split into halves; a groove runs down the middle of the main hall of worship to demarcate the boundary between them.
+
+Tom is the god of male generativity and virility, of vegetation, youth, laughter, beauty, and of topside. Tomas is the god of mysticism and magic, gateways and thresholds, seeing or finding that which is hidden, of prophecy, ordeals and paths, of age and of the underground. They are both, in different ways, gods of intelligence: Tom of extroverted intelligence—poetry, creativity, wit—and Tomas of introverted intelligence—book learning, craftiness, hard-earned wisdom.
+
+Like Liz, Tom and Tomas are related to life, death and rebirth. Tom is reborn at the beginning of each year, but is only fully alive during the monsoons. The dry season is Tom's slow, agonizing death, repeated each year as punishment for a crime unknown. With the onset of Winter, Tom is dead, and becomes Tomas.
+
+The Cult of Tom and Tomas is the least powerful of the three major cults, but not by much. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the de-facto god of Winter, Tomas is much-worshipped during that half of the year.
 
 <!-- #### <span class="num">1.3</span> High and Low Church -->
 
@@ -433,6 +471,8 @@ What seems likely is that, along with every other religion, the Church of the De
 In the aftermath of Sikanda's disappearance, while a hundred upstart Exarchs scrabbled and squabbled over the fragments of the disintegrating Empire, condemning millions to die in war and famine, the Church re-emerged as a force to be reckoned with. The Church alone cared for the common folk. The Church re-established peace and rule of law, holding back the advances of avaricious warlords and rogue wizards. The Church unified people in an era plagued by darkness and dissolution.
 
 So says the Church, anyways. <!-- And the Church indeed unified a great many territories. -->
+
+TO BE CONTINUED...
 
 <!--
 The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults.
