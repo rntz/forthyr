@@ -474,12 +474,6 @@ So says the Church, anyways. <!-- And the Church indeed unified a great many ter
 
 TO BE CONTINUED...
 
-<!--
-The last time the Church of the Devout was united under one leadership, Forthyr trembled beneath the boots of its armies, and it very nearly exterminated the Exarchs and destroyed their Machines. That was a thousand years ago, during the Crusades. The Crusades failed, however, and the weakened Church was wracked by a Reformation that left it splintered into many separate Devic Cults.
-
-In the Forthyrian Heartlands, these Cults absorbed and merged with various local animistic folk religions. The Low Church, with its practices of ancestor worship and rites invoking natural spirits, has its origins in this absorption.
--->
-
 <!-- TODO
 
 #### <span class="num">1.5</span> The Southern Church
