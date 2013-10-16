@@ -514,7 +514,7 @@ The Arhists do not believe in deities. They believe instead in the principle of 
 
 Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
 
-The Arhists have a very different view of Immortality Machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death is a servant of Kamma, ever seeking to destroy the progress we achieve in our lifetimes.
+The Arhists have a very different view of Immortality Machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and unimproved lives.
 
 <!-- TODO: how do they see the sacrifices needed to run the Machines? -->
 
@@ -522,6 +522,7 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 
 <!-- TODO: this view wins them appeal among kings seeking to become exarchs -->
 
+<!--
 #### <span class="num">2.1</span> The History of Arhism
 
 The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a far continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
@@ -530,7 +531,9 @@ The Desolate Isle was then and remains uninhabited, save for the caves off the c
 
 The fifty who left found safe haven and passage to the mainland at Freeport. A small temple still stands there dedicated to their memory. Foresighted though they were, they are called the Unfaithful and considered cowards in official Arhist history.
 
-Once Winter ended, the Unfaithful returned to find what had become of their brethren. They guided the few hundred survivors to Freeport, but it 
+Once Winter ended, the Unfaithful returned to find what had become of their brethren. They guided the few hundred survivors to Freeport, but it
+
+-->
 
 <!--
 The Faithful of Arha.
@@ -549,9 +552,13 @@ The Devic Cults and Arhism both seek popular support and political power; for th
 
 <!-- indeed, would-be Seekers are often hard-pressed to find a master to instruct them -->
 
-The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and of reality during a visit to an abandoned enclave that had been overrun by a fungal bloom. Otaumo preached the insights he had gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
+The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and reality during a visit to an abandoned enclave overrun by a fungal bloom. Otaumo preached the insights he had gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
 
-Otaumo himself wrote nothing down, but his five foremost disciples each wrote chronicles of his life and explanations of their understanding of his philosophy. These books together form the Pentad, a core text for Seekers. The Seekers have few traditions, and foremost among them is this: every Seeker keeps a copy of the Pentad, with selected commentary from later eminent Seekers, and blank pages at the end for the Seeker to write their own thoughts.
+Otaumo himself wrote nothing, but his five foremost disciples each wrote chronicles of his life presenting their understanding of his philosophy. These books form the Pentad, a core text for Seekers. The Seekers have few traditions, and foremost among them is this: every Seeker keeps a copy of the Pentad, with selected commentary from later eminent Seekers, and blank pages at the end for the Seeker to write their own thoughts.
+
+Seeker doctrine is varied and contradictory; there is little to nothing that all schools agree on. The only unifying characteristics are meta-doctrinal emphases: on literacy, on the Pentad, on forming one's own opinions by careful analysis and observation, and above all on reaching personal enlightenment. What constitutes enlightenment, however, is not agreed upon.
+
+There is also a general sense that most of the obvious answers and common attitudes to basic questions about the nature of reality are misguided and in some way or other have been "fooled" by an illusion. For example, Seekers do not all agree on the question of the existence of deities; but even Seekers who think they exist do not think they are important.
 
 <!-- Each lineage of the Way has its own particular selection of commentary, and many Seekers individually seek out further documents to include in their copy. -->
 
