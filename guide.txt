@@ -16,8 +16,6 @@ If you are confused, Earther, think of it this way: You live on the outside of a
 
 Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of Heaven. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
 
-<!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
-
 Day begins when the Sun, lain dormant overnight, wakens to brighten the skies. It takes about two hours to reach full strength. Even then it is not as bright as your Sun, and it sheds a warm red-tinged hue—gentler to my eyes than your Sun's blinding white, but you might find the effect macabre. As day turns again to night, the Sun wanes and the Moon waxes. Unlike Earth's moon, ours does not change strength from day to day. Its light is a soft golden color, as bright as a full moon on Earth.
 
 Our skies do not revolve as yours do, stars wheeling overhead every night; but neither are they entirely fixed. The direction of Moon and Sun never changes, but their distance, and thus their height in the sky, does. Forthyr, the continent from which I came, moves back and forth between them as the seasons change, but there is no easy pattern of connection to be discerned between the two. Sometimes the Sun is high in Winter; sometimes it is low. Other continents do the same, as can be seen by watching the sky. They move in a slow, endless, patternless dance, the only thing constant their orientation towards the Sun and the Moon.
@@ -666,7 +664,7 @@ One may wonder why we use this glyph at all, if it occurs in only one name and h
 
 
 <!-- TODO: this is really out-of-place now. adapt this to be a better conclusion. -->
-## <span class="num">X</span> Aside
+## <span class="num">X</span> Terminus
 
 <!--
 Our worlds could not be more different, and yet they are strangely similar. We have days and nights like yours; tides like yours; seasons, not quite like yours, but seasons nonetheless; even some animals and plants like yours (and some unlike yours).
@@ -674,10 +672,10 @@ Our worlds could not be more different, and yet they are strangely similar. We h
 Your world is just as alien, just as familiar, to me.
 -->
 
-If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know.
+If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know. If you object to Forthyrian geography, all I can say is that I have been there and seen it, and it is as I describe, except where I indicate hearsay. If your objection is sociological, I am sorry that I do not have the time or space to fully explain our history and politics; but really, we are not so different from Earth, save that we exist in a radically different environment.
 
-Or perhaps you simply want answers, scientific or no, to the obvious questions: What is outside the "ball" that we are on the inside of? What are the Sun and the Moon made of? Why do they brighten and dim at regular intervals? What causes our seasons? Our tides? Our continents' movements? How did our world come to be? How did *we* come to be?
+Or perhaps you simply want answers, scientific or no, to the obvious questions: What is outside the "ball" that we are on the inside of? What are the Sun and the Moon made of? Why do they brighten and dim at regular intervals? What causes our seasons? Our tides? Our continents' movements? Who were the Ancients, and why are they gone? Why do the Dwarves keep secrets? Why do the Traders trade? Is there any truth to our religions, or to our belief in reincarnation? How did our world come to be? How did *we* come to be? And why are we both human?
 
-I have no answers for you. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
+I too seek answers to these questions. I have none, or else they would be found in this document. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
 
 
