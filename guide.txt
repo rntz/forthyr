@@ -14,7 +14,7 @@ With us, it is almost the reverse. If you look up at night all you see is the mo
 
 If you are confused, Earther, think of it this way: You live on the outside of a ball. We live on the inside of one. There are no stars, no planets, no galaxies, no far-flung astronomic universe for us—just our world itself. We have known since first we had eyes to see that there was nowhere else to go. We lack even the word for "Universe", a word so much more expansive than "world" or "Earth".
 
-Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of the Gods. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
+Our Sun and Moon do not hang distantly revolving in the sky; each sits in a definite place. The Sun caps our ball at one end, the Moon at the other, each sitting at the peak of a mountain ten times the height of Everest. "Mountain" is a poor word; at their peaks they are more like pillars. Together we call them the Eyes of Heaven. The lands surrounding the Eyes are permanently shrouded in clouds—that must be a strange place to live, if anyone does live there.
 
 <!-- Eyes of God? Which God? are they themselves gods/goddesses? -->
 
@@ -384,7 +384,7 @@ The Priest caste serve many roles: teachers, historians, mediators, counselors. 
 
 ## <span class="num">VI</span> Religions
 
-Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is godless—introduced by newcomers from across the ocean.
+Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is without deities—introduced by newcomers from across the ocean.
 
 ### <span class="num">1</span> The Church of the Devout
 
@@ -473,7 +473,7 @@ Tom is the god of male generativity and virility, of vegetation, youth, laughter
 
 Like Liz, Tom and Tomas are related to life, death and rebirth. Tom is reborn at the beginning of each year, but is only fully alive during the monsoons. The dry season is Tom's slow, agonizing death, repeated each year as punishment for a crime unknown. With the onset of Winter, Tom is dead, and becomes Tomas.
 
-The Cult of Tom and Tomas is the least powerful of the three major cults, but not by much. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the de-facto god of Winter, Tomas is much-worshipped during that half of the year.
+The Cult of Tom and Tomas is the least powerful of the three major cults, but not by much. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the representation of Winter, Tomas is much-worshipped during that half of the year.
 
 <!-- #### <span class="num">1.3</span> High and Low Church -->
 
@@ -510,7 +510,7 @@ The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They
 
 <!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
 
-The Arhists do not believe in a god or gods. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
+The Arhists do not believe in deities. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
 
 Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
 
@@ -567,7 +567,7 @@ The Travellers are vegetarians and pacifists, avoiding the use of force unless a
 
 <!-- Like the Northern Barbarians they are related to, they often have light-colored hair and eyes; subtler differences of facial structure also -->
 
-#### <span class="num">4.1</span> The Shattered God
+#### <span class="num">4.1</span> The Shattered Goddess
 
 The Travellers believe in one universal Goddess, who they call the One, who is immanent in everything; in some sense, the world *is* the One. (Although they avoid using pronouns to refer to the One when talking with foreigners, among themselves they refer to the One as a she; however, the word for deity is gender-neutral in the language of Central Forthyr, so "God" and "Goddess" are both slightly inaccurate here.)
 
