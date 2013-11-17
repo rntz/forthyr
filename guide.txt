@@ -168,24 +168,24 @@ The Immortality Machines have shaped the history, religion, and politics of Fort
 
 <!-- A very few people possess a unique and innate talent for working with Ancient devices. -->
 
-Every once in a while, a person is born who displays from a young age a unique and innate talent for working with Ancient devices. Such persons are called savvyheads, and their talent comes with a curse: savvyheads are never quite of sound mind—or at least, not of normal mind. Their abilities are intuitive, rather than rational; they do not study to acquire them, and they cannot explain their techniques to others. Indeed, savvyheads find communication generally difficult, although the extent of this disability varies from mere difficulty putting things into words, to complete incoherency, to muteness.
+Every so often, a person is born who displays from a young age a unique and innate talent for working with Ancient devices. These people are savvyheads, and their talent comes with a curse: savvyheads are never quite of sound mind—or at least, not of normal mind. Their abilities are intuitive; they do not study to acquire them, and cannot explain their techniques to others. Indeed, savvyheads generally struggle to communicate, although the extent of this disability varies from mere difficulty putting things into words, to complete incoherency, to muteness.
 
 Put simply, savvyheads are weird. Difficulty communicating is their only universal oddity. Other common traits include: physical and verbal tics; obsessive but pointless habits; childish behavior such as tantrums, pickiness about food, and the need for security blankets or dolls; and intense aversion to magic.
 Savvyheads sometimes behave oddly toward artifacts they are investigating: caressing, smelling, or licking them, meditating or ritually preparing themselves before using them, and so forth.
-They frequently have "deviant" sexuality: object, animal, and body part fetishes, sadism, masochism, or lack of any sexual attraction whatsoever. (Homo- and bi-sexuality, however, do not appear more common among savvyheads than the general populace, and neither does variant gender expression.)
+<!-- They frequently have "deviant" sexuality: object, animal, and body part fetishes, sadism, masochism, or lack of any sexual attraction whatsoever. (Homo- and bi-sexuality, however, do not appear more common among savvyheads than the general populace, and neither does variant gender expression.) -->
 Savvyheads who engage in artistic expression, though rare, produce surreal and disconcerting work, as if they see and experience a universe totally foreign to us.
 
 <!-- TODO: when do their abilities manifest? their strangeness? what if identified as savvyheads early? what if never identified as savvyheads b/c never exposed to artifacts? -->
 
 Savvyheads' utter strangeness is little-tolerated by society. Without the patronage of a baron or king, they are doomed to being social pariahs, beggars and vagrants—and that's if they're lucky enough not to be lynched. But they frequently receive such Noble protection, because their abilities are invaluable to those in positions of power and responsibility. A savvyhead's skills can turn a moldy Ancient ruin fit only to be a Winter enclave into an artificially-lit city with running water, impenetrable defenses, and a vat-grown supply of nutritious food. Savvyheads are also a practical necessity for any Exarch who does not wish to spend decades studying the workings of the Immortality Machines.
 
+<!--
+
 And, of course, a savvyhead given access to Ancient weaponry can equip an army with enough firepower to overcome any force not similarly advantaged. This is a dangerous path to go down, however, for two reasons. First, though a savvyhead may be able to repair and operate Ancient weaponry themselves, they cannot explain to others how to do the same. To equip an army with Ancient weaponry, therefore, requires modifying it to operate by some means easily accessible to an ordinary soldier. This is only occasionally possible, and often renders the weaponry unreliable and unpredictable.
 
 Second, making use of Ancient weaponry in battle has a tendency to alarm one's neighbors and cause them to make common cause of defeating you. Even if you defeat them all, you then have to worry about your neighbors' neighbors, et cetera.
 
-<!-- Savvyheads often display other behavioral peculiarities, although difficulty communicating is the only universal trait. -->
-
-<!-- Savvyheads also display peculiar behavior, in the form of quirks and tics, obsessive habits. -->
+-->
 
 <!-- Note: savvyheads not any more likely to be homicidal, brutal, or psychopathic. Even the ones who enjoy sexual sadism. Indeed, generally easy to manipulate if their wants are met. -->
 
@@ -198,7 +198,6 @@ Second, making use of Ancient weaponry in battle has a tendency to alarm one's n
 - social outcasts (among Arhists, taken into special order)
 
 -->
- 
 
 
 ## <span class="num">IV</span> Peoples
@@ -379,6 +378,10 @@ Nobles are the ruling class. Every Noble family has a *dominion*, a territory th
 
 The Priest caste serve many roles: teachers, historians, mediators, counselors. The highest calling for a Priest, of course, is to be a priest of the Church of the Devout (discussed later). Priests are the only caste not bound to a Noble's service or territory; they may go where they please, although they are not above the law.
 
+### <span class="num">3</span> Flora and Fauna
+
+### <span class="num">4</span> The Depths
+
 
 ## <span class="num">VI</span> Religions
 
@@ -418,7 +421,7 @@ Although almost all Forthyrian religions believe in reincarnation, they disagree
 
 Though our fates are decided at birth, it remains to us to decide whether to willingly fulfill our destiny to the fullest degree, or to senselessly fight and resist it, and so become a mere shadow of what we could have been. Deliberately following one's inevitable fate is noble and right; conversely, denying one's fate is both futile and reprehensible.
 
-In particular, by following one's fate one acquires positive *ka*; resisting it generates negative *ka*. The greater one's *ka*, the more noble and desirable the fate of one's next life. Eventually, a person possessed of truly magnificent *ka* ascends into Heaven upon being reborn. Heaven is not, however, the end of the journey. There is great ladder of spiritual existence, on which our world is merely the middle rung. The realms of Heaven are the rungs above it, and those below it are of Hell.
+In particular, by following one's fate one acquires positive *ka*; resisting it generates negative *ka*. The greater one's *ka*, the more noble and desirable the fate of one's next life. Eventually, a person possessed of truly magnificent *ka* ascends into Heaven upon being reborn. Heaven is not, however, the end of the journey. There is Great Ladder of spiritual existence, on which our world is merely the middle rung. The realms of Heaven are the rungs above it, and those below it are of Hell.
 
 The caste system is an integral part of this ladder of reincarnation. Everyone has an assigned place in the caste system, a role to serve in society. They have this role, they are in their caste, because their *ka* deserves it. If they live according to their place they are rewarded by just treatment in this life and a grander fate in the next.
 
@@ -504,24 +507,79 @@ So says the Church, anyways. <!-- And the Church indeed unified a great many ter
 
 ### <span class="num">2</span> Arhism
 
-The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire. <!-- empire? conglomeration? federation? -->
+Arhism is simultaneously a belief system, a structure for organizing society, and a sovereign empire occupying the Sunward half of Himlas, a broad peninsula north of the Heartlands. In all its aspects it is fundamentally opposed to the dominant culture of the Heartlands and to the Church that defines it.
 
 <!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
 
-The Arhists do not believe in deities. They believe instead in the principle of Arha, and its opposite, Kamma. Moreover they believe in their Elders, chief of whom are the Nine Immortals who govern Arhism. Arhism is not merely a set of beliefs but also an institution that propagates those beliefs and a system of government that enforces them; the three are inextricable.
+#### <span class="num">2.1</span> Beliefs
 
-Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity; every person, every deed, every thought, every thing has some Arha in it and some Kamma.
+Although considered a religion, the Arhists do not believe in deities. They believe rather in the principle of Arha, and its opposite, Kamma. They also believe in their Elders, spiritual and political leaders who are granted perpetual life through the Immortality Machines. Chief among the Elders are the council of the Nine Immortals, who govern all of Arhism.
 
-The Arhists have a very different view of Immortality Machines than the Devout. Far from seeing them as evil, to the Arhists they are necessary. Those who are close to Arha, the Elders, must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and unimproved lives.
+Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity: every person, every deed, every thought, every thing has intrinsic to it some mixture of Arha and Kamma.
+
+<!-- has some Arha in it and some Kamma. -->
+
+The ethics of the Devout revolve around individual spiritual progress: good works advance one's soul towards higher realms of existence. These realms do not improve over time, but are forever more or less imperfect according to their rank on the Great Ladder. The Arhists, however, strive for collective social progress. There are no "better realms" above us to reincarnate into; there is only this world, and it is up to us to make it a world worth living in, to mold it into Arha.
+
+<!-- The Church believes in Heaven and Earth; the Arhists believe in Heaven on Earth. -->
+
+The Arhists find Church morality mechanistic and meaningless: *why* should we act according to the fate given us by the Devas? "Fate" is an extrinsic goal bestowed upon us, in demeaning carrot-and-stick fashion, by beings we cannot comprehend and have no concrete evidence of. Arha, by contrast, is the *intrinsic* purpose of all life: the betterment of life itself.
+
+<!-- TODO: What, then, do the Arhists see as constituting a "better life"?
+
+The Arhist's idea of what constitutes a "better life" is expressed in the very structure of Arhist society.
+
+<see society and culture.>
+
+-->
+
+<!--
+Ways in which Arhism opposes Church/Heartland-society:
+
+- the devout's view is one of individual spiritual progress - of souls advancing towards higher realms of existence. the realms of existence themselves are static: they do not improve or meaningfully change. the world is the way it is. the arhist's view is one of collective societal progress - there are no "better realms" above us, only this world, and it is not static - it can and must be improved.
+
+- all of society serves Arha rather than individuals acting out a "fate"
+  arha is the intrinsic purpose of life, rather than a meaningless extrinsic purpose bestowed by nonexistent gods
+
+- "meritocratic" - gain prestige by how well you serve society rather than by your birth. no caste system - which is not to say everyone is *equal*. see societal structure.
+
+- immortality machines are great!
+
+-->
+
+While the Devout see the Immortality Machines as evil, the Arhists see them as indispensable. Those who are close to Arha—the Elders—must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and spiritually unimproved lives. Arhists willingly sacrifice themselves on the altar of the Machines, that by their death they may preserve the Arha of the Elder who takes their body.
 
 <!-- TODO: how do they see the sacrifices needed to run the Machines? -->
 
-Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone of spiritual significance is either an Elder, one whose life is to be preserved forever by the Machines, or a Martyr, who would be an Elder but that their life was cut tragically short before they could achieve their full potential.
+<!--
+The Devout venerate the dead, in the form of ancestor spirits and Saints. The Arhists revere only their living Elders, and mourn their Martyrs—those who would be Elders but that their life was cut short before they could achieve their full potential.
 
-<!-- TODO: this view wins them appeal among kings seeking to become exarchs -->
+Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone of spiritual significance is either an Elder, one whose life is to be preserved forever by the Machines, or a Martyr, who would be an Elder but that their life was cut tragically short before they could achieve their full potential.
+-->
+
+#### <span class="num">2.2</span> Society and Culture
 
 <!--
-#### <span class="num">2.1</span> The History of Arhism
+meritocracy: equal footing from birth. communal raising of children.
+(is this beginning to break down? will to raise one's own offspring is strong.)
+
+military-style organization: ranks and hierarchy. whole Arhist society functions as a unit controlled from the top.
+
+central organization has proved crucial in thriving in the relative harsh conditions of Northern Himlas. also proved crucial in conquering it from the Torvil Dynasty.
+-->
+
+#### <span class="num">2.3</span> Political Power
+
+The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. In addition to their stronghold in Sunward Himlas, Arhism has converted a few countries in the Lowlands and Northern Heartlands. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
+
+<!--
+#### <span class="num">2.4</span> The History of Arhism
+
+??? The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire.
+
+??? They made landfall on the Desolate Isle, and spent the winter in the ruins of Sangraha there. The Desolate Isle is so called because it cannot grow enough crops to support human life; many Arhists died that winter.
+
+The Arhists arrived in Forthyr from across the ocean five hundred and fifty-odd years ago. They claim to have come from another continent, which if true would be the only instance of successful intercontinental travel known to history.
 
 The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a far continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
 
