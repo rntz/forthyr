@@ -199,6 +199,20 @@ Second, making use of Ancient weaponry in battle has a tendency to alarm one's n
 
 -->
 
+### <span class="num">3</span> The Depths
+
+Some Ancient ruins run deep below ground, far deeper than necessary to merely escape the topside Winter. An inexplicably common form of Ancient work is the borehole: a tunnel dug straight down, farther than the eye can see or the ear hear. And in these depths plumbed by boreholes, mineshafts, and suboceanic tunnels, in the deepest levels of Ancient city complexes, there lurk monsters.
+
+They are rare, but their existence is established beyond a shadow of a doubt. I have seen them with my own eyes, though thankfully only as corpses.
+
+<!--
+What form do they take?
+
+Animate rock,
+Cthulhuian terrors
+
+-->
+
 
 ## <span class="num">IV</span> Peoples
 
@@ -380,8 +394,6 @@ The Priest caste serve many roles: teachers, historians, mediators, counselors. 
 
 ### <span class="num">3</span> Flora and Fauna
 
-### <span class="num">4</span> The Depths
-
 
 ## <span class="num">VI</span> Religions
 
@@ -475,6 +487,10 @@ Tom is the god of male generativity and virility, of vegetation, youth, laughter
 Like Liz, Tom and Tomas are related to life, death and rebirth. Tom is reborn at the beginning of each year, but is only fully alive during the monsoons. The dry season is Tom's slow, agonizing death, repeated each year as punishment for a crime unknown. With the onset of Winter, Tom is dead, and becomes Tomas.
 
 The Cult of Tom and Tomas is the least powerful of the three major cults, but not by much. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the representation of Winter, Tomas is much-worshipped during that half of the year.
+
+<!-- TODO: ##### <span class="num">1.2.4</span> Minor Cults -->
+
+<!-- TODO: #### <span class="num"></span> Priest-Mages -->
 
 <!-- #### <span class="num">1.3</span> High and Low Church -->
 
@@ -706,11 +722,15 @@ Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zo
 
 #### <span class="num">6.1</span> Peχavn
 
-South of Gurth, on a rocky peninsula jutting out into the Great Bay that separates it from Fennimore, is the small realm of Peχavn. The Exarch of Peχavn, who has no name she cares to divulge, is almost certainly the most powerful wizard of the past thousand years. Just off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
+South of Gurth, on a rocky peninsula jutting out into the Gulf of Fog that separates it from Fennimore, is the small realm of Peχavn. The Exarch of Peχavn, who has no name she cares to divulge, is without rival the most powerful wizard of the past thousand years. Off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
 
-The Wizard of Peχavn has never lost a duel, and her forces have never been defeated in battle. Plots to destroy her Immortality Machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Plots to poison her typically end when the plotters die of their own poison. She is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her.
+The Wizard of Peχavn has never been defeated, neither in wizarding duel nor on field of battle nor in political maneuvering.
+It is said she permits plots against her to proceed only so long as they amuse her; but as she has survived dozens of them, few meet her standards of novelty. She appears to have a soft spot for conspiracies to destroy her Immortality Machine, however. The most recent such attempt was even allowed to succeed—of course, she had a second Machine waiting in the wings.
 
-When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
+The Wizard is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her. When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
+
+<!--
+Plots to destroy her Immortality Machine have been foiled before even being attempted, apparently without any of the conspirators leaking information. Those who plot to poison her are found dead of their own poison. -->
 
 Among students at the University of Roke, the question of whether the Wizard of Peχavn could steal a Dwarven Secret and survive is roughly equivalent to the Earther dilemma regarding what happens when an unstoppable force meets an immovable object.
 
@@ -737,3 +757,64 @@ Or perhaps you simply want answers, scientific or no, to the obvious questions: 
 I too seek answers to these questions. I have none, or else they would be found in this document. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
 
 
+# Appendices
+## <span class="num">A</span> Tales of Forthyr
+### <span class="num">1</span> The Devas and the Asuras
+### <span class="num">2</span> The Love of Liz and Tom
+
+### <span class="num">3</span> Sikanda, the First Exarch
+#### Rise to Power
+#### The War for the Lowlands
+##### Genocide of the Frost Giants
+##### The Desolation of Sangraha
+#### The Holy City of Sikandarat
+#### Trip to Five-Point Island
+#### Voyage to the Sun
+#### Aftermath
+
+### <span class="num">4</span> Tales of the Crusades
+#### The Exarch's Mother
+#### The Siege of Worm City
+
+### <span class="num">5</span> Tales of the Wizard of Peχavn
+#### Zangma and the Gulf of Fog
+#### Expedition into the Great Chasm
+#### The Conversion of Gengusra
+
+### <span class="num">6</span> The Life and Deeds of Otaumo of Gent
+#### Enlightenment at the Enclave of Sedruk
+#### His Five Disciples
+<!-- The five disciples of Otaumo were: -->
+#### The Lich, the Warrior and the Wizard
+#### Pilgrimage to Sikandarat <!-- and Nobody Land, Gurth, Land's End? -->
+#### Apocrypha
+
+<!-- A terrible lich, a famous warrior, and the wizard of Peχavn each visit Otaumo, seeking his advice. This is when the Wizard becomes a Seeker (or does she? Certainly she comes away impressed.). -->
+
+### <span class="num">7</span> The University at Roke
+#### The Library Unearthed
+#### The Monsoon War
+#### The First Faculty
+<!-- #### University Traditions -->
+#### Clashes with the Church
+<!-- #### Magical Investigations -->
+
+### <span class="num">8</span> The Seven Cities of Freehold
+### <span class="num">9</span> The Lost Torvil Heir
+
+### <span class="num">10</span> Saint Martin the Goblin-Slayer
+### <span class="num">11</span> Yezu, the Undead Elder of Thul
+
+## <span class="num">B</span> Bestiary
+### <span class="num">1</span> Flora
+#### <span class="num">1.1</span> Crops
+##### Kresh
+##### Thackleriss
+
+#### <span class="num">1.2</span> Drugs
+#### <span class="num">1.3</span> Wild Fungi
+<!-- Miscellany: The lotus -->
+
+### <span class="num">2</span> Fauna
+
+### <span class="num">3</span> Monsters
