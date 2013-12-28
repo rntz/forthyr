@@ -1,0 +1,40 @@
+The Heartlands sit at the center of Forthyr, separating its Northern and Southern halves by a thousand leagues of steep mountain paths, uncharted underground passages, and perpetually-disputed territory.
+
+----------
+Inspiration: I hate robbing banks
+
+What would robbing a bank be in this world? Burgling a royal vault, clearly. Or the coffers of the Church.
+
+Maybe stealing taxes collected from those crossing the Gap? (Maybe on the Bastion side?)
+
+----------
+-- Worm City is the navel of the world: central, yet ultimately dispensable.
+
+Worm City is the navel of the world.
+
+It is the Sunwardmost city of the Heartlands, the first stop on the trade route that leads across the Gap to Pell Valley, the Low Countries, and ultimately to ancient Gurth and the Sun Sea. It guards one end of the Gap, the only bridge to span the continent-wide Great Chasm that divides the mountainous Heartlands from the Low Countries. The Great Chasm stopped the First Exarch Sikanda from conquering the Low Countries for a full hundred years after the rest of Forthyr had fallen to their armies. They only fell when Sikanda invaded across the Zothi mountains to the south instead, after genociding the Frost Giants who guarded them. The Chasm and its Gap proved too strong for even Forthyr's most brilliant conqueror.
+
+When Heartland Lords and Low Country Kings meet to negotiate trade deals and right-of-way on the Pelluin, they come to Worm City. When Exarchs renew the web of alliances that secure them against the day the Church declares the Crusades anew, they meet in Worm City. Runaway Low Country slaves seeking a new life come to Worm City to begin again. Dwarves on rumspringa, looking to discover all the human world has to offer them—by and large, they discover it (or not) in Worm City.
+
+-- TODO: name for rumspringa
+
+And when you're a down and out adventurer who's been
+
+And this is how I ended up clinging for dear life to the Sunward side of the Chasm, two leagues below the Gap.
+
+----------
+
+-- TODO: rename Pell Valley
+
+-- Need a better name for "has no tunnels beneath it". "Impassable" too strong.
+
+that keep the Church from declaring a new Crusade against them
+
+It guards the Gap, the one feasible trade route between the resource-rich Heartlands and the abundant harvests and cheap labor of the Lowlands.
+
+resource-rich, mineral-rich
+{abundant, verdant, rich, agricultural, flourishing} fields
+
+the one easy route between the mineral-rich Heartlands and the flourishing agricultural Lowlands
+
+When Sikanda finally invaded, it was across the Zothi mountains to the south of the Low Countries, after genociding the native Frost Giants who guarded them. The Chasm and its Gap proved too strong even for Forthyr's most brilliant conqueror.

@@ -1,0 +1,299 @@
+* Notes
+This languages is boring vowellically. Need to spice up vowel system.
+
+It is too undefined consonontally. Need to settle on consonontal "feels" for
+language as a whole, with regional variations.
+
+* The Sikandan Syllabary
+
+Observations thus far:
+- Syllables usually start with consonants
+- Consonant-consonant pairs
+- Word-ending consonants
+- Vowel-sounds: ah oh ih uu eh
+
+Ideas:
+- Glottal stop as consonant
+- Script is consonontal, w/ vowels represented w/ "diacritics"
+
+** Structure
+Symbols for consonants. Marks added to consonant symbols (like diacritics) for
+vowels. Marks can be left out to let the reader "infer" vowels, but this is an
+archaicism. Modern text always includes vowel signs. (Additional ambiguity: not
+all consonants are followed by vowels - can string consonants together with no
+vowel between them.)
+
+Dots usually used to separate words. Sentence endings went unmarked in old
+texts; recently (past 100-150 years) have developed symbols indicating various
+forms of pause. Still imperfectly standardized, and based on pause-length rather
+than semantic meaning. There is a standard question-mark, though it is
+sentence-initial rather than sentence-final.
+
+** Vowels
+|   | IPA |    | Examples of closest sound in English      |
+|---+-----+----+-------------------------------------------|
+| a | ɑ   | ah | dAkka fAther spA "just like my dear mAmA" |
+| e | ɛ   | eh | dEbt bEst                                 |
+| i | ɪ   | ih | wIn thIn                                  |
+| o | o   | oh | approx: nO mOre fOr                       |
+| u | ɯ   | uu | approx: pOOl dUde                         |
+
+Vowels can be modified to end in r.
+Vowels can be modified to diphthong from or to i (indicated by pre-/post-fix y).
+
+Vowels can be modified to be nasalized (a la portuguese). This is a feature of
+Lowlands dialect.
+
+? Can be modified to diphthong to "ee" sound (fEEl)? ai ei ii(?) oi ui
+
+agarwael
+
+** Consonants
+n t k th p f l w x h s y
+tr kr thr pr fr sr
+
+SR sometimes pronounced "sh"
+
+*** On consonant clusters
+Most consonant pairs represented by just concatenating consonant symbols w/ no
+vowel marks. Since only some consonant pairs actually exist in Central
+Forthyrian language, this over-represents. However, some consonant pairs require
+single-symbol representation b/c one of the consonants in the pair does not have
+its own symbol.
+
+** Marks and their uses
+Marks are used for:
+- Vowels
+- Indicating the vowel terminates with an "r"
+- Distinguishing consonant voicings. Many consonant symbols have multiple
+  voicings (eg. (t,d) (n,m) (k,g)). Some of these are functionally
+  indistinguishable (not phonemically contrastive is the linguistic terminology
+  iiuc) to most Forthyrian speakers (for example (t,d) (p,b)).
+
+  However, (n,m) and (s,z) are distinguishable, and although their pronunciation
+  is usually implicit, there is a mark that distinguishes them which is used
+  occasionally, most commonly in proper names or borrowings.
+
+** Representable words and names
+Sikanda         Si Ka N Ta
+Sikandarat      Si Ka N Tar Ha T
+Sãngraha        Sa~ N KRa Ha
+Forthyr         For Thir
+Dhũl            Thu~ L          -- '~' is a mark meaning "nasalize". ignored/omitted by Heartlanders.
+Himlas          Hi N La S
+Pelluin         Pe L L Wi N
+
+Macwelan        Ma K We La N    -- the M is an N-symbol with a marker
+Fennimore       Fe Ni Mor       -- ditto
+Zangma          Za N K Ma
+Sang Maõ        Sa N K Ma Ho~
+
+In "Za N K Ma", the Z is a marked S. The M is a marked N. The second marking is
+not strictly necessary b/c (NKN --> "ŋm") in most dialects, but is usually added
+for clarity b/c it's a proper name.
+
+# Approximated
+Gurth           Gir TH
+Arhist          Har Hi S T      initial H dropped, ST pronounced "sit"
+
+# Unrepresentable?
+Joe Liz Tom Tomas
+
+* Language
+Need a name for it. Standard language of Central Forthyr, albeit it has many
+dialects. Brought by the Church in order to unify the region? Or perhaps by
+Sikanda. There are also some regional languages which exist in parallel with it.
+
+** Allowable consonant clusters
+Positions: i(nitial), m(edial), f(inal)
+
+| Cluster | Pos | Pronounced | Words      |
+|---------+-----+------------+------------|
+| nt      | -mf | nd mt      | Sikandarat |
+| nth     | -mf | ndh mth    |            |
+| nl      | im- | ml         | Himlas     |
+| nw      | im- | nw mw      |            |
+| nk      | -mf | ŋ ŋk mg    |            |
+| nks     | -m- | ŋs         |            |
+| nkr     | -m- |            | Sangraha   |
+|         |     |            |            |
+|---------+-----+------------+------------|
+| lw      | im- |            |            |
+| thw     | im- | dhu        |            |
+| sf      | ?m- | sf, sv     |            |
+| kl      | im- | gl         |            |
+| sw      | ?m- |            |            |
+| xt      | --f |            |            |
+| nsr     | -m- | msr        |            |
+| sr      | imf | sr, sh     |            |
+|---------+-----+------------+------------|
+
+*** PROHIBITED
+ns
+
+*** ALLOWED
+n + anything except h hr s sr sh x
+anything except p f ?r + w
+
+tl thl kl
+
+nkr --> "ŋgr"
+nkl --> "ŋkl"
+nkn --> "ŋm"
+
+** Pronounciation
+Non-voiced vs. voiced generally not represented by different symbols. For
+example, the pairs (t,d) (th,dh) (p,b) (f,v) (n,m) (k,g) (s,z) do not have
+distinct symbols. Voicing is determined by dialect and surrounding context, and
+maybe on a per-word basis?
+
+Initial "h" is dropped in major dialect, which permits vowel-initial words (e.g.
+Arhist = Har Hi ST, although "ST" is an inadmissible consonant pair and so
+generally pronounced "sit").
+
+nk  usually pronounced ŋk
+h   pronounced as glottal stop in some dialects.
+x   pronounced "zh" in some dialects?
+
+Dialect split: in Lowlands dialect, n often transmutes to m.
+
+** Pronouns
+Many pronouns.
+
+Two "we"s, one which includes the listener and another which excludes them.
+
+There is a suffix which pluralizes any pronoun (a la japanese -tachi), but
+usually plurality is left unspecified. However, there are special first-person
+plural pronouns ("we"s).
+
+There are special we/they/you pronouns for the clergy/church, and a special
+third-person pronoun for deity/ies.
+
+* Words
+** Pronouns
+Part is <person><plurality>. Person is {1,2,3}. Plurality is {s,p}. These refer
+to the grammatical person and plurality, not the actual usage.
+
+Many pronouns can be pluralized by suffixing with ???.
+
+| Name | Spelling | Part | Connotation / Further meanings                                |
+|------+----------+------+---------------------------------------------------------------|
+| Ye   | Hye      | 1s   | Moderately humble.                                            |
+| Oy   | Hoy      | 1s   | Moderately proud, assertive.                                  |
+|      |          | 1s   | Formal. Humble/low-rank, yet proud of role. (watakushi)       |
+|      |          | 1p   | Formal. Proud. Used in eg. declarations by Nobles.            |
+|      |          | 1p   | Used by a deity or deities.                                   |
+|      |          | 1p   | Used by a priest or priests speaking "for the Church/Cult".   |
+|------+----------+------+---------------------------------------------------------------|
+|      |          | 2s   | Informal, friendly unless it's insulting. (Omae).             |
+|      |          | 2s   | Used to a lover, family-member, or very close friend. (Anata) |
+|      |          | 3s   | Formal. Second-person usage, grammatically 3rd-person.        |
+|      |          | 3s   | Honorific used to those of higher-rank. Also used 3rd-person. |
+|      |          | 2s   | Used from one high-ranking person to another.                 |
+|------+----------+------+---------------------------------------------------------------|
+|      |          | 3s   | Generic. Used in second person, is moderately insulting.      |
+|      |          | 3p   | Generic.                                                      |
+|      |          | 3p   | Used to refer to the Church. Counterpart of                   |
+|      |          | 3p   | Used to refer to a deity or deities.                          |
+|      |          |      |                                                               |
+|------+----------+------+---------------------------------------------------------------|
+
+** Common words, name suffixes, prefixes
+| Name     | Spelling   | Meaning                       | Examples, Notes                 |
+|----------+------------+-------------------------------+---------------------------------|
+|          |            | Sea                           |                                 |
+|          |            | Lake                          |                                 |
+| luin     | L Wi N     | River                         | Pelluin = PeL LWiN = Pell River |
+| sil      |            | Island                        |                                 |
+| col      | Ko L       | Stream, spring                |                                 |
+| fin      | Fi N       | Swamp, marsh, fen             |                                 |
+| gul      | Ku L       | Steep-sided valley, chasm     |                                 |
+| glos     | K Lo S     | Valley, glen                  |                                 |
+|          |            | Valley                        |                                 |
+|          |            | Mountain                      |                                 |
+| ceil     | Key L      | Mountain                      | keyl kyel tyel                  |
+|          |            | Plain, Field                  |                                 |
+| svora    |            | Place to grow crops           |                                 |
+|----------+------------+-------------------------------+---------------------------------|
+| tyol     |            | Tower, artificial or natural  |                                 |
+| stuka    | S Tu Ka    | Hut (topside house)           | thuka?                          |
+|          |            | Town (topside)                |                                 |
+|          |            | Enclave                       |                                 |
+| tec      | Te K       | Enclave                       | From the dialect of ???.        |
+|          |            | Keep, stronghold              |                                 |
+|          |            | City                          |                                 |
+|          |            | Church (building/room)        |                                 |
+|          |            | Dominion, barony              |                                 |
+|          |            | Kingdom, duchy                |                                 |
+|          |            | Ancient Ruin                  |                                 |
+|----------+------------+-------------------------------+---------------------------------|
+|          |            | Wizard                        |                                 |
+|          |            | Witch (i.e. unlearned wizard) |                                 |
+|          |            | Exarch                        |                                 |
+|          |            | Sovereign                     |                                 |
+|          |            | Lord                          |                                 |
+|          |            | Noble-caste                   |                                 |
+|          |            | Warrior-caste                 |                                 |
+|          |            | Priest-caste                  |                                 |
+|          |            | Peasant-caste                 |                                 |
+|          |            | Warrior (general)             |                                 |
+|          |            | Priest (profession)           |                                 |
+| baldruch | Pa L TRu X | Manual laborer                |                                 |
+|          |            | Artisan                       |                                 |
+|----------+------------+-------------------------------+---------------------------------|
+|          |            | Deva                          |                                 |
+|          |            | Asura                         |                                 |
+|          |            | Deity                         |                                 |
+|          |            | Spirit                        |                                 |
+|          |            | Ancestor                      |                                 |
+|          |            | Venerated ancestor spirit     |                                 |
+|          |            | Worshipper                    |                                 |
+|          |            | Pilgrim                       |                                 |
+|----------+------------+-------------------------------+---------------------------------|
+
+* Names
+
+| Name        | Spelling        | Pronounciation               |
+|-------------+-----------------+------------------------------|
+| Tarbin      | Tar Pi N        |                              |
+| Shalwind    | S Ra L Wi N D   |                              |
+| Dhuinlach   | TH Wi N La X    | ðɯɪnlɑx                      |
+| Torheven    | Tor He Fe N     |                              |
+| Gisphenar   | Gi S Fe Nar     |                              |
+| Poldor      | Po L Dor        |                              |
+| Penderick   | Pe N Ter Hi K   |                              |
+| Frell       | FRe L           |                              |
+| Casimnet    | Ka Si N^ Ne T   | unusual consonant cluster MN |
+| Sedruk      | Se TRu K        |                              |
+| Ilythar     | Hi Li Thar      |                              |
+| Glosvech    | G Lo S Fe X     |                              |
+| Yadric      | Hya TRi K       |                              |
+| Lec         | Le K            |                              |
+| Ashratte    | Ha S Ra Te      |                              |
+| Lung        | Lu N K          |                              |
+| Nwolga      | N Wo L Ka       |                              |
+| Engrafe     | He N GRa Fe     |                              |
+| Ulracish    | Hu LRa Ki SH    |                              |
+| Ulcamor     | Hu L Ka N^or    |                              |
+| Dosvendach  | Do S Fe N Da X  |                              |
+| Culun       | Ku Lu N         |                              |
+| Tulgis      | Tu L Ki S       |                              |
+| Amsracht    | Ha N SRa X T    |                              |
+| Folgerhin   | Fo L Ger Hi N   |                              |
+| Cardusin    | Kar Tu Si N     |                              |
+| Tec Valan   | Te K Fa La N    |                              |
+| Valdusitar  | Fa L Tu Si Tar  |                              |
+| Singraluin  | Si N GRa L Wi N |                              |
+| Walsrecht   | Wa L SRe X T    |                              |
+| Hwalnome    | H Wa L No M     |                              |
+| Voluc       | Vo Lu K         |                              |
+| Guylnach    | Guy L Na X      |                              |
+| Lieta       | Lye Ta          |                              |
+| Lwara       | Lwa Ra          |                              |
+| Nosveidin   | No S Fey Ti N   |                              |
+| Lacrima     | La KRi N^a      |                              |
+| Col Mathis  | Ko L N^a THi S  |                              |
+| Col Glach   | Ko L G La X     |                              |
+| Col Brin    | Ko L PRi N      |                              |
+| Fin Gorlach | Fi N Gor La X   |                              |
+|-------------+-----------------+------------------------------|
