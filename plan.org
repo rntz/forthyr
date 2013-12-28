@@ -1,44 +1,3 @@
-* Sections
-
-1. Skies
-2. Seasons
-
-3. Peoples
-3.1 Humans
-3.2 Dwarves
-3.3 Orcs
-3.4 Kobolds, Trolls, and other species
-
-4. The Ancient World
-- no writings or inscriptions
-- strongholds
-- tunnels too straight to have been produced in the modern day
-- ancient tech
-4.1 Reincarnation Machines
-? 4.2 The Deep
-4.3 Its effects on the present
-- cities
-- travel underground
-- exarchs
-- savvyheads
-- dungeon delvers
-
-5. Religions
-preamble about religion being a major force in the world
-5.1 Religion B
-5.2 Religion A
-5.3 Religions D & E
-5.4 Religion C
-
-6. Geography
-7. Kingdoms and City-States
-
-? The Economy
-? Flora and Fauna (subsections: topside, below, the deep)
-
-8. An Aside
-
-
 * What do I want to be significant in the World?
 
 - Religion & reincarnation
@@ -65,6 +24,34 @@ preamble about religion being a major force in the world
 
 
 * MISCELLANEOUS NOTES
+
+** Warriors, Samurai, Bushido
+Do warriors obey a code of honor, like the Samurai obey Bushido? Perhaps in
+certain cultures they do. Probably only those who are actually warriors obey
+such a code?
+
+** Determinism in the Church of the Devout
+The Church are determinists; they do not believe in "chance". Anything that
+happens by chance was fated to happen. As such, events of chance, such as a
+winning streak in a gambling game or an avalanche 
+
+re SENET: Because of the element of luck in the game and the Egyptian belief in
+determinism, it was believed that a successful player was under the protection
+of the major gods of the national pantheon: Ra, Thoth, and sometimes Osiris.
+
+** Topside buildings
+We do know how to build structures topside that survive the winter, it's just
+difficult. Need to construct using bricks, covered in something that prevents
+water/temperature damage (adobe?)
+
+** Language
+There's a Koiné language for the Heartlands & Low Countries called "river
+language", after the Pelluin. There's also a closely related "sea language",
+which is used in Gurth, the Low Countries, and Himlas.
+
+** Trade and Merchants
+Who conducts trade - in particular, which caste? Warriors? Out-castes? Priests?
+
 ** Food, topside and underground
 Food can be grown both underground and topside, but topside plants are generally
 both more nutritious and tastier. It is possible for humans to subsist on a diet
@@ -168,6 +155,47 @@ and at the beginning of summer when they move back into villages.
 # Ancient tech
 TODO: better name
 ancestor tech?
+
+
+* Sections
+
+1. Skies
+2. Seasons
+
+3. Peoples
+3.1 Humans
+3.2 Dwarves
+3.3 Orcs
+3.4 Kobolds, Trolls, and other species
+
+4. The Ancient World
+- no writings or inscriptions
+- strongholds
+- tunnels too straight to have been produced in the modern day
+- ancient tech
+4.1 Reincarnation Machines
+? 4.2 The Deep
+4.3 Its effects on the present
+- cities
+- travel underground
+- exarchs
+- savvyheads
+- dungeon delvers
+
+5. Religions
+preamble about religion being a major force in the world
+5.1 Religion B
+5.2 Religion A
+5.3 Religions D & E
+5.4 Religion C
+
+6. Geography
+7. Kingdoms and City-States
+
+? The Economy
+? Flora and Fauna (subsections: topside, below, the deep)
+
+8. An Aside
 
 
 * RELIGIONS
