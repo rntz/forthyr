@@ -97,13 +97,15 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 Our world is strewn with the remains of an ancient civilisation, one clearly more advanced than our own, and indeed than yours.
 
-The Ancients built on a massive scale. Our greatest cities occupy only the upper levels of their ruins. They made tunnels wide enough for a hundred men or more to march abreast; these same tunnels continue razor-straight into the distance so far they shrink to mere points. Above ground, too, they left their mark, constructing vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
+The Ancients built on a massive scale. Our greatest cities occupy only the upper levels of their ruins. They made tunnels wide enough for a hundred men or more to march abreast; these same tunnels continue razor-straight into the distance so far they shrink to mere points. Above ground, they left vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
 
-They built with materials we cannot replicate. From my time on Earth I can now  identify a few of them, but not all. Their edifices have withstood uncounted millennia unmarked by rust and uneroded by weather. To be fair, perhaps that is simply because those that could not stand the test of time no longer exist at all.
+They built with materials we cannot replicate. From my time on Earth I can now  identify a few of them, but not all. Their edifices have withstood uncounted millennia unmarked by rust and uneroded by weather.
 
-The Ancients left behind not only architecture, but artifacts. They left weaponry: guns, artillery, mobile weapon platforms (some tank-like, some humanoid, some monstrous), armored suits, glowing swords, death rays, psychic dampeners, hunter-seeker drones, city-destroying bombs, the whole shebang. They left infrastructure: power generators, light sources, plumbing systems, hydroponics chambers, teleporters, laboratories, factories. And they left thousands of other tools and gewgaws: direction- and path-finders, lock-pickers, puzzles, jewelry, autonomous robots, toys, music-boxes; the list is endless.
+<!-- tools, weapons, vehicles, infrastructure, gadgets -->
 
-Unfortunately, they forgot to leave behind any instruction manuals. The fact is, we have no idea what half of the stuff they left behind is even *supposed* to do, let alone how to operate it. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard—if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
+They left behind not only architecture, but artifacts. They left weaponry: guns, tanks, artillery, armored suits, self-sharpening swords, death rays, psychic dampeners, flying machines, hunter-seeker drones, city-destroying bombs, the whole shebang. They left infrastructure: power stations, lights, plumbing, hydroponics, teleporters, laboratories, factories. And they left thousands of other tools and gewgaws: direction- and path-finders, lock-pickers, puzzles, jewelry, autonomous robots, toys, music-boxes; the list is endless.
+
+Unfortunately, they did not leave instructions. We don't know what half these Ancient relics are even *meant* to do, let alone how to use them. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard, if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
 
 <!-- TODO: ^ ugh, awkward transition -->
 
