@@ -168,7 +168,7 @@ Of all the technological relics left behind by the Ancients, without doubt the m
 
 These machines are of course rare. They are beyond price: their value is measured in lost lives and ruined kingdoms. Society recognizes three kinds of people who possess and use Immortality Machines. The Exarchs are rulers who use the Machines to achieve undying sovereignty. The Arhist Elders are religious leaders who use the Machines—so they say—to preserve their wisdom for the good of humanity. Anyone neither a ruler nor an Elder, anyone else who, by secrecy, sorcery, or trickery, manages to possess and use an Immortality Machine, is called a Lich.
 
-The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to myth, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered the known world and ruled it for over a millennium before suddenly vanishing (often it is said they set sail across the Sunward sea). A legend of this form is nearly universal in Forthyr, so there is likely a grain of truth to it.
+The Immortality Machines have shaped the history, religion, and politics of Forthyr since time beyond record. According to legend, their use was discovered by the First Exarch, Sikanda, at least four thousand years ago. Sikanda subsequently conquered all of Forthyr and ruled for over a millennium before suddenly vanishing (often it is said they set sail across the Sunward sea). <!-- A legend of this form is nearly universal in Forthyr, so there is likely a grain of truth to it. -->
 
 ### <span class="num">2</span> Savvyheads
 
@@ -179,7 +179,7 @@ Every so often, a person is born who displays from a young age a unique and inna
 Put simply, savvyheads are weird. Difficulty communicating is their only universal oddity. Other common traits include: physical and verbal tics; obsessive but pointless habits; childish behavior such as tantrums, pickiness about food, and the need for security blankets or dolls; and intense aversion to magic.
 Savvyheads sometimes behave oddly toward artifacts they are investigating: caressing, smelling, or licking them, meditating or ritually preparing themselves before using them, and so forth.
 <!-- They frequently have "deviant" sexuality: object, animal, and body part fetishes, sadism, masochism, or lack of any sexual attraction whatsoever. (Homo- and bi-sexuality, however, do not appear more common among savvyheads than the general populace, and neither does variant gender expression.) -->
-Savvyheads who engage in artistic expression, though rare, produce surreal and disconcerting work, as if they see and experience a universe totally foreign to us.
+Savvyheads who engage in artistic expression produce surreal and disconcerting work, as if they see and experience a universe totally foreign to us.
 
 <!-- TODO: when do their abilities manifest? their strangeness? what if identified as savvyheads early? what if never identified as savvyheads b/c never exposed to artifacts? -->
 
@@ -491,27 +491,25 @@ The Cult of Joe is the wealthiest and most politically influential of the Cults.
 
 Liz is the goddess of death and rebirth, of fertility, of sex, and of war.
 
-Although each of the three major Devas play a role in the process of reincarnation, Liz is the most central. Death is but a return to her womb, from which one is reborn into the next life. When a person dies, it is Joe who judges their *ka*, and Tomas who guides their soul on its journey into its new body; but Liz alone determines their new fate. At funerals, Liz is paid respect above all others. She is asked to look mercifully on the departed and grant them a happy next life.
+Although each of the three major Devas play a role in the process of reincarnation, Liz is the most central. Death is but a return to her womb, from which one is reborn into the next life. When a person dies, Joe judges their *ka*, and Tomas guides their soul on its journey into its new body; but Liz alone determines their new fate. At funerals, Liz is paid respect above all others. She is asked to look mercifully on the departed and grant them a happy next life.
 
-Liz and Tom are lovers; the monsoon rains are her tears of joy at the return of Tom at the end of Winter. Liz is the goddess of the fertility of the soil, and Tom of the virility of the seed planted in it; they are prayed to when seeds are sown and when plants are harvested.
+Liz and Tom are lovers; the monsoon rains are her tears of joy at the return of Tom at the end of Winter. Liz is the goddess of the fertility of the soil, and Tom of the virility of the seed planted in it; they are prayed to when seeds are sown and when crops are harvested.
 
 Liz is the goddess of sex and passion, but not of love or of marriage. Women may pray to her, but only prostitutes take her as patron. She is the goddess of fertility and rebirth, but not of motherhood; she is not prayed to for safe delivery. Although she is portrayed as beautiful, she is not even the goddess of beauty: that is Tom's domain.
 
-Liz is the goddess of war and conflict, which is of course connected with her aspect as the goddess of death, and also with her aspect as goddess of passion. Warriors pray to her for victory before battle—and the less confident pray to her also for a better fate in their next life should they die.
+Liz is the goddess of war and conflict, which is of course connected with her aspect as the goddess of death, and also with her aspect as goddess of passion. Warriors pray to her for victory before battle—and the less confident pray to her for a better fate in their next life should they die.
 
-The Cult of Liz boasts the most worshippers of any Cult; Liz's many roles, and in particular her prominent roles in planting, harvest, and funeral ceremonies, guarantee the Cult a large audience. They are also the Cult which most vehemently hates the Immortality Machines, due to Liz's connection with the cycle of rebirth.
+The Cult of Liz boasts the most worshippers of any Cult; Liz's many roles, and in particular her prominent roles in planting, harvest, and funeral ceremonies, guarantee the Cult a large audience. They are also the Cult which most vehemently detests the Immortality Machines, due to Liz's connection with the cycle of rebirth.
 
 ##### <span class="num">1.2.3</span> The Cult of Tom and Tomas
 
-Tom and Tomas are names for two aspects of the same Deva, who takes on different aspects at different times of year: Tom during Summer, Tomas during Winter. Together they are sometimes called "the divided god".
-
-The Cult is similarly divided. It has two separate but parallel priesthoods, one of Tom and another of Tomas; each priest of any significant rank has an exact counterpart with whom they work closely. Their temples are also split into halves; a groove runs down the middle of the main hall of worship to demarcate the boundary between them.
+Tom and Tomas are names for two aspects of the same Deva, who takes on different aspects at different times of year: Tom during Summer, Tomas during Winter. Together they are sometimes called "the divided god". The Cult is similarly divided, into two separate but parallel priesthoods, one of Tom and another of Tomas. Each priest of significant rank has a counterpart in the other order with whom they work closely. Their temples are split into halves; a groove runs down the middle of the main hall of worship to demarcate the boundary between them.
 
 Tom is the god of male generativity and virility, of vegetation, youth, laughter, beauty, and of topside. Tomas is the god of mysticism and magic, gateways and thresholds, of seeing or finding that which is hidden, of prophecy, ordeals and paths, of age and of the underground. They are both, in different ways, gods of intelligence: Tom of extroverted intelligence—poetry, creativity, wit—and Tomas of introverted intelligence—book learning, craftiness, hard-earned wisdom.
 
 Like Liz, Tom and Tomas are related to life, death and rebirth. Tom is reborn at the beginning of each year, but is only fully alive during the monsoons. The dry season is Tom's slow, agonizing death, repeated each year as punishment for a crime unknown. With the onset of Winter, Tom is dead, and becomes Tomas.
 
-The Cult of Tom and Tomas is the least powerful of the three major cults, but not by much. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the representation of Winter, Tomas is much-worshipped during that half of the year.
+The Cult of Tom and Tomas is by a small margin the least powerful of the three major cults. Tom is consistently popular among youths, and (with Liz) is important in planting and harvest rituals; and as the representation of Winter, Tomas is much-worshipped during that half of the year.
 
 <!-- TODO: ##### <span class="num">1.2.4</span> Minor Cults -->
 
@@ -520,6 +518,8 @@ The Cult of Tom and Tomas is the least powerful of the three major cults, but no
 <!-- #### <span class="num">1.3</span> High and Low Church -->
 
 #### <span class="num">1.3</span> The History of the Church
+
+<!-- TODO: move this into appendices? -->
 
 <!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
 
