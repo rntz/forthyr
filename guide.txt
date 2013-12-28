@@ -91,11 +91,15 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 <!-- find a slightly more original way of putting this. or at least insert sentence about "why was the *old* civilisation advanced?" -->
 
-Our world is strewn with the remains of an ancient civilisation, one clearly more advanced than our own, and indeed than yours. Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half seem purposeful in a way suggestive of deliberate construction: rectangular rooms, human-sized doorways, razor-straight tunnels, geometric indentations carved into the ground or walls<!--, pillars spaced at regular intervals-->.
+<!-- Most of our cities and enclaves are but repurposed Ancient ruins. Of the tunnels and caverns that riddle the surface of Forthyr, about half are clearly of Ancient origin—too geometric to be natural, too precise and too large to be made by current civilisation. -->
 
-The Ancients built on a massive scale. Our largest cities occupy merely the upper levels of their ruins. They built tunnels wide enough for a hundred men or more to march abreast; and these same tunnels continue razor-straight so far into the distance they shrink to mere points. Above ground, too, they left their mark, in the form of vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
+<!--, pillars spaced at regular intervals-->
 
-They built using materials we do not know how to replicate. Having spent some time on Earth I can now guess at the identity of a few of them, but not all. Their constructions have withstood uncounted millennia unmarked by rust and uneroded by weather. To be fair, perhaps that is simply because those that could not stand the test of time no longer exist at all.
+Our world is strewn with the remains of an ancient civilisation, one clearly more advanced than our own, and indeed than yours.
+
+The Ancients built on a massive scale. Our greatest cities occupy only the upper levels of their ruins. They made tunnels wide enough for a hundred men or more to march abreast; these same tunnels continue razor-straight into the distance so far they shrink to mere points. Above ground, too, they left their mark, constructing vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
+
+They built with materials we cannot replicate. From my time on Earth I can now  identify a few of them, but not all. Their edifices have withstood uncounted millennia unmarked by rust and uneroded by weather. To be fair, perhaps that is simply because those that could not stand the test of time no longer exist at all.
 
 The Ancients left behind not only architecture, but artifacts. They left weaponry: guns, artillery, mobile weapon platforms (some tank-like, some humanoid, some monstrous), armored suits, glowing swords, death rays, psychic dampeners, hunter-seeker drones, city-destroying bombs, the whole shebang. They left infrastructure: power generators, light sources, plumbing systems, hydroponics chambers, teleporters, laboratories, factories. And they left thousands of other tools and gewgaws: direction- and path-finders, lock-pickers, puzzles, jewelry, autonomous robots, toys, music-boxes; the list is endless.
 
@@ -199,11 +203,29 @@ Second, making use of Ancient weaponry in battle has a tendency to alarm one's n
 
 -->
 
+<!-- TODO
 ### <span class="num">3</span> The Depths
 
-Some Ancient ruins run deep below ground, far deeper than necessary to merely escape the topside Winter. An inexplicably common form of Ancient work is the borehole: a tunnel dug straight down, farther than the eye can see or the ear hear. And in these depths plumbed by boreholes, mineshafts, and suboceanic tunnels, in the deepest levels of Ancient city complexes, there lurk monsters.
+Some Ancient ruins run deep below ground, far deeper than necessary to merely escape the topside Winter. An inexplicably common form of Ancient work is the borehole: a tunnel dug straight down, farther than the eye can see or the ear hear. And in these depths plumbed by boreholes, mineshafts, and suboceanic tunnels, in the deepest levels of Ancient city complexes, madness lurks.
 
-They are rare, but their existence is established beyond a shadow of a doubt. I have seen them with my own eyes, though thankfully only as corpses.
+Strange things have always happened in the Depths. Those who dwell there long return changed or not at all. Perhaps it is simply the sheer isolation, the absence of all light and sound, the Nietzschean abyss of your own soul staring back at you. But over the past millennium, monsters of a more substantive sort have begun to crawl up out of the abyss and into reality.
+
+It is hard to say what these monsters are. Nobody who has encountered one can describe it even to their own satisfaction, though many have tried quite inventively.
+
+They are yet rare, but their existence is beyond doubt. I have seen them with my own eyes.
+-->
+
+<!--
+It is easy to say what these monsters are not. They are not ogres, trolls, goblins, or gremlins. They are not zombies, vampires,  ghouls, or bogeymen. They are not sphinxes, rocs, dragons, or minotaurs. They are neither humanoid nor beast-like. They are not quite Lovecraftian horrors—they are not slimy, gelatinous, betentacled or bug-eyed—but they do share
+-->
+
+<!--
+It is easy to say what these monsters are not. They are not ogres, vampires, barrow-wights, bogeymen, zombies, or other story-book terrors. Nor are they quite Lovecraftian horrors; they are not so definite as that—no squirming tentacles, no compound eyes or crawling skin.
+
+they are not story-book monsters—vampires, dragons, bogeymen, zombies—
+
+These are not your standard story-book monsters—vampires, cyclops, dragons, bogeymen, zombies—nor are they exactly Lovecraftian horrors, betentacled bug-eyed seething slimy *things*. It is easy to say what the monsters are not; harder to say what they are.
+-->
 
 <!--
 What form do they take?
@@ -392,7 +414,8 @@ Nobles are the ruling class. Every Noble family has a *dominion*, a territory th
 
 The Priest caste serve many roles: teachers, historians, mediators, counselors. The highest calling for a Priest, of course, is to be a priest of the Church of the Devout (discussed later). Priests are the only caste not bound to a Noble's service or territory; they may go where they please, although they are not above the law.
 
-### <span class="num">3</span> Flora and Fauna
+<!-- TODO -->
+<!-- ### <span class="num">3</span> Flora and Fauna -->
 
 
 ## <span class="num">VI</span> Religions
