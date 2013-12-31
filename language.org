@@ -5,6 +5,7 @@ It is too undefined consonontally. Need to settle on consonontal "feels" for
 language as a whole, with regional variations.
 
 * The Sikandan Syllabary
+Actually an abjad.
 
 Observations thus far:
 - Syllables usually start with consonants
@@ -14,7 +15,6 @@ Observations thus far:
 
 Ideas:
 - Glottal stop as consonant
-- Script is consonontal, w/ vowels represented w/ "diacritics"
 
 ** Structure
 Symbols for consonants. Marks added to consonant symbols (like diacritics) for
@@ -199,64 +199,73 @@ Many pronouns can be pluralized by suffixing with ???.
 |------+----------+------+---------------------------------------------------------------|
 
 ** Common words, name suffixes, prefixes
-| Name     | Spelling   | Meaning                       | Examples, Notes                 |
-|----------+------------+-------------------------------+---------------------------------|
-|          |            | Sea                           |                                 |
-|          |            | Lake                          |                                 |
-| luin     | L Wi N     | River                         | Pelluin = PeL LWiN = Pell River |
-| sil      |            | Island                        |                                 |
-| col      | Ko L       | Stream, spring                |                                 |
-| fin      | Fi N       | Swamp, marsh, fen             |                                 |
-| gul      | Ku L       | Steep-sided valley, chasm     |                                 |
-| glos     | K Lo S     | Valley, glen                  |                                 |
-|          |            | Valley                        |                                 |
-|          |            | Mountain                      |                                 |
-| ceil     | Key L      | Mountain                      | keyl kyel tyel                  |
-|          |            | Plain, Field                  |                                 |
-| svora    |            | Place to grow crops           |                                 |
-|----------+------------+-------------------------------+---------------------------------|
-| tyol     |            | Tower, artificial or natural  |                                 |
-| stuka    | S Tu Ka    | Hut (topside house)           | thuka?                          |
-|          |            | Town (topside)                |                                 |
-|          |            | Enclave                       |                                 |
-| tec      | Te K       | Enclave                       | From the dialect of ???.        |
-|          |            | Keep, stronghold              |                                 |
-|          |            | City                          |                                 |
-|          |            | Church (building/room)        |                                 |
-|          |            | Dominion, barony              |                                 |
-|          |            | Kingdom, duchy                |                                 |
-|          |            | Ancient Ruin                  |                                 |
-|----------+------------+-------------------------------+---------------------------------|
-|          |            | Wizard                        |                                 |
-|          |            | Witch (i.e. unlearned wizard) |                                 |
-|          |            | Exarch                        |                                 |
-|          |            | Sovereign                     |                                 |
-|          |            | Lord                          |                                 |
-|          |            | Noble-caste                   |                                 |
-|          |            | Warrior-caste                 |                                 |
-|          |            | Priest-caste                  |                                 |
-|          |            | Peasant-caste                 |                                 |
-|          |            | Warrior (general)             |                                 |
-|          |            | Priest (profession)           |                                 |
-| baldruch | Pa L TRu X | Manual laborer                |                                 |
-|          |            | Artisan                       |                                 |
-|----------+------------+-------------------------------+---------------------------------|
-|          |            | Deva                          |                                 |
-|          |            | Asura                         |                                 |
-|          |            | Deity                         |                                 |
-|          |            | Spirit                        |                                 |
-|          |            | Ancestor                      |                                 |
-|          |            | Venerated ancestor spirit     |                                 |
-|          |            | Worshipper                    |                                 |
-|          |            | Pilgrim                       |                                 |
-|----------+------------+-------------------------------+---------------------------------|
+| Name     | Spelling   | Meaning                       | Examples, Notes                  |
+|----------+------------+-------------------------------+----------------------------------|
+|          |            | Sea                           |                                  |
+|          |            | Lake                          |                                  |
+| luin     | L Wi N     | River                         | Pelluin = PeL LWiN = Pell River  |
+| sil      |            | Island                        | prefix or suffix.                |
+| col      | Ko L       | Stream, spring                |                                  |
+| fin      | Fi N       | Swamp, marsh, fen             |                                  |
+| gul      | Ku L       | Steep-sided valley, chasm     |                                  |
+| glos     | K Lo S     | Valley, glen                  |                                  |
+|          |            | Valley                        |                                  |
+|          |            | Mountain                      |                                  |
+| ceil     | Key L      | Mountain                      | keyl kyel tyel                   |
+|          |            | Plain, Field                  |                                  |
+| svora    | S For Ha   | Place to grow crops           |                                  |
+|----------+------------+-------------------------------+----------------------------------|
+| lyi      | Lyi        | Sun                           |                                  |
+| lwu      | L Wu       | Moon                          |                                  |
+| tein     | Tey N      | Toward                        | word and suffix                  |
+| lyitein  | Lyi Tey N  | Sunward                       |                                  |
+| lwutein  | L Wu Tey N | Moonward                      |                                  |
+| shal     | SRa L      | North                         |                                  |
+| sfor     | S For      | South                         |                                  |
+|----------+------------+-------------------------------+----------------------------------|
+| tyol     |            | Tower, artificial or natural  |                                  |
+| stuka    | S Tu Ka    | Hut (topside house)           | thuka?                           |
+| ten      | Te N       | Town (topside)                |                                  |
+| syetch   | Sye T SR   | Enclave                       | prefix.                          |
+| tec      | Te K       | Enclave                       | prefix. From the dialect of ???. |
+| tec?     |            | Keep, stronghold              |                                  |
+|          |            | City                          |                                  |
+|          |            | Church (building/room)        |                                  |
+|          |            | Dominion, barony              |                                  |
+| net      | Ne T       | Dominion, barony              | suffix. from the dialect of ???. |
+|          |            | Kingdom, duchy                |                                  |
+|          |            | Ancient ruin                  |                                  |
+|----------+------------+-------------------------------+----------------------------------|
+|          |            | Wizard                        |                                  |
+|          |            | Witch (i.e. unlearned wizard) |                                  |
+|          |            | Exarch                        |                                  |
+|          |            | Sovereign                     |                                  |
+|          |            | Lord                          |                                  |
+|          |            | Caste                         | word and suffix                  |
+|          |            | Warrior-caste                 |                                  |
+|          |            | Priest-caste                  |                                  |
+|          |            | Peasant-caste                 |                                  |
+|          |            | Warrior (general)             |                                  |
+|          |            | Priest (profession)           |                                  |
+| baldruch | Pa L TRu X | Manual laborer                |                                  |
+|          |            | Artisan                       |                                  |
+|----------+------------+-------------------------------+----------------------------------|
+|          |            | Deva                          |                                  |
+|          |            | Asura                         |                                  |
+|          |            | Deity                         |                                  |
+|          |            | Spirit                        |                                  |
+|          |            | Ancestor                      |                                  |
+|          |            | Venerated ancestor spirit     |                                  |
+|          |            | Worshipper                    |                                  |
+|          |            | Pilgrim                       |                                  |
+|----------+------------+-------------------------------+----------------------------------|
 
 * Names
 
 | Name        | Spelling        | Pronounciation               |
 |-------------+-----------------+------------------------------|
 | Tarbin      | Tar Pi N        |                              |
-| Shalwind    | S Ra L Wi N D   |                              |
+| Shalwind    | SRa L Wi N D    |                              |
 | Dhuinlach   | TH Wi N La X    | ðɯɪnlɑx                      |
 | Torheven    | Tor He Fe N     |                              |
 | Gisphenar   | Gi S Fe Nar     |                              |
@@ -269,7 +278,7 @@ Many pronouns can be pluralized by suffixing with ???.
 | Glosvech    | G Lo S Fe X     |                              |
 | Yadric      | Hya TRi K       |                              |
 | Lec         | Le K            |                              |
-| Ashratte    | Ha S Ra Te      |                              |
+| Ashratte    | Ha SRa Te       |                              |
 | Lung        | Lu N K          |                              |
 | Nwolga      | N Wo L Ka       |                              |
 | Engrafe     | He N GRa Fe     |                              |
