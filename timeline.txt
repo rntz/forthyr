@@ -2,42 +2,46 @@
 # TODO: include revelation of a dwarven secret in timeline?
 # TODO: increasing trade, industrialism in the Low countries. more stuff re tech.
 # TODO; should any of the events involving Sikanda be here? Chronology too uncertain.
+# TODO: eruption of the volcano Azilmur? some other volcano?
+# TODO: rediscovery of roke!
 
 # c. -1300: Sikanda genocides the Frost Giants and invades the Low Countries across the Zothi Mountains.
 # c. -1290: Sikanda lays waste to the stronghold of Roke.
 # c. -1260: Sikanda uses an Ancient weapon to devastate the isle to which the Low Country Sorceror-Kings have fled. It is left nearly barren and becomes known as the Desolate Isle.
 # c. -1250: The holy city of Sikandarat is founded, becoming the capital of Sikanda's Empire.
 
-c. -1000: Sikanda disappears. The Sikandan Empire devolves into squabbling factions led by rival Exarchs.
+c. -1000: The Sikandan Empire collapses.
 
-c. -780: Gurth is founded.
+c. -780: Founding of Gurth.
 
 -105: The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.
 -103: The First Crusade is declared.
--80: Mugaina, Exarch of the Gap, is defeated.
--57: Worm City falls to the Exarchs. Commonly accepted as the turning point in the history of the Crusades.
--50: The Crusades are effectively over. The Reformation is in full swing.
+#-80: Mugaina, Exarch of the Gap, is defeated.
+#-57: Worm City falls to the Exarchs. Commonly regarded as the turning point of the Crusades.
+-57: Worm City falls to the Exarchs. The tide of the Crusades begins to turn.
+c. -50: The Crusades are over, the Exarchs victorious. The Reformation is in full swing.
 
 -8: Plumes of fire are seen rising from the Wizards' Isle.
--7: The Gulf of Fog acquires its name as an enchanted fog spreads over it, making it unnavigable.
--7: Zangma, Exarch of Gurth, grants the peninsula of Peχavn to a then-unknown wizard.
+-7: The Gulf of Fog acquires its name as an enchanted fog spreads over it, making it unnavigable. Zangma, Exarch of Gurth, grants the peninsula of Peχavn to a then-unknown wizard.
 
-0: The Cult of Joe convenes the first Ecumenical Council, seeking to promote unity among the splintered Cults of the reformed Church.
+0: The Cult of Joe convenes the first Ecumenical Council.
 
-c. 150: The first Travellers migrate into the Heartlands from out of the Northern Wastes.
+c. 150: The first Travellers migrate into the Heartlands from the Northern Wastes.
 
-461: Otaumo achieves "enlightenment" at the despoiled enclave of Sedruk and begins preaching the Way.
+#461: Otaumo achieves "enlightenment" at the despoiled enclave of Sedruk and begins preaching the Way.
+461: Otaumo achieves "enlightenment" and begins preaching the Way.
 470: The Wizard of Peχavn meets Otaumo and converts to his new religion.
 485: The Pentad is completed.
 
 c. 510: The Arhist Ark lands on the Desolate Isle.
 530: The Low Country King Hwathlõ converts to Arhism, beginning Arhism's rise to power.
-534: The Arhists acquire their first Immortality Machine.
+# 534: The Arhists acquire their first Immortality Machine.
 
-c. 600: Goblins become extinct. A legend arises claiming a priest named Martin laid a curse that exterminated them.
-605: Martin is Sainted and named "the Goblinslayer".
+#c. 600: Goblins become extinct.
+c. 600: Goblins become extinct. A legend arises claiming a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".
+# 605: Martin is Sainted and named "the Goblinslayer".
 
-606-614: The Arhists invade and conquer Sunward Himlas.
+606–614: The Arhists invade and conquer Sunward Himlas.
 615: The last Torvil heir disappears. The Torvil Dynasty is now the Torvil Regency.
 
 740: The Arhist Elder Yezu becomes "undead" in a freak Immortality Machine accident.
