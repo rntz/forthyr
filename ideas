@@ -1,7 +1,14 @@
 # Language & writing
 Koiné language: http://en.wikipedia.org/wiki/Koin%C3%A9_language
-abjad: http://en.wikipedia.org/wiki/Tifinagh
+
 Hieroglyphs
+abjad: http://en.wikipedia.org/wiki/Tifinagh
+abugida: http://en.wikipedia.org/wiki/Brahmic_script#Characteristics
+
+"Each consonant has an inherent vowel which is usually short 'a' (in Bengali,
+and Assamese, it is short 'ô' due to sound shifts). Other vowels are written by
+adding to the character. A mark, known in Sanskrit as a virama/halant can be
+used to indicate the absence of an inherent vowel."
 
 ----------
 # Architecture

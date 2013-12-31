@@ -5,7 +5,7 @@ It is too undefined consonontally. Need to settle on consonontal "feels" for
 language as a whole, with regional variations.
 
 * The Sikandan Syllabary
-Actually an abjad.
+Actually an abugida.
 
 Observations thus far:
 - Syllables usually start with consonants
