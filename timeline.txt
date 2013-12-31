@@ -1,3 +1,8 @@
+# TODO: make sure these follow that law about the distribution of 1s. maybe?
+# TODO: include revelation of a dwarven secret in timeline?
+# TODO: increasing trade, industrialism in the Low countries. more stuff re tech.
+# TODO; should any of the events involving Sikanda be here? Chronology too uncertain.
+
 # c. -1300: Sikanda genocides the Frost Giants and invades the Low Countries across the Zothi Mountains.
 # c. -1290: Sikanda lays waste to the stronghold of Roke.
 # c. -1260: Sikanda uses an Ancient weapon to devastate the isle to which the Low Country Sorceror-Kings have fled. It is left nearly barren and becomes known as the Desolate Isle.
