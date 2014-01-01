@@ -1,9 +1,8 @@
-# TODO: make sure these follow that law about the distribution of 1s. maybe?
 # TODO: include revelation of a dwarven secret in timeline?
 # TODO: increasing trade, industrialism in the Low countries. more stuff re tech.
 # TODO; should any of the events involving Sikanda be here? Chronology too uncertain.
 # TODO: eruption of the volcano Azilmur? some other volcano?
-# TODO: rediscovery of roke!
+# TODO: rediscovery of Roke!
 
 # c. -1300: Sikanda genocides the Frost Giants and invades the Low Countries across the Zothi Mountains.
 # c. -1290: Sikanda lays waste to the stronghold of Roke.
@@ -12,7 +11,7 @@
 
 c. -1000: The Sikandan Empire collapses.
 
-c. -780: Founding of Gurth.
+c. -780: Gurth founded.
 
 -105: The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.
 -103: The First Crusade is declared.
@@ -28,10 +27,13 @@ c. -50: The Crusades are over, the Exarchs victorious. The Reformation is in ful
 
 c. 150: The first Travellers migrate into the Heartlands from the Northern Wastes.
 
-#461: Otaumo achieves "enlightenment" at the despoiled enclave of Sedruk and begins preaching the Way.
-461: Otaumo achieves "enlightenment" and begins preaching the Way.
-470: The Wizard of Peχavn meets Otaumo and converts to his new religion.
-485: The Pentad is completed.
+#282: The Library at Roke is unearthed. The Monsoon War commences.
+282: The Library at Roke is unearthed, sparking the short-lived Monsoon War. Roke University is founded.
+
+#361: Otaumo achieves "enlightenment" at the despoiled enclave of Sedruk and begins preaching the Way.
+361: Otaumo suffers enlightenment and begins preaching the Seeking of the Way.
+373: The Wizard of Peχavn meets Otaumo and converts to his new religion.
+385: The Pentad is completed.
 
 c. 510: The Arhist Ark lands on the Desolate Isle.
 530: The Low Country King Hwathlõ converts to Arhism, beginning Arhism's rise to power.
@@ -47,4 +49,4 @@ c. 600: Goblins become extinct. A legend arises claiming a priest named Martin l
 740: The Arhist Elder Yezu becomes "undead" in a freak Immortality Machine accident.
 743: Yezu and his followers, shunned by Arhist orthodoxy, leave Himlas and colonize the Nightmare Coast.
 
-837: Present day.
+839: Present day.
