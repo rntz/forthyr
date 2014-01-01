@@ -2,7 +2,8 @@
 # TODO: increasing trade, industrialism in the Low countries. more stuff re tech.
 # TODO; should any of the events involving Sikanda be here? Chronology too uncertain.
 # TODO: eruption of the volcano Azilmur? some other volcano?
-# TODO: rediscovery of Roke!
+# TODO: wizard's journey to bottom of chasm
+# TODO: wizard's conversion of gengusra
 
 # c. -1300: Sikanda genocides the Frost Giants and invades the Low Countries across the Zothi Mountains.
 # c. -1290: Sikanda lays waste to the stronghold of Roke.
@@ -40,13 +41,13 @@ c. 510: The Arhist Ark lands on the Desolate Isle.
 # 534: The Arhists acquire their first Immortality Machine.
 
 #c. 600: Goblins become extinct.
-c. 600: Goblins become extinct. A legend arises claiming a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".
+c. 600–605: Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".
 # 605: Martin is Sainted and named "the Goblinslayer".
 
-606–614: The Arhists invade and conquer Sunward Himlas.
+606–616: The Arhists invade and conquer Sunward Himlas.
 615: The last Torvil heir disappears. The Torvil Dynasty is now the Torvil Regency.
 
-740: The Arhist Elder Yezu becomes "undead" in a freak Immortality Machine accident.
+740: The Arhist Elder Yezu becomes "undead" in an Immortality Machine accident.
 743: Yezu and his followers, shunned by Arhist orthodoxy, leave Himlas and colonize the Nightmare Coast.
 
 839: Present day.
