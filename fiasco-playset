@@ -7,47 +7,55 @@ Apothecary and physician
 Physician and client
 
 ** 1 Family
-1 Parent / child-in-law
+1 Parent-in-law / child-in-law
 2 Siblings
 3 Uncle / nephew or niece
 4 Distant relatives / extended family
+5 Parent / child
+6 Grandparent / grandchild
 
 ** 2 Romance
-Spouses
-Courting couple
-Noble and paramour
-Illicit lovers (cross-caste, native and Traveller, noble and paramour)
+1 Spouses
+2 Courting couple
+3 Noble and paramour
+4 Prostitute and John
+5 Illicit lovers (cross-caste, native and Traveller, Church and Arhist)
+6 Unrequited love
 
-** 3 Professional
-1 Inn proprietor and client (boarder, bar regular, etc.)
-2 Master and apprentice (smith, carpenter, weaver, wizard, etc.)
-3 Treasure-hunters
-4 Merchants
-5 Patron and savvyhead (? wrong category?)
+** 3 TODO Professional
+1 Landlord and tenant
+2 Barkeep and client
+3 Master and apprentice (smith, carpenter, weaver, wizard, etc.)
+4 Adventurers, treasure-hunters, ruin-looters, etc.
+5 Merchants & traders
 
-?? 3 Apothecary and client
+Patron and savvyhead (wrong category?)
+Apothecary and client
 
-** 4 Crime
+** 4 TODO Crime
 1 Thief and fence
 2 Pimp and prostitute
-Soma user and dealer
+3 Soma dealer and user
+4 Highway brigands
+
+Outlaws
 Thieves
 Gamblers
 Crime boss and toady
 Con men
 
-** 4 The Past
-Grew up together in the Marches (middle of nowhere)
-Ex-slaves
-Bad family blood from way back
+** 4 TODO The Past
+1 Grew up together in the Marches (middle of nowhere / redneck country)
+2 Ex-slaves
+3 Bad family blood from way back
 
-** 5 Nobility and Church
+** 5 TODO Nobility and Church
 Lord and vassal
 Lord and emissary
 Hierarch and lesser priest
 Priest and commoner of their congregation
 
-** 6 Friendship?
+** 6 TODO Friendship?
 
 * Needs
 get out of a life-debt
@@ -55,26 +63,91 @@ get out of a life of crime
 get out of the gang
 get rid of that pesky Priest
 get away from your shameful past
-get away from 
+get away from
+find satisfaction ... {in,from,by}
+get lost...
 
-** To get laid
-** To get rich
-... by blackmailing the Exarch
-... so you can buy your way into the Nobility
-... through ripping off some drug people
+** 1 To get rid
+1 ... of the evidence
+2 ... of that pesky Priest
+3 ... of the child you can't afford
+4 ... of your rich bachelor uncle, so you can inherit his estate
+5 ... of the curse that haunts you
+6 ... of the stain on your family's honor
+... of your crippling disease
+... of your last ties to home
+
+** 2 To get laid
+1 ... before you die of syphilis
+2 ... by a noblewoman
+3 ... by your one true love
+4 ... so you're not a virgin
+5 ... by anyone, anywhere, to dull the boredom
+6 ... as frequently as possible
+
+** 3 To get out
+1 ... of a life of crime
+2 ... of your crushing debt
+3 ... of your arranged marriage
+4 ... of your indentured servitude
+5 ... of this wretched, godless city
+6 ... of the gang
+... of the cult (not the Church kind)
+
+** 4 To get rich
+1 ... by any means necessary
+2 ... by ripping off some drug runners
+3 ... so you can buy your way into the Nobility
+4 ... so you can pay off your life-debt
+5 ... so your kids don't have to suffer like you did
+6 ... by blackmailing the Exarch
+... quick
+... by magical trickery
+
+** 5 To get the truth
+1 ... about your parentage
+2 ... about the Macwelan family treasure
+3 ... about your past lives
+4 ... about the Dwarves
+5 ... about the Traders
+6 ... about life, the World, and Everything
+... about the Depths
+... about what really happened to your sister
+
+** 6 To get even...
+1 ... with the landlord who evicted you
+2 ... with the Noble who thinks they're better than you
+3 ... with your brother, for stealing your inheritance
+4 ... with your best friend, for stealing your betrothed
+5 ... with the Church, for putting you in your "place"
+6 ... with the world, for being the shithole it is
+
+** To find happiness
+... at the bottom of a bottle
+... in a soma pipe
+... in marriage
+... in sex
+... in the city
+... in the country
 
 * Locations
 The Gap bridge
 The Pelluin docks
 The lower levels
 The Exarch's dungeon
+The Exarch's summer palace, topside
 
 ** The City
-1 The Exarch's Mother, a lower-caste pub with unsavory clientele
+1 The Exarch's Mother-in-Law, a low-caste pub with unsavory clientele
 2 A Wolf in the Cellar, inn and tavern
+Main street
 
 ** Residences
-** Down below
+
+** Outside of town
+1 A dingy shit-stained cave in the slums
+
+** The lower levels
 1 The Exarch's dungeons
 2 A ledge beneath the Gap
 3 The sealed-off lower levels of the Worm City ruins
@@ -83,21 +156,29 @@ The Exarch's dungeon
 1 An outlying village
 
 * Objects
+OPTIONAL SPECIAL RULE: When you choose an Ancient object, flip a coin. On heads,
+the item is broken and needs a savvyhead to fix it. Alternatively, you can leave
+it undecided and flip the coin when the item is first used.
+
 ** 1 Weapons
-1 Sword
-2 Poison
+1 An ancestral sword
+2 A paralyzing poison
 3 A blacksmith's tongs
-4 Executioner's axe
-5 Chengusan fire-spitter
-6 Ritual dagger used for animal sacrifice
+4 An executioner's axe
+5 A Chengusan fire-spitter
+6 A ritual dagger used for animal sacrifice
 
 ** 2 Information
-A map of
+A map of the sealed-off lower levels
+The drop-off point for a drug smuggling ring
+A letter to the Exarch
 
 ** 3 Valuables
 ** 4 Untoward
-Five pounds of soma
+Five pounds of soma (roughly a season's supply for the entire city)
+Dwarven <something the dwarves don't like to give away>
 The Iron Maiden
+A copy of the forbidden Asuric Testaments
 
 ** 5 Magical
 1 Warded talisman
@@ -108,7 +189,8 @@ The Iron Maiden
 
 ** 6 Ancient
 1 An Immortality Machine
-2 A broken hunter-seeker drone
-3 Psychic dampener
-4 Projectile weapon (gun, death ray)
-5 Powered armor
+2 A hunter-seeker drone
+3 A handheld psychic dampener
+4 A death ray
+5 A suit of powered armor
+6 A city-destroying bomb
