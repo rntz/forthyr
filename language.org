@@ -210,9 +210,9 @@ Many pronouns can be pluralized by suffixing with ???.
 | gul       | Ku L          | Steep-sided valley, chasm     |                                  |
 | glos      | K Lo S        | Valley, glen                  |                                  |
 |           |               | Valley                        |                                  |
-|           |               | Mountain                      |                                  |
-| ceil      | Key L         | Mountain                      | keyl kyel tyel                   |
-|           |               | Plain, Field                  |                                  |
+| karat     | Kar Ha T      | Mountain                      |                                  |
+| ceil      | Key L         | Mountain                      | variants: kyel tyel              |
+| stona     | S To Na       | Plain, Field                  |                                  |
 | svora     | S For Ha      | Place to grow crops           |                                  |
 |-----------+---------------+-------------------------------+----------------------------------|
 | lyi       | Lyi           | Sun                           |                                  |
@@ -223,7 +223,7 @@ Many pronouns can be pluralized by suffixing with ???.
 | shal      | SRa L         | North                         |                                  |
 | sfor      | S For         | South                         |                                  |
 |-----------+---------------+-------------------------------+----------------------------------|
-| tyol      |               | Tower, artificial or natural  |                                  |
+| tyol      | Tyo L         | Tower, artificial or natural  |                                  |
 | stuka     | S Tu Ka       | Hut (topside house)           | thuka?                           |
 | ten       | Te N          | Town (topside)                |                                  |
 | syetch    | Sye T SR      | Enclave                       | prefix.                          |
@@ -232,15 +232,18 @@ Many pronouns can be pluralized by suffixing with ???.
 |           |               | City                          |                                  |
 |           |               | Church (building/room)        |                                  |
 |           |               | Dominion, barony              |                                  |
-| net       | Ne T          | Dominion, barony              | suffix. from the dialect of ???. |
 |           |               | Kingdom, duchy                |                                  |
+| net       | Ne T          | Country, land, dominion       | suffix. from the dialect of ???. |
 |           |               | Ancient ruin                  |                                  |
 |-----------+---------------+-------------------------------+----------------------------------|
 |           |               | Wizard                        |                                  |
 |           |               | Witch (i.e. unlearned wizard) |                                  |
 |           |               | Exarch                        |                                  |
-|           |               | Sovereign                     |                                  |
-|           |               | Lord                          |                                  |
+|           |               | Lord, ruler (non-Exarch)      |                                  |
+|           |               | Liege                         |                                  |
+|           |               | Vassal                        |                                  |
+|           |               | King (ie. sovereign lord)     |                                  |
+|           |               | Baron (ie. vassal lord)       |                                  |
 | han       | Ha N          | A species of noble family     | name suffix, eg. Macwelhan       |
 | friel     | FRye L        | Caste                         | word and suffix                  |
 | hwanfriel | H Wa N FRye L | Noble-caste                   |                                  |
@@ -253,7 +256,7 @@ Many pronouns can be pluralized by suffixing with ???.
 |           |               | Artisan                       |                                  |
 |-----------+---------------+-------------------------------+----------------------------------|
 |           |               | Deva                          |                                  |
-|           |               | Asura                         |                                  |
+| Ahora     | Ha Hor Ha     | Asura                         |                                  |
 |           |               | Deity                         |                                  |
 |           |               | Spirit                        |                                  |
 |           |               | Ancestor                      |                                  |
@@ -272,7 +275,7 @@ Many pronouns can be pluralized by suffixing with ???.
 | Torheven    | Tor He Fe N     |                              |
 | Gisphenar   | Gi S Fe Nar     |                              |
 | Poldor      | Po L Dor        |                              |
-| Penderick   | Pe N Ter Hi K   |                              |
+| Penderrik   | Pe N Ter Hi K   |                              |
 | Frell       | FRe L           |                              |
 | Casimnet    | Ka Si N^ Ne T   | unusual consonant cluster MN |
 | Sedruk      | Se TRu K        |                              |
@@ -280,7 +283,7 @@ Many pronouns can be pluralized by suffixing with ???.
 | Glosvech    | G Lo S Fe X     |                              |
 | Yadric      | Hya TRi K       |                              |
 | Lec         | Le K            |                              |
-| Ashratte    | Ha SRa Te       |                              |
+| Ashrat      | Ha SRa T        |                              |
 | Lung        | Lu N K          |                              |
 | Nwolga      | N Wo L Ka       |                              |
 | Engrafe     | He N GRa Fe     |                              |
