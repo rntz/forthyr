@@ -95,9 +95,9 @@ Our astronomers (another poor word, for they watch the sky, not the stars; they 
 
 <!--, pillars spaced at regular intervals-->
 
-Our world is strewn with the remains of an ancient civilisation, one clearly more advanced than our own, and indeed than yours.
+Our world is strewn with the remains of an ancient civilisation far more advanced than our own, and indeed than yours.
 
-The Ancients built on a massive scale. Our greatest cities occupy only the upper levels of their ruins. They made tunnels wide enough for a hundred men or more to march abreast; these same tunnels continue razor-straight into the distance so far they shrink to mere points. Above ground, they left vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
+The Ancients built on a massive scale. Our greatest cities occupy only the upper levels of their ruins. They made tunnels wide enough for a thousand men to march abreast; the same tunnels continue razor-straight into the distance so far they shrink to mere points. Above ground, they left vast bridges spanning mountains peak-to-peak; monolithic spires jutting a thousand paces into the air; dams that define entire ecologies; and of course, the Great Chasm that divides Central Forthyr in two, about which I will say more later.
 
 They built with materials we cannot replicate. From my time on Earth I can now  identify a few of them, but not all. Their edifices have withstood uncounted millennia unmarked by rust and uneroded by weather.
 
@@ -105,9 +105,9 @@ They built with materials we cannot replicate. From my time on Earth I can now  
 
 They left behind not only architecture, but artifacts. They left weaponry: guns, tanks, artillery, armored suits, self-sharpening swords, death rays, psychic dampeners, flying machines, hunter-seeker drones, city-destroying bombs, the whole shebang. They left infrastructure: power stations, lights, plumbing, hydroponics, teleporters, laboratories, factories. And they left thousands of other tools and gewgaws: direction- and path-finders, lock-pickers, puzzles, jewelry, autonomous robots, toys, music-boxes; the list is endless.
 
-Unfortunately, they did not leave instructions. We don't know what half these Ancient relics are even *meant* to do, let alone how to use them. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard, if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
+<!-- TODO: this is an awkward transition. Move this into savvyhead section? -->
 
-<!-- TODO: ^ ugh, awkward transition -->
+Unfortunately, they forgot to leave instructions. We don't know what half these Ancient relics are even *meant* to do, let alone how to use them. Most Ancient gadgetry would simply sit abandoned in some king's treasure hoard, if it weren't for the savvyheads. I'll get to them shortly, but first, there is an Ancient device that demands more explanation than an entry in a list.
 
 <!--
 But most of what they left behind, we simply do not understand the purpose of.
@@ -119,9 +119,9 @@ We do not know the original purpose of half of what they left behind. Even those
 
 <!-- the entrances to the lower levels [of the ruins] are deliberately blocked off or guarded to avoid leaving a back-door for attackers-->
 
-<!-- Then there are the boreholes, equally massive tunnels built straight down, for no purpose we can fathom. -->
+<!-- Then there are the boreholes, equally massive tunnels built straight down, for no purpose we can fathom. Their purpose is as unfathomable as their depth. -->
 
-<!-- should it be yellow or green? -->
+<!-- should it be yellow (or green)? -->
 
 <!-- Their favorite material, however, is a metal that yet remains a mystery: yellow, but paler and duller than gold, as strong as steel but impervious to rust, acid, and all the forces that wear -->
 
@@ -404,7 +404,7 @@ Cities are much the same, but remain inhabited (albeit less densely) and fully g
 
 <!-- TODO: better phrasing for "varies from region to region". "not entirely consistent"? -->
 
-In the Heartlands and Lowlands of Central Forthyr, society is organized according to a strict caste system. At the core of this system are the Four Castes: Peasant, Warrior, Noble, and Priest. These are merely the beginnings of the many distinctions of rank and kind made by virtue of one's birth; but as these distinctions vary wildly from region to region, I can give no brief account of them here.
+In the Heartlands and Low Countries of Central Forthyr, society is organized according to a strict caste system. At the core of this system are the Four Castes: Peasant, Warrior, Noble, and Priest. These are merely the beginnings of the many distinctions of rank and kind made by virtue of one's birth; but as these distinctions vary wildly from region to region, I can give no brief account of them here.
 
 The Peasant caste are the laborers and craftsmen who form the backbone of society: millers, carpenters, smiths, potters, weavers, miners, and such. Almost all peasants are farmers, in addition to their other work. When the growing season comes every able-bodied peasant is needed to tend the fields, to ensure that the enclave has enough food to make it through Winter and still pay its taxes. Peasants are bound to the land, and may not move freely without their Noble's permission.
 
@@ -611,12 +611,12 @@ central organization has proved crucial in thriving in the relative harsh condit
 
 #### <span class="num">2.3</span> Political Power
 
-The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. In addition to their stronghold in Sunward Himlas, Arhism has converted a few countries in the Lowlands and Northern Heartlands. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
+The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. Besides their stronghold in Sunward Himlas, Arhism has converted a few of the Low Countries. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
 
 <!--
 #### <span class="num">2.4</span> The History of Arhism
 
-??? The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant portions of the Lowlands, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire.
+??? The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant areas of the Low Countries, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire.
 
 ??? They made landfall on the Desolate Isle, and spent the winter in the ruins of Sangraha there. The Desolate Isle is so called because it cannot grow enough crops to support human life; many Arhists died that winter.
 
@@ -699,14 +699,14 @@ The Travellers believe that the Goddess originally created the world separate fr
 
 <!-- TODO: a fucking map -->
 
-### <span class="num">1</span> The Heartlands and Lowlands
+### <span class="num">1</span> The Heartlands and Low Countries
 
 <!-- TODO: describe how Heartlands are comparative bastion of Devout faith -->
 <!-- TODO: more description of Heartlands and Lowlands independent of each other -->
 
 Forthyr is a large continent; we know the shape it makes on the sky, but we do not know what sorts of peoples dwell at its far limits. By "we" I refer to the dwellers of the Heartlands, a region lying more or less at the center of Forthyr, and my homeland.
 
-The Heartlands are mountainous, but well-populated, for the underground tunnel system is dense here and the land fertile. Only the Lowlands, which lie in the verdant valley of the great river Pelluin as it runs Sunwards to the sea, are more populous. The Heartlands and Lowlands are separated by the Great Chasm, a canyon so deep the bottom lies in permanent shadow. It is perhaps a kilometer wide. Its depth is unknown, and its bottom has never been reached. No river carved it, for it does not reach the sea; besides, it runs too straight and its walls are too sheer to have formed naturally. It is generally believed to be the relic of some Ancient disaster.
+The Heartlands are mountainous, but well-populated, for the underground tunnel system is dense here and the land fertile. Only the Low Countries, which lie in the verdant valley of the great river Pelluin as it runs Sunwards to the sea, are more populous. The Heartlands and Low Countries are separated by the Great Chasm, a canyon so deep the bottom lies in permanent shadow. It is perhaps a kilometer wide. Its depth is unknown, and its bottom has never been reached. No river carved it, for it does not reach the sea; besides, it runs too straight and its walls are too sheer to have formed naturally. It is generally believed to be the relic of some Ancient disaster.
 
 <!-- TODO: convey how bad going around either end of it is compared to the Gap
 TODO: make the description of Pelluin waterfall convey scale better? -->
@@ -739,7 +739,7 @@ Across the Tall Mountains are the Southern Kingdoms. The Tall Mountains live up 
 
 ### <span class="num">6</span> The Sunward Lands
 
-South-Sunward across the Short Mountains is Chengusa, a large kingdom with intensely insular, xenophobic tendencies and relatively advanced technology. In particular, they possess primitive firearms. In spite of their xenophobia, they are rumoured to enjoy good relations with the Dwarves, which may explain the source of their technology.
+South-Sunward across the Short Mountains is Chengusa, a large kingdom with intensely insular, xenophobic tendencies and relatively advanced technology, including primitive firearms. Despite of their xenophobia, they are rumoured to enjoy good relations with the Dwarves, which may explain the source of their technology.
 
 Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an  uncharted and unnavigable tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
 
@@ -803,20 +803,21 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 <tbody>
 <!-- Generated by a mktimeline.sh -->
 
-<tr><td>c.&nbsp;−1000</td><td>The Sikandan Empire collapses.</td></tr>
-<tr><td>c.&nbsp;−780</td><td>Gurth founded.</td></tr>
-<tr><td>−105</td><td>The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.</td></tr>
-<tr><td>−103</td><td>The First Crusade is declared.</td></tr>
-<tr><td>−57</td><td>Worm City falls to the Exarchs. The tide of the Crusades begins to turn.</td></tr>
-<tr><td>c.&nbsp;−50</td><td>The Crusades are over, the Exarchs victorious. The Reformation is in full swing.</td></tr>
+<tr><td>c.&nbsp;−3000 to −2000</td><td>Sikandan Empire. The known world is united under the First Exarch, Sikanda. These dates are extremely speculative, and the existence of this period is semi-mythical.</td></tr>
+<tr><td>c.&nbsp;−2000 to −1000</td><td>Lesser Empire. Ruled by several Exarchs in succession, with occasional schisms. Eventually disintegrates completely.</td></tr>
+<tr><td>−780</td><td>Gurth founded.</td></tr>
+<tr><td>−153</td><td>The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.</td></tr>
+<tr><td>−151</td><td>The First Crusade is declared.</td></tr>
+<tr><td>−107</td><td>Worm City falls to the Exarchs. The tide of the Crusades turns.</td></tr>
+<tr><td>c.&nbsp;−100</td><td>The Crusades are over, the Exarchs victorious. The Reformation begins.</td></tr>
 <tr><td>−8</td><td>Plumes of fire are seen rising from the Wizards' Isle.</td></tr>
 <tr><td>−7</td><td>The Gulf of Fog acquires its name as an enchanted fog spreads over it, making it unnavigable. Zangma, Exarch of Gurth, grants the peninsula of Peχavn to a then-unknown wizard.</td></tr>
 <tr><td>0</td><td>The Cult of Joe convenes the first Ecumenical Council.</td></tr>
-<tr><td>c.&nbsp;150</td><td>The first Travellers migrate into the Heartlands from the Northern Wastes.</td></tr>
-<tr><td>282</td><td>The Library at Roke is unearthed, sparking the short-lived Monsoon War. Roke University is founded.</td></tr>
-<tr><td>361</td><td>Otaumo suffers enlightenment and begins preaching the Seeking of the Way.</td></tr>
-<tr><td>373</td><td>The Wizard of Peχavn meets Otaumo and converts to his new religion.</td></tr>
-<tr><td>385</td><td>The Pentad is completed.</td></tr>
+<tr><td>c.&nbsp;50</td><td>The first Travellers migrate into the Heartlands from the Northern Wastes.</td></tr>
+<tr><td>182</td><td>The Library at Roke is unearthed, sparking the short-lived Monsoon War. Roke University is founded.</td></tr>
+<tr><td>333</td><td>Otaumo suffers enlightenment and begins preaching the Seeking of the Way.</td></tr>
+<tr><td>348</td><td>The Wizard of Peχavn meets Otaumo and converts to his new religion.</td></tr>
+<tr><td>370</td><td>The Pentad is completed.</td></tr>
 <tr><td>c.&nbsp;510</td><td>The Arhist Ark lands on the Desolate Isle.</td></tr>
 <tr><td>530</td><td>The Low Country King Hwathlõ converts to Arhism, beginning Arhism's rise to power.</td></tr>
 <tr><td>c.&nbsp;600–605</td><td>Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".</td></tr>
