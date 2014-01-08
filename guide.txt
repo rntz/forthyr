@@ -698,11 +698,12 @@ The Travellers believe that the Goddess originally created the world separate fr
 ## <span class="num">VII</span> Geography
 
 <!-- TODO: a fucking map -->
+<!-- TODO: this whole section is excessively verbose. -->
 
 ### <span class="num">1</span> The Heartlands and Low Countries
 
 <!-- TODO: describe how Heartlands are comparative bastion of Devout faith -->
-<!-- TODO: more description of Heartlands and Lowlands independent of each other -->
+<!-- TODO: more description of Heartlands and Low Countries independent of each other -->
 
 Forthyr is a large continent; we know the shape it makes on the sky, but we do not know what sorts of peoples dwell at its far limits. By "we" I refer to the dwellers of the Heartlands, a region lying more or less at the center of Forthyr, and my homeland.
 
@@ -711,7 +712,7 @@ The Heartlands are mountainous, but well-populated, for the underground tunnel s
 <!-- TODO: convey how bad going around either end of it is compared to the Gap
 TODO: make the description of Pelluin waterfall convey scale better? -->
 
-No human-made bridge spans the Chasm, and no tunnel runs under it. There are three ways past it: go around its North end in Himlas; go around its South end, in xenophobic Chengusa; or cross the Gap. The Gap lies at the center of the Chasm's North-South run. It is a pair of apparently natural stone bridges. One bridge runs between two underground tunnels on each side of the Chasm. The other carries the Pelluin from where it waterfalls over the Moonward side to an underground aqueduct on the Sunward side, from which it eventually springs forth onto the surface.
+No human-made bridge spans the Chasm, and no tunnel runs under it. There are three ways past it: go around its North end on the Nightmare Coast; go around its South end, in xenophobic Chengusa; or cross the Gap. The Gap lies at the center of the Chasm's North-South run. It is a pair of apparently natural stone bridges. One bridge runs between two underground tunnels on each side of the Chasm. The other carries the Pelluin from where it waterfalls over the Moonward side to an underground aqueduct on the Sunward side, from which it eventually springs forth onto the surface.
 
 The Heartlands are bounded to Sunwards by the Chasm, and otherwise are ringed by mountain ranges: to the North, the Himlas Mountains; to the Moonward, the Moon Mountains; to the South, the Tall Mountains; and to the South-Sunwards the Short Mountains. It should be noted that the Short Mountains are "short" only in comparison with the Tall mountains; they are the Alps to the Tall Mountains' Himalayas.
 
