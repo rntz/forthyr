@@ -592,7 +592,7 @@ Ways in which Arhism opposes Church/Heartland-society:
 
 -->
 
-While the Devout see the Immortality Machines as evil, the Arhists see them as indispensable. Those who are close to Arha—the Elders—must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and spiritually unimproved lives. Arhists willingly sacrifice themselves on the altar of the Machines, that by their death they may preserve the Arha of the Elder who takes their body.
+The Devout see the Immortality Machines as evil, but to the Arhists they are indispensable. Those who are close to Arha—the Elders—must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and spiritually unimproved lives. Arhists willingly sacrifice themselves on the altar of the Machines, that by their death they may preserve the Arha of the Elder who takes their body.
 
 <!-- TODO: how do they see the sacrifices needed to run the Machines? -->
 
@@ -604,7 +604,20 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 
 #### <span class="num">2.2</span> Society and Culture
 
-Arhist society is strange. Money is used rarely, mostly for trade with outsiders. There are no loans, and no debts. There is no marriage, though partnership for life is not uncommon. Although there is a strong drinking culture, drugs other than alcohol are proscribed. Most strangely of all, children do not know their own mothers. Children are raised communally, to avoid the possibility of privilege-by-birth.
+Arhist culture is strange. Money is used rarely, mostly for trade with outsiders. There are no loans and no debts. There is no marriage, though life-partnership is not uncommon. There is a strong drinking culture, but drugs other than alcohol are proscribed. Most strangely of all, children do not know their own mothers. Children are raised communally, to avoid the possibility of privilege-by-birth.
+
+<!-- TODO: rename artiklas -->
+
+Children are educated until they come of age. On their 14th Summer they begin their <i>artiklas</i>, a period in which they work a different job in a different place every other season or so. This lasts until they find a task and a place they like enough to settle down, which usually takes two to five years.
+
+<!-- Children are educated until they come of age. On their 14th Summer they begin their *Career-search*, a period in which they work a different job in a different place every other season or so. This lasts until they find a task and a place they like enough to settle down, which usually takes two to five years. -->
+
+<!-- Arhist society is structured from the top down. -->
+
+<!-- conformism, military-style organization, universal education, structure of growing up -->
+
+<!--
+-->
 
 <!-- What do the Arhists see as a "better life"?
 
@@ -622,6 +635,7 @@ Obey your superiors - without questioning if they demand it.
 
 # Features of Arhist society
 Children raised communally.
+Universal education.
 Money used only for unusual transactions.
 No loans, no debts.
 No marriage. Life partnership is common but not universal.
