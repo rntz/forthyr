@@ -4,9 +4,7 @@ This languages is boring vowellically. Need to spice up vowel system.
 It is too undefined consonontally. Need to settle on consonontal "feels" for
 language as a whole, with regional variations.
 
-* The Sikandan Syllabary
-Actually an abugida.
-
+* The Sikandan Abugida
 Observations thus far:
 - Syllables usually start with consonants
 - Consonant-consonant pairs
@@ -49,7 +47,7 @@ Lowlands dialect.
 agarwael
 
 ** Consonants
-n t k th p f l w x h s y
+n t k th p f l w x h s
 tr kr thr pr fr sr
 
 SR sometimes pronounced "sh"
