@@ -554,6 +554,10 @@ Arhism is a belief system, a culture, and a sovereign nation occupying the Sunwa
 
 <!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
 
+<!-- Originally from 2.3 Political Power -->
+
+The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. Besides their stronghold in Sunward Himlas, Arhism has converted a few of the Low Countries. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
+
 #### <span class="num">2.1</span> Beliefs
 
 The Arhists have no deities. They believe instead in the principle of Arha, and its opposite, Kamma. They believe also in their Elders, spiritual-political leaders granted perpetual life through the Immortality Machines. Chief among the Elders are the council of the Nine Immortals, who govern all of Arhism from their seat at the Citadel.
@@ -652,9 +656,9 @@ military-style organization: ranks and hierarchy. whole Arhist society functions
 central organization has proved crucial in thriving in the relative harsh conditions of Northern Himlas. also proved crucial in conquering it from the Torvil Dynasty.
 -->
 
-#### <span class="num">2.3</span> Political Power
+<!-- #### <span class="num">2.3</span> Political Power -->
+<!-- TODO -->
 
-The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. Besides their stronghold in Sunward Himlas, Arhism has converted a few of the Low Countries. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
 
 <!--
 #### <span class="num">2.4</span> The History of Arhism
