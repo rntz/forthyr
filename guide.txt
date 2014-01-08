@@ -424,6 +424,8 @@ The Priest caste serve many roles: teachers, historians, mediators, counselors. 
 
 Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is without deities—introduced by newcomers from across the ocean.
 
+<!-- TODO: rename -->
+
 ### <span class="num">1</span> The Church of the Devout
 
 The Church of the Devout is a splintered, many-faceted thing. I here describe it as it exists in the Heartlands of Forthyr, the region I am most familiar with. Even so it is more a group of related religious traditions than a unified church.
@@ -548,23 +550,25 @@ So says the Church, anyways. <!-- And the Church indeed unified a great many ter
 
 ### <span class="num">2</span> Arhism
 
-Arhism is simultaneously a belief system, a structure for organizing society, and a sovereign empire occupying the Sunward half of Himlas, a broad peninsula north of the Heartlands. In all its aspects it is fundamentally opposed to the dominant culture of the Heartlands and to the Church that defines it.
+Arhism is a belief system, a culture, and a sovereign nation occupying the Sunward half of Himlas, a broad peninsula North of the Heartlands. In all three aspects it is fundamentally opposed to the dominant culture of the Heartlands and the Church that defines it.
 
 <!-- TODO: noun for "the realm of Arhism", a la Christendom. Arhendom? -->
 
 #### <span class="num">2.1</span> Beliefs
 
-Although considered a religion, the Arhists do not believe in deities. They believe rather in the principle of Arha, and its opposite, Kamma. They also believe in their Elders, spiritual and political leaders who are granted perpetual life through the Immortality Machines. Chief among the Elders are the council of the Nine Immortals, who govern all of Arhism.
+The Arhists have no deities. They believe instead in the principle of Arha, and its opposite, Kamma. They believe also in their Elders, spiritual-political leaders granted perpetual life through the Immortality Machines. Chief among the Elders are the council of the Nine Immortals, who govern all of Arhism from their seat at the Citadel.
 
-Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey, but combines in one word the concepts of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is both the ideal world that the Strivers seek to bring about, and the ideal state of being for an individual. To the Arhists it is a driving principle behind nature and humanity: every person, every deed, every thought, every thing has intrinsic to it some mixture of Arha and Kamma.
+Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey; it combines the ideas of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is the ideal world that the Strivers seek to bring about, as well as the ideal state of being for an individual. It is a driving principle of nature and humanity: intrinsic to every person, every deed, every thought, and every thing is some mixture of Arha and Kamma.
 
 <!-- has some Arha in it and some Kamma. -->
 
-The ethics of the Devout revolve around individual spiritual progress: good works advance one's soul towards higher realms of existence. These realms do not improve over time, but are forever more or less imperfect according to their rank on the Great Ladder. The Arhists, however, strive for collective social progress. There are no "better realms" above us to reincarnate into; there is only this world, and it is up to us to make it a world worth living in, to mold it into Arha.
+##### <span class="num">2.1.1</span> Arhist morality versus Church morality
+
+The ethics of the Church center on individual spiritual progress: good works advance one's soul towards higher realms of existence. These realms do not improve over time, but are forever more or less imperfect according to their rank on the Great Ladder. The Arhists, however, strive for collective social progress. There are no "better realms" above us to reincarnate into; there is only this world, and it is up to us to make it a world worth living in, to mold it into Arha.
 
 <!-- The Church believes in Heaven and Earth; the Arhists believe in Heaven on Earth. -->
 
-The Arhists find Church morality mechanistic and meaningless: *why* should we act according to the fate given us by the Devas? "Fate" is an extrinsic goal bestowed upon us, in demeaning carrot-and-stick fashion, by beings we cannot comprehend and have no concrete evidence of. Arha, by contrast, is the *intrinsic* purpose of all life: the betterment of life itself.
+The Arhists find Church morality mechanistic and meaningless: *why* should we act according to the fate given us by the Devas? "Fate" is an extrinsic goal bestowed upon us, in demeaning carrot-and-stick fashion, by beings we cannot comprehend and have no evidence of. Arha, by contrast, is the *intrinsic* purpose of all life: the betterment of life itself.
 
 <!-- TODO: What, then, do the Arhists see as constituting a "better life"?
 
@@ -599,6 +603,29 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 -->
 
 #### <span class="num">2.2</span> Society and Culture
+
+<!-- What do the Arhists see as a "better life"?
+
+The Arhists aim for a life free from famine, free from war, and free from
+Nobility.
+
+# Arhist morals:
+Fair distribution of work.
+Work brings happiness.
+Level playing field. No privilege-by-birth.
+Society finds a place for everyone.
+Everybody has something to contribute.
+Power to those who merit it.
+Obey your superiors - without questioning if they demand it.
+
+# Features of Arhist society
+Children raised communally.
+Money used only for unusual transactions.
+No loans, no debts.
+No marriage. Life partnership is common but not universal.
+Strong drinking culture. Other drugs uncommmon.
+
+-->
 
 <!--
 meritocracy: equal footing from birth. communal raising of children.
