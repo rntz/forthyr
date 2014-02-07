@@ -3,7 +3,8 @@ scripts: ["guide.js"]
 ...
 <!--<center><aside>we are all just fragments of a larger idea</aside></center>-->
 
-
+<center><small><aside>Press 'c' to toggle table of contents.</aside></small></center>
+
 ## <span class="num">I</span> Skies
 
 Where can I even begin?
@@ -240,7 +241,7 @@ Cthulhuian terrors
 
 ## <span class="num">IV</span> Peoples
 
-The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen for three hundred years.
+The primary intelligent species of Forthyr are humans, dwarves, and the Traders. There are also orcs, kobolds, and a few other species of which I know little. Once there were goblins, but they have not been seen in centuries.
 
 ### <span class="num">1</span> Humans
 
@@ -322,13 +323,13 @@ They swathe themselves from head to toe in bright-hued cloths. Their faces they 
 
 Beneath these clothes, they are covered in the same black substance their mouth-bags are made of. I now suspect this substance is rubber, or something like it; but rubber is not known to us on Forthyr. Not a scrap of Trader skin has ever been seen by human eyes—at least, not unless they have skin of rubber.
 
-They trade for all manner of odd things, for religious relics and children's toys, for heirloom jewelry and story books, for Ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to end up dead, or missing.
+They trade for all manner of odd things, for religious relics and children's toys, for heirloom jewelry and story books, for Ancient artifacts and lotus flowers. Legend says they will trade for anything that someone holds dear. Above all, they trade for people. This does not earn them many friends; but they have a knack for getting what they want anyways, and their enemies always seem to wind up dead or missing.
 
 <!-- Nobody knows what happens to the people they buy. They are rarely seen again, and those who do return are never of their original minds. -->
 
-What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for that Ancient machine that broke down ten days ago. Whatever the town they're in needs most. Many's the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
+What do they give in return? Silk. Gold. Food. Tools. Weapons and armor. Spare parts for that Ancient machine that broke down ten days ago. Whatever the town they're in needs most. Many is the starving enclave that's been visited by the Traders with pallets full of grain, their asking price inevitably too high, at first—but the town's supplies dwindle and their crops stay dead and Winter is on the way, and they give in eventually, though the price has doubled in the meantime.
 
-The Traders have no permanent abode that we know of. They travel in caravans, composed equally of Ancient vehicles and wraxen-pulled carts. Meeting a Trader caravan on the move is rare, however; when they visit a town, they seem to arrive out of thin air, and depart just as suddenly. Even if you manage to catch them leaving, trying to follow a Trader caravan is a sure recipe for getting oneself lost.
+The Traders have no permanent abode that we know of. They travel in caravans, composed equally of Ancient vehicles and wrax-pulled carts. Meeting a Trader caravan on the move is rare, however; when they visit a town, they seem to arrive out of thin air, and depart just as suddenly. Even if you manage to catch them leaving, trying to follow a Trader caravan is a sure recipe for getting oneself lost.
 
 It is a mistake of legendary proportions to attack the Traders. They rarely stray from their caravans, which never camp inside city walls. They are almost always armed, and even when they do not seem armed, I would not be surprised to see a knife emerge from the deep folds of their clothing. According to the few stories of those unwise enough to attempt the deed, they are preternaturally fast, can shrug off heavy blows, and their rubbery "skin" is tough and resistant to edged weapons. Nonetheless,  individual Traders have been slain, and Trader caravans have been driven off (though not destroyed). Every such incident has been repaid, however, by a retaliatory strike of overwhelming force.
 
@@ -356,13 +357,13 @@ Clever creatures that live in Ancient ruins and lay traps for unwary treasure-hu
 <!-- TODO: expand on kobolds -->
 
 #### <span class="num">4.3</span> Goblins
-The goblins were a peculiar race, extinct now for about three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
+The goblins were a peculiar race, extinct now for almost three hundred years. The most common opinion of them today is that they were an enormous nuisance and they got what they deserved. They were by all accounts small, impulsive, aggressive, barely intelligent enough to carry on conversation, but possessed of a strange cunning, not unlike their more thoughtful cousins the kobolds.
 
 <!-- talk about goblin kings? talk about dwarven-goblin hatred? -->
 
 #### <span class="num">4.4</span> Others
 
-There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton, they say, that proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from wraxen or mammoths.
+There are many tales of other varieties of strange intelligent creatures, generally malevolent or treacherous, but few are attested by solid evidence. The University at Roke has an enormous skeleton that they say proves frost giants exist. Perhaps; or perhaps giants existed once and are extinct; or perhaps it is not a single skeleton at all, but a mere jumble of bones, some from humans and some from wrax or mammoths.
 
 There are regions of Forthyr so isolated, unexplored or impenetrable that strange intelligences could easily lurk in them all but unknown to the outside world: far within the Fungal Forest, or in the darkest depths of the Great Chasm, or beneath the Hill-Mazes of Zoth, or some lonely spot on the far side of the Desolate Isle. But most monster tales talk not of such exotic places, but of trolls lurking beneath bridges, or ratmen hiding in caverns just a secret passage away from the well-trodden tunnels of commerce; and it seems to me that if intelligent species were to be found in such pedestrian locations, we would surely know more of them than old wives' tales by now.
 
@@ -422,7 +423,7 @@ The Priest caste serve many roles: teachers, historians, mediators, counselors. 
 
 ## <span class="num">VI</span> Religions
 
-Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last five hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is without deities—introduced by newcomers from across the ocean.
+Religion is a major force on Forthyr, more powerful by far than any king or exarch. The dominant religion is called the Church of the Devout, although it has not been unified under a single Church for a thousand years. For the last three hundred years its main competitor has been Arhism, a new religion—or perhaps merely a way of life, since it is without deities—introduced by newcomers from across the ocean.
 
 <!-- TODO: rename -->
 
@@ -464,7 +465,7 @@ In particular, by following one's fate one acquires positive *ka*; resisting it 
 
 The caste system is an integral part of this ladder of reincarnation. Everyone has an assigned place in the caste system, a role to serve in society. They have this role, they are in their caste, because their *ka* deserves it. If they live according to their place they are rewarded by just treatment in this life and a grander fate in the next.
 
-This may sound unjust to your ears, Earther, but bear in mind that it is a source of immeasurable comfort to millions of people. The caste system merely codifies that which would most likely be the case anyways: the vast majority of people lead powerless, inconsequential lives toiling for a baron or king who cares little for them or their lot. They are subject to innumerable diseases, to the vagaries of the seasons, to the whims of their lord and the ambitions of their lord's enemies. Church doctrine does not serve only to castigate those who would exceed their place—it gives value and purpose to the lives of those for whom exceeding their place was never a real option to begin with. Such people are, sadly, in the majority.
+This may sound unjust to your ears, Earther, but bear in mind that it is a source of immeasurable comfort to millions of people. The caste system merely codifies that which would most likely be the case anyways: the vast majority of people lead powerless, inconsequential lives toiling for a king or Exarch who cares little for them or their lot. They are subject to innumerable diseases, to the vagaries of the seasons, to the whims of their lord and the ambitions of their lord's enemies. Church doctrine does not serve only to castigate those who would exceed their place—it gives value and purpose to the lives of those for whom exceeding their place was never a real option to begin with. <!-- Such people are, sadly, in the majority. -->
 
 <!-- TODO: gods are in high levels, high levels in Heaven can influence lower levels (and lower levels in Hell can influence higher levels) -->
 
@@ -488,6 +489,8 @@ Joe is the law-giver and the oath-binder. He is the god of order and of a well-o
 The Cult of Joe is the wealthiest and most politically influential of the Cults. There is a temple to Joe in every major city not controlled by an Exarch, and a few that are.
 
 <!-- TODO: more stuff here -->
+
+<!-- TODO: how cult of joe sees Sikanda as an incarnation, resonance w/ local culture -->
 
 ##### <span class="num">1.2.2</span> The Cult of Liz
 
@@ -519,26 +522,34 @@ The Cult of Tom and Tomas is by a small margin the least powerful of the three m
 
 <!-- #### <span class="num">1.3</span> High and Low Church -->
 
-#### <span class="num">1.3</span> The History of the Church
+<!-- #### <span class="num">1.3</span> The History of the Church
+ !-- 
+ !-- <\!-- TODO: move this into appendices! -\->
+ !-- 
+ !-- <\!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -\->
+ !-- 
+ !-- <\!-- As the primary sources for the history of the Church of the Devout are the stories it chooses to tell about itself, it is hard to tell where myth turns into fact. According to Church dogma, the Church has existed for as long as humanity has. -\->
+ !-- 
+ !-- I should warn you that the earlier parts of this history are educated guesswork verging on speculation. The Church is unfathomably ancient—Church dogma claims it has existed as long as humanity itself—and written records of any time before the Crusades are few and far between. Most sources on that period are from the Church's own internal histories, so who knows how accurate they are?
+ !-- 
+ !-- What seems likely is that, along with every other religion, the Church of the Devout was suppressed during the reign of the First Exarch Sikanda in favor of worship of Sikanda themself. It is perhaps from this source that the Church's lasting hatred for Exarchs and Immortality Machines springs.
+ !-- 
+ !-- <\!-- TODO: work on next paragraph -\->
+ !-- <\!-- scrabbled to grab a chunk of the rapidly disintegrating Empire -\->
+ !-- 
+ !-- In the aftermath of Sikanda's disappearance, while a hundred upstart Exarchs scrabbled and squabbled over the fragments of the disintegrating Empire, condemning millions to die in war and famine, the Church re-emerged as a force to be reckoned with. The Church alone cared for the common folk. The Church re-established peace and rule of law, holding back the advances of avaricious warlords and rogue wizards. The Church unified people in an era plagued by darkness and dissolution.
+ !-- 
+ !-- So says the Church, anyways. <\!-- And the Church indeed unified a great many territories. -\->
+ !-- 
+ !-- <center><strong>[TO BE CONTINUED...]</strong></center> <\!-- TODO -\-> -->
 
-<!-- TODO: move this into appendices? -->
+<!--
+##### <span class="num">1.2.4</span> Other Cults
 
-<!--  A thousand years ago, it was a unified Church worshipping a pantheon of major gods and goddesses and originating in the lands south of the Tall Mountains. -->
+A smattering of the numerous other Devic Cults:
 
-<!-- As the primary sources for the history of the Church of the Devout are the stories it chooses to tell about itself, it is hard to tell where myth turns into fact. According to Church dogma, the Church has existed for as long as humanity has. -->
-
-I should warn you that the earlier parts of this history are educated guesswork verging on speculation. The Church is unfathomably ancient—Church dogma claims it has existed as long as humanity itself—and written records of any time before the Crusades are few and far between. Most sources on that period are from the Church's own internal histories, so who knows how accurate they are?
-
-What seems likely is that, along with every other religion, the Church of the Devout was suppressed during the reign of the First Exarch Sikanda in favor of worship of Sikanda themself. It is perhaps from this source that the Church's lasting hatred for Exarchs and Immortality Machines springs.
-
-<!-- TODO: work on next paragraph -->
-<!-- scrabbled to grab a chunk of the rapidly disintegrating Empire -->
-
-In the aftermath of Sikanda's disappearance, while a hundred upstart Exarchs scrabbled and squabbled over the fragments of the disintegrating Empire, condemning millions to die in war and famine, the Church re-emerged as a force to be reckoned with. The Church alone cared for the common folk. The Church re-established peace and rule of law, holding back the advances of avaricious warlords and rogue wizards. The Church unified people in an era plagued by darkness and dissolution.
-
-So says the Church, anyways. <!-- And the Church indeed unified a great many territories. -->
-
-<center><strong>[TO BE CONTINUED...]</strong></center> <!-- TODO -->
+- The <b>Cult of Susan</b>, the merciful, the
+-->
 
 <!-- TODO
 
@@ -556,7 +567,7 @@ Arhism is a belief system, a culture, and a sovereign nation occupying the Sunwa
 
 <!-- Originally from 2.3 Political Power -->
 
-The first Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. Besides their stronghold in Sunward Himlas, Arhism has converted a few of the Low Countries. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
+The first Arhists arrived in Forthyr by sea about three hundred years ago. From humble beginnings as itinerant laborers and street preachers, they rose to power through a combination of good luck and shrewd planning. Besides their stronghold in Sunward Himlas, Arhism has converted a few of the Low Countries. Its liberal attitude to the use of Immortality Machines lends it popularity among kings wishing to extend their rule indefinitely.
 
 #### <span class="num">2.1</span> Beliefs
 
@@ -564,9 +575,14 @@ The Arhists have no deities. They believe instead in the principle of Arha, and 
 
 Their full name is the *Strivers toward Arha*. The concept of Arha is difficult to convey; it combines the ideas of life, progress, order, fairness, meritocracy, wisdom, and perfection. Kamma is conversely death, stagnation, chaos, arbitrariness, aristocracy, foolishness, and flaw. Arha is the ideal world that the Strivers seek to bring about, as well as the ideal state of being for an individual. It is a driving principle of nature and humanity: intrinsic to every person, every deed, every thought, and every thing is some mixture of Arha and Kamma.
 
+The Arhists have one extraordinarily brief holy book, the *Precepts of Arha*. It
+enumerates the principles and goal of Arhism, but contains no history, no
+legends, no codes of conduct, no prayers, hymns, or rituals. Those are passed
+down institutionally, through upbringing and tradition. Every Arhist is given a copy of the *Precepts* as soon as they learn to read, and is expected to keep a copy with them as long as they live.
+
 <!-- has some Arha in it and some Kamma. -->
 
-##### <span class="num">2.1.1</span> Arhist morality versus Church morality
+##### <span class="num">2.1.1</span> Arhist morality and Church morality
 
 The ethics of the Church center on individual spiritual progress: good works advance one's soul towards higher realms of existence. These realms do not improve over time, but are forever more or less imperfect according to their rank on the Great Ladder. The Arhists, however, strive for collective social progress. There are no "better realms" above us to reincarnate into; there is only this world, and it is up to us to make it a world worth living in, to mold it into Arha.
 
@@ -582,20 +598,6 @@ The Arhist's idea of what constitutes a "better life" is expressed in the very s
 
 -->
 
-<!--
-Ways in which Arhism opposes Church/Heartland-society:
-
-- the devout's view is one of individual spiritual progress - of souls advancing towards higher realms of existence. the realms of existence themselves are static: they do not improve or meaningfully change. the world is the way it is. the arhist's view is one of collective societal progress - there are no "better realms" above us, only this world, and it is not static - it can and must be improved.
-
-- all of society serves Arha rather than individuals acting out a "fate"
-  arha is the intrinsic purpose of life, rather than a meaningless extrinsic purpose bestowed by nonexistent gods
-
-- "meritocratic" - gain prestige by how well you serve society rather than by your birth. no caste system - which is not to say everyone is *equal*. see societal structure.
-
-- immortality machines are great!
-
--->
-
 The Devout see the Immortality Machines as evil, but to the Arhists they are indispensable. Those who are close to Arha—the Elders—must be rejuvenated through the Machine to preserve their wisdom, their perfection, their ability to bring us closer to Arha like them. Death and reincarnation are servants of Kamma, ever seeking to destroy the progress we achieve in our lifetimes by recycling us into new and spiritually unimproved lives. Arhists willingly sacrifice themselves on the altar of the Machines, that by their death they may preserve the Arha of the Elder who takes their body.
 
 <!-- TODO: how do they see the sacrifices needed to run the Machines? -->
@@ -608,11 +610,28 @@ Unlike the Devout with their Saints and venerated ancestors, to an Arhist anyone
 
 #### <span class="num">2.2</span> Society and Culture
 
-Arhist culture is strange. Money is used rarely, mostly for trade with outsiders. There are no loans and no debts. There is no marriage, though life-partnership is not uncommon. There is a strong drinking culture, but drugs other than alcohol are proscribed. Most strangely of all, children do not know their own mothers. Children are raised communally, to avoid the possibility of privilege-by-birth.
+Arhist culture is strange. Money is used rarely, mostly for trade with outsiders. There are no loans and no debts. There is no marriage, though life-partnership is not uncommon. There is a strong drinking culture, but all other drugs are proscribed, even the ubiquitous kresh-root. Most strangely of all, children do not know their own mothers. Children are raised communally, to avoid the possibility of privilege-by-birth.
 
 <!-- TODO: rename artiklas -->
 
-Children are educated until they come of age. On their 14th Summer they begin their <i>artiklas</i>, a period in which they work a different job in a different place every other season or so. This lasts until they find a task and a place they like enough to settle down, which usually takes two to five years.
+Children are educated until they come of age. Their 13th Summer they begin *artiklas*, a period in which they work a different job in a different place every season or so. This lasts until they find a task and place suitable for them, which generally takes two to five years.
+
+Arhist society is carefully organized from the top down. Arhist religion, state, and society are inseparable; religion governs and permeates society. There is no code of laws *per se*, only the principles of Arha; the Law is a tradition like any other, passed down institutionally. Advancement up the grand unified ladder of Arhist social status is synonymous with and dependent on recognition as a religious leader.
+
+<!--
+What's the structure?
+
+NINE IMMORTALS
+
+- Priests / guidance counselors / teachers
+
+- Police / eyes / military
+
+- Judges
+  How do trials work? Do they have juries?
+  no, that would be democratic, not meritocratic.
+
+-->
 
 <!-- Children are educated until they come of age. On their 14th Summer they begin their *Career-search*, a period in which they work a different job in a different place every other season or so. This lasts until they find a task and a place they like enough to settle down, which usually takes two to five years. -->
 
@@ -663,11 +682,11 @@ central organization has proved crucial in thriving in the relative harsh condit
 <!--
 #### <span class="num">2.4</span> The History of Arhism
 
-??? The Arhists arrived in Forthyr by sea five hundred and fifty-odd years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant areas of the Low Countries, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire.
+??? The Arhists arrived in Forthyr by sea three hundred years ago. They were for a few decades an itinerant people, selling their labor and preaching to any who would listen, until by chance a minor king liked what he heard, and adopted Arhism as his state religion. From this meager foothold Arhism grew rapidly to become the second most powerful religion in central Forthyr. It converted significant areas of the Low Countries, established a minor presence in the Northern Heartlands, and outright conquered Sunward Himlas, now the center and capital of the Arhist religious empire.
 
 ??? They made landfall on the Desolate Isle, and spent the winter in the ruins of Sangraha there. The Desolate Isle is so called because it cannot grow enough crops to support human life; many Arhists died that winter.
 
-The Arhists arrived in Forthyr from across the ocean five hundred and fifty-odd years ago. They claim to have come from another continent, which if true would be the only instance of successful intercontinental travel known to history.
+The Arhists arrived in Forthyr from across the ocean three hundred years ago. They claim to have come from another continent, which if true would be the only instance of successful intercontinental travel known to history.
 
 The Arhists claim they made landfall in a gigantic Ark, somewhere on the far side of the Desolate Isle. Their histories say they fled from terrible persecution on a far continent. (If true, this is the only known instance of intercontinental travel.) They believed themselves to be the entire remaining population of Arhists—that their brethren at home had been utterly extirpated.
 
@@ -692,11 +711,11 @@ The Devout of the Church believe in living according to one's fated place, come 
 
 The Devout and the Strivers, for all their differences, both view the cycle of reincarnation as something like a ladder to be climbed, a path toward perfection so long it spans many lifetimes. To a Seeker of the Way, reincarnation is a distraction to be escaped, an illusion to be pierced.
 
-The Devic Cults and Arhism both seek popular support and political power; for the past five hundred years they have struggled for dominance, sought to convert each other's believers and gain the ears of kings. The Way can barely be said to be an organized religion, and does not seek power or proselytize, though individual Seekers may seek power or followers for their own ends.
+The Devic Cults and Arhism both seek popular support and political power; for the past three centuries they have struggled for dominance, sought to convert each other's believers and gain the ears of kings. The Way can barely be said to be an organized religion, and does not seek power or proselytize, though individual Seekers may seek power or followers for their own ends.
 
 <!-- indeed, would-be Seekers are often hard-pressed to find a master to instruct them -->
 
-The Way was founded six centuries ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and reality during a visit to an abandoned enclave overrun by a fungal bloom. Otaumo preached the insights he had gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
+The Way was founded five hundred years ago by Otaumo, a former priest of the Cult of Tomas in the North-Moonward Heartlands. He "pierced the veil" and perceived the true nature of life and reality during a visit to an abandoned enclave overrun by a fungal bloom. Otaumo preached the insights he had gained, quietly and without fanfare, for the rest of his life. It is not known how or when he died.
 
 Otaumo himself wrote nothing, but his five foremost disciples each wrote chronicles of his life presenting their understanding of his philosophy. These books form the Pentad, a core text for Seekers. The Seekers have few traditions, and foremost among them is this: every Seeker keeps a copy of the Pentad, with selected commentary from later eminent Seekers, and blank pages at the end for the Seeker to write their own thoughts.
 
@@ -722,7 +741,7 @@ The Travellers are vegetarians and pacifists, avoiding the use of force unless a
 
 #### <span class="num">4.1</span> The Shattered Goddess
 
-The Travellers believe in one universal Goddess, whom they call the One, who is immanent in the world; in some sense, the world *is* the One. (Although they avoid using pronouns to refer to the One when talking with foreigners, among themselves they refer to the One as a she; however, the word for deity is gender-neutral in the language of Central Forthyr, so "God" and "Goddess" are both slightly inaccurate here.)
+The Travellers believe in one universal Goddess, whom they call the One, who is immanent in the world; in some sense, the world *is* the One. (Although they avoid describing the One when talking with foreigners, among themselves they regard Her to be female; however, the word for deity is gender-neutral in the language of Central Forthyr, so "God" and "Goddess" are both slightly inaccurate here.)
 
 Their view on reincarnation is yet again different: for them, an individual is but a fragment of the One, and death is a return to the One, a reintegration of the part into the whole. Birth is conversely the separation of a fragment from the One into a new body. But these fragments lose all identity when they rejoin the whole, so reincarnation is not the recycling of a particular, individual soul, even though the essence of our being *is* immortal and endlessly recurring.
 
@@ -761,15 +780,15 @@ TODO: make the description of Pelluin waterfall convey scale better? -->
 
 No human-made bridge spans the Chasm, and no tunnel runs under it. There are three ways past it: go around its North end on the Nightmare Coast; go around its South end, in xenophobic Chengusa; or cross the Gap. The Gap lies at the center of the Chasm's North-South run. It is a pair of apparently natural stone bridges. One bridge runs between two underground tunnels on each side of the Chasm. The other carries the Pelluin from where it waterfalls over the Moonward side to an underground aqueduct on the Sunward side, from which it eventually springs forth onto the surface.
 
-The Heartlands are bounded to Sunwards by the Chasm, and otherwise are ringed by mountain ranges: to the North, the Himlas Mountains; to the Moonward, the Moon Mountains; to the South, the Tall Mountains; and to the South-Sunwards the Short Mountains. It should be noted that the Short Mountains are "short" only in comparison with the Tall mountains; they are the Alps to the Tall Mountains' Himalayas.
+The Heartlands are bounded to Sunwards by the Chasm, and otherwise are ringed by mountain ranges: to the North, the Himlas Mountains; to the Moonward, the Moon Mountains; to the South, the Tall Mountains; and to the South-Sunwards the Short Mountains. (It should be noted that the Short Mountains are "short" only in comparison with the Tall mountains; they are the Alps to the Tall Mountains' Himalayas.)
 
 ### <span class="num">2</span> Himlas
 
-Himlas lies North of the Heartlands, across the same-named mountains. It is a broad flat land, comparatively barren and sparsely inhabited, for the dry season begins early there. It is divided by a small mountain range, the Lorheins, into Sunward and Moonward Himlas. These were once united under the Torvil Dynasty, a religious empire with its own peculiar interpretation of the Church of the Devout. Sunward Himlas fell to the Arhists four hundred years ago. The remains of the Dynasty hold most of the smaller Moonward Himlas, clinging desperately to a century-old stalemate line. "Dynasty" is now a misnomer; since the last Torvil heir disappeared centuries ago, the country has been ruled by regents.
+Himlas lies North of the Heartlands, across the same-named mountains. It is a broad flat land, comparatively barren and sparsely inhabited, for the dry season begins early there. It is divided by a small mountain range, the Lorheins, into Sunward and Moonward Himlas. These were once united under the Torvil Dynasty, a religious empire with its own peculiar interpretation of the Church of the Devout. Sunward Himlas fell to the Arhists two hundred years ago. The remains of the Dynasty hold most of the smaller Moonward Himlas, clinging desperately to a century-old stalemate line. "Dynasty" is now a misnomer; since the last Torvil heir disappeared centuries ago, the country has been ruled by regents.
 
 ### <span class="num">3</span> The Northern Wastes
 
-Moonwards of Himlas, North-Moonwards of the Heartlands, are the Northern Wastes. They are more barren than Himlas, and permanently inhabited only by a few scattered tribes, but when the monsoons come the nomadic Northern Barbarians migrate into the Wastes, raiding the villagers and living off the land. Occasionally a particularly greedy barbarian warlord crosses the Horned Pass and attacks the Heartlands, seeking to carve out a new kingdom. This rarely succeeds, but is always bloody.
+Moonwards of Himlas, North-Moonwards of the Heartlands, are the Northern Wastes. They are more barren than Himlas, and permanently inhabited only by a few scattered tribes, but when the monsoons come the nomadic Northern Barbarians migrate into the Wastes, raiding the villagers and living off the land. Occasionally a particularly greedy barbarian warlord crosses the Horned Pass and attacks the Heartlands, seeking to carve out a new kingdom. These raids are rarely successful, but always bloody.
 
 The Wastes are bounded Sunward and Moonward by the sea, forming a wide isthmus. The barbarians, when they can be convinced to talk at all, tell of a grand empire beyond the Wastes, from which they are either exiles or emissaries. The Travellers, who came out of the Northern Wastes and share many of the barbarian's ethnic features, have similar histories, which they are similarly reluctant to speak of to outsiders. <!-- TODO: more? -->
 
@@ -791,16 +810,15 @@ South-Sunward across the Short Mountains is Chengusa, a large kingdom with inten
 
 Sunward and a little South, crossing first the Chasm and then the Short Mountains, you will find the Zothian steppes, and beyond them Fennimore. I know little about the Zothi, and less about Fennimore. The steppe is completely separated underground from the rest of Forthyr; no tunnels run into it, save perhaps through the Hill-Mazes of Zoth, an  uncharted and unnavigable tangle of tunnels lying below the volcano Azilmur, at the tail-end of the Short Mountains.
 
-At the Sunward edge of the Lowlands lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the First Exarch.
+At the Sunward edge of the Low Countries lies Gurth, oldest of kingdoms, ruled by Zangma (also called Satmak, or Engmar, or Sidmung, or Saõ Mong), an even older exarch. Zangma was old when the Crusades began; he even claims to have been a pupil of Sikanda, the First Exarch.
 
-Lying between the Lowlands to the North-Moonward, Gurth to the North-Sunward, Zoth to the South-Moonward, and Fennimore to the South-Sunward, is Nobody Land. Although it is fertile and has a good climate, there are no underground caverns or tunnels in Nobody Land, nowhere to hide when Winter comes, and so nobody lives there.
+Lying between the Low Countries to the North-Moonward, Gurth to the North-Sunward, Zoth to the South-Moonward, and Fennimore to the South-Sunward, is Nobody Land. Although it is fertile and has a good climate, there are no underground caverns or tunnels in Nobody Land, nowhere to hide when Winter comes, and so nobody lives there.
 
 #### <span class="num">6.1</span> Peχavn
 
 South of Gurth, on a rocky peninsula jutting out into the Gulf of Fog that separates it from Fennimore, is the small realm of Peχavn. The Exarch of Peχavn, who has no name she cares to divulge, is without rival the most powerful wizard of the past thousand years. Off the coast of Peχavn is the legendary Wizards' Isle, of which everything is believed and nothing is known.
 
-The Wizard of Peχavn has never been defeated, neither in wizarding duel nor on field of battle nor in political maneuvering.
-It is said she permits plots against her to proceed only so long as they amuse her; but as she has survived dozens of them, few meet her standards of novelty. She appears to have a soft spot for conspiracies to destroy her Immortality Machine, however. The most recent such attempt was even allowed to succeed—of course, she had a second Machine waiting in the wings.
+The Wizard of Peχavn has never been defeated, neither in wizarding duel nor on field of battle nor in political maneuvering. It is said she permits plots against her to proceed only so long as they amuse her; but as she has survived dozens of them, few meet her standards of novelty. She appears to have a soft spot for conspiracies to destroy her Immortality Machine, however. The most recent such attempt was even allowed to succeed—of course, she had a second Machine waiting in the wings.
 
 The Wizard is said to keep a flock of phoenixes on the Wizards' Isle whose continual burning keeps it in a perpetual Summer. Several centuries ago she mounted an expedition to reach the bottom of the Chasm. She alone returned; whether she succeeded or failed is known only to her. When the Immortal Gengusra, one of the original Nine Immortals who arrived on the Arhist Ark, visited her court to attempt to convert her, he returned having himself become a Seeker of the Way. He was promptly slain by the Arhists, who consider him a martyr.
 
@@ -825,11 +843,11 @@ Our worlds could not be more different, and yet they are strangely similar. We h
 Your world is just as alien, just as familiar, to me.
 -->
 
-If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know. If you object to Forthyrian geography, all I can say is that I have been there and seen it, and it is as I describe, except where I indicate hearsay. If your objection is sociological, I am sorry that I do not have the time or space to fully explain our history and politics; but really, we are not so different from Earth, save that we exist in a radically different environment.
+If at this point you find yourself objecting, if you find this landscape an unreasonable amalgamation of the alien and the familiar, you are not alone: your world seems much the same to me. If your objection is couched in the language of natural science, of physics and mathematics—perhaps you wonder what force holds us to the inside of our ball, as gravity holds you to the outside of yours—then forgive me, but I do not know. If you object to Forthyrian geography, well, I have been there and seen it with my own eyes. If your objection is sociological, I regret that I have neither time nor space to fully explain our history and politics; but really we are not so different from you Earthers, save that we exist in a radically different environment.
 
 Or perhaps you simply want answers, scientific or no, to the obvious questions: What is outside the "ball" that we are on the inside of? What are the Sun and the Moon made of? Why do they brighten and dim at regular intervals? What causes our seasons? Our tides? Our continents' movements? Who were the Ancients, and why are they gone? Why do the Dwarves keep secrets? Why do the Traders trade? Is there any truth to our religions, or to our belief in reincarnation? How did our world come to be? How did *we* come to be? And why are we both human?
 
-I too seek answers to these questions. I have none, or else they would be found in this document. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them. But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. If you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
+I too seek answers to these questions. I have none, or else they would be found in this document. We do of course have myths and legends, as you once did, to explain our world, to demystify it and bring it down to a human scale. Before I came here, I even believed some of them myself. <!--But I have not the time to explain our legends to you, and I will not spend more words explaining that I do not know how to explain things. --> But if you must have an explanation, call it "magic"; for magic is a very real thing in our world—but that is a subject for another time.
 
 
 # Appendices
@@ -854,10 +872,10 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 <tr><td>c.&nbsp;−3000 to −2000</td><td>Sikandan Empire. The known world is united under the First Exarch, Sikanda. These dates are extremely speculative, and the existence of this period is semi-mythical.</td></tr>
 <tr><td>c.&nbsp;−2000 to −1000</td><td>Lesser Empire. Ruled by several Exarchs in succession, with occasional schisms. Eventually disintegrates completely.</td></tr>
 <tr><td>−780</td><td>Gurth founded.</td></tr>
-<tr><td>−153</td><td>The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.</td></tr>
-<tr><td>−151</td><td>The First Crusade is declared.</td></tr>
-<tr><td>−107</td><td>Worm City falls to the Exarchs. The tide of the Crusades turns.</td></tr>
-<tr><td>c.&nbsp;−100</td><td>The Crusades are over, the Exarchs victorious. The Reformation begins.</td></tr>
+<tr><td>−253</td><td>The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.</td></tr>
+<tr><td>−251</td><td>The First Crusade is declared.</td></tr>
+<tr><td>−137</td><td>Worm City falls to the Exarchs. The tide of the Crusades turns.</td></tr>
+<tr><td>c.&nbsp;−130</td><td>The Crusades are over, the Exarchs victorious. The Reformation begins.</td></tr>
 <tr><td>−8</td><td>Plumes of fire are seen rising from the Wizards' Isle.</td></tr>
 <tr><td>−7</td><td>The Gulf of Fog acquires its name as an enchanted fog spreads over it, making it unnavigable. Zangma, Exarch of Gurth, grants the peninsula of Peχavn to a then-unknown wizard.</td></tr>
 <tr><td>0</td><td>The Cult of Joe convenes the first Ecumenical Council.</td></tr>
@@ -868,7 +886,7 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 <tr><td>370</td><td>The Pentad is completed.</td></tr>
 <tr><td>c.&nbsp;510</td><td>The Arhist Ark lands on the Desolate Isle.</td></tr>
 <tr><td>530</td><td>The Low Country King Hwathlõ converts to Arhism, beginning Arhism's rise to power.</td></tr>
-<tr><td>c.&nbsp;600–605</td><td>Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".</td></tr>
+<tr><td>c.&nbsp;570–580</td><td>Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".</td></tr>
 <tr><td>606–616</td><td>The Arhists invade and conquer Sunward Himlas.</td></tr>
 <tr><td>615</td><td>The last Torvil heir disappears. The Torvil Dynasty is now the Torvil Regency.</td></tr>
 <tr><td>740</td><td>The Arhist Elder Yezu becomes "undead" in an Immortality Machine accident.</td></tr>
@@ -879,13 +897,14 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 </table>
 
 
+<!--
 ## <span class="num">B</span> Tales of Forthyr
 ### <span class="num">1</span> The Devas and the Asuras
 ### <span class="num">2</span> The Love of Liz and Tom
 
 ### <span class="num">3</span> Sikanda, the First Exarch
 #### Rise to Power
-#### The War for the Lowlands
+#### The War for the Low Country
 ##### Genocide of the Frost Giants
 ##### The Desolation of Sangraha
 #### The Holy City of Sikandarat
@@ -905,20 +924,20 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 ### <span class="num">6</span> The Life and Deeds of Otaumo of Gent
 #### Enlightenment at the Enclave of Sedruk
 #### His Five Disciples
-<!-- The five disciples of Otaumo were: -->
+<\\!-- The five disciples of Otaumo were: -\\->
 #### The Lich, the Warrior and the Wizard
-#### Pilgrimage to Sikandarat <!-- and Nobody Land, Gurth, Land's End? -->
+#### Pilgrimage to Sikandarat <\\!-- and Nobody Land, Gurth, Land's End? -\\->
 #### Apocrypha
 
-<!-- A terrible lich, a famous warrior, and the wizard of Peχavn each visit Otaumo, seeking his advice. This is when the Wizard becomes a Seeker (or does she? Certainly she comes away impressed.). -->
+<\\!-- A terrible lich, a famous warrior, and the wizard of Peχavn each visit Otaumo, seeking his advice. This is when the Wizard becomes a Seeker (or does she? Certainly she comes away impressed.). -\\->
 
 ### <span class="num">7</span> The University at Roke
 #### The Library Unearthed
 #### The Monsoon War
 #### The First Faculty
-<!-- #### University Traditions -->
+<\\!-- #### University Traditions -\\->
 #### Clashes with the Church
-<!-- #### Magical Investigations -->
+<\\!-- #### Magical Investigations -\\->
 
 ### <span class="num">8</span> The Seven Cities of Freehold
 ### <span class="num">9</span> The Lost Torvil Heir
@@ -935,7 +954,7 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 
 #### <span class="num">1.2</span> Drugs
 #### <span class="num">1.3</span> Wild Fungi
-<!-- Miscellany: The lotus -->
+<\\!-- Miscellany: The lotus -\\->
 
 ### <span class="num">2</span> Fauna
 
@@ -943,3 +962,4 @@ There is no single standard calendar used in Central Forthyr, which makes dating
 
 
 ## <span class="num">D</span> The Sikandan Abugida
+-->

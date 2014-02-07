@@ -15,11 +15,11 @@ c. -3000 to -2000: Sikandan Empire. The known world is united under the First Ex
 c. -2000 to -1000: Lesser Empire. Ruled by several Exarchs in succession, with occasional schisms. Eventually disintegrates completely.
 
 -780: Gurth founded.
--153: The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.
--151: The First Crusade is declared.
+-253: The incident of the Exarch's Mother-in-Law incites widespread revolts against Exarchs in Church-influenced territories.
+-251: The First Crusade is declared.
 #-80: Mugaina, Exarch of the Gap, is defeated.
--107: Worm City falls to the Exarchs. The tide of the Crusades turns.
-c. -100: The Crusades are over, the Exarchs victorious. The Reformation begins.
+-137: Worm City falls to the Exarchs. The tide of the Crusades turns.
+c. -130: The Crusades are over, the Exarchs victorious. The Reformation begins.
 #The Reformation is in full swing.
 
 #-27: The Reformed Church schisms into various Cults.
@@ -46,7 +46,7 @@ c. 510: The Arhist Ark lands on the Desolate Isle.
 # 534: The Arhists acquire their first Immortality Machine.
 
 #c. 600: Goblins become extinct.
-c. 600–605: Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".
+c. 570–580: Goblins slowly disappear. Legend claims a priest named Martin laid a curse that exterminated them. Martin is Sainted and named "the Goblinslayer".
 # 605: Martin is Sainted and named "the Goblinslayer".
 
 606–616: The Arhists invade and conquer Sunward Himlas.

@@ -24,7 +24,6 @@
 
 
 * MISCELLANEOUS NOTES
-
 ** Warriors, Samurai, Bushido
 Do warriors obey a code of honor, like the Samurai obey Bushido? Perhaps in
 certain cultures they do. Probably only those who are actually warriors obey
@@ -115,11 +114,30 @@ Some other possible solutions:
 
 
 * DICTIONARY OF TERMS
+** Lwanlach
+A domesticated quadrupedal beast of burden.
 
-# Summer
+Lwanlach are about the size of a mule or large pony. They have long, flexible
+necks and body hair like a camel, but straight backs like a horse, and cloven
+hooves like a goat or ox. They can go a long time without drinking water. They
+are omnivorous, even to the point of eating meat, though they are natural
+grazers. Folds of fatty tissue hang down from their sides and neck. They can
+redirect blood flow into capillaries in these tissues to cool off when
+necessary. They are strong, sturdy, and quite intelligent but have a stubborn
+disposition. There are many, many regional varieties of lwanlach adapted to
+their particular environment.
+
+** Sunshadow, Moonshadow, ?Deepshadow
+A thing is in sunshadow if during the day it is in shadow. Since the sun doesn't
+move during the day, a thing in sunshadow is in shade all day long. (This may
+change over the course of the seasons as the skies move.) Mountains in
+particular produce large sunshadows and moonshadows. Humans try to keep their
+settlements out of sunshadow. Moonshadow is less important.
+
+** Summer
 Not-winter; the monsoon and dust seasons taken together.
 
-# Enclave
+** Enclave
 A place underground where people stay during the winter. Also, the group of
 people who stay there. People identify with their enclaves, just as they do by
 ethnicity, religion, caste, etc. Enclaves are usually left uninhabited (with
@@ -148,13 +166,9 @@ Enclaves generally need the following attributes:
   tech) then topside food can sometimes be grown. Only highly energy-dense food
   is grown due to lack of space, and plenty of space is usually required anyway.
 
-# Migration
+** Migration
 The period at the end of summer when people move from villages into enclaves,
 and at the beginning of summer when they move back into villages.
-
-# Ancient tech
-TODO: better name
-ancestor tech?
 
 
 * Sections
