@@ -1,0 +1,96 @@
+* DIAGRAM
+#+BEGIN_SRC
+
+            NINE IMMORTALS
+                 |
+                 |
+       /-------------------------------------------------------------------\
+       |              |             |             |           |            |
+    Council of     Military     Diplomats  .  Auditors     Spies &     Monasteries
+    Governors      Advisors                .               Agitators
+    | | | |           |                    .
+    Regional Govts    |-----------\        .
+       |  |           |           |        .
+       |  \------- Regional  Active army   .
+      /|\          Militias                .
+     / | \                                 .           (secret branches)
+     | | |                                 .
+    Local Govts                             .
+       |                                     .
+       |--------------------------------\     .
+       |          |           |         |      .
+    Priests   Child-care    Work-     Wardens? .
+              & Education   bosses             .
+
+#+END_SRC
+
+* DESCRIPTIONS
+** Public branches
+*Council of Governors*: The central government. A senate composed of the heads
+of each of the regional governments (if that's technologically feasible). Uses
+magic to hold teleconferenced meetings so they don't have to leave their regions
+all the time.
+
+*Military advisors*: So called because they're technically just advisors to the
+ Nine, who take active leadership in significant military campaigns and
+ engagements.
+
+*Regional militias*: Basically everyone is a member of the militia. The militia
+ isn't called up unless there's some active threat to be dealt with, although in
+ border areas a permanent guard of some sort is probably kept. Regional & local
+ govts can call up the militia if necessary, but ultimately they're under the
+ control of the military advisors & the Nine.
+
+*Diplomats*: What it sounds like.
+
+** Minor officials
+*Priests*: See to the spiritual well-being of the people. Offer advice, act as
+confessors. Act as minor auditors, looking out for unhappy, unproductive, or
+disruptive persons. Also (along with educators) act as government recruiters.
+Have ordinary jobs on the side, but priestly duties take precedence.
+
+*Child-care & education*: What it sounds like; they bring up kids. A very
+important division! Teachers, wet-nurses, and staff for the child-homes.
+(Anything else?)
+
+*Work-bosses*: Folks in charge of everyday jobs. "Boss" not always an accurate
+term; sometimes more like a master-apprentice relationship. (TODO: special case
+for farming?)
+
+*Wardens*: Police/sheriff-equivalents. Have ordinary jobs on the side. (Are
+these even necessary?)
+
+** Secret branches
+The existence of these services isn't secret, but their internal structure is.
+The Auditors are the most public of them, the Monasteries most secret.
+
+*Auditors*: The eyes, ears, and occasional hands of the Nine. Those who watch
+ the watchmen. FBI cum Stasi cum Inquisition. Not as frightening as they sound.
+ Their job is to watch for trouble brewing on the horizon, to find problems that
+ aren't being solved adequately by local & regional governance, and report to
+ the Nine. The Nine send orders down through the standard chain of command and
+ the problem fixes itself. Usually. If it doesn't, or if a more discreet
+ solution is necessary, then the Auditors take a more active role.
+
+*Spies & agitators*: CIA. MI6. Foreign spies and provocateurs.
+
+*Monasteries*: Where "deviants" (people who are "bad" in a way that doesn't
+ imply disloyalty to Arhism, e.g. homosexuals) are sent to do useful (secret)
+ work away from the rest of society. Researchers, test subjects, suicide
+ commandos, secret missions, etc. etc.
+
+* OPEN QUESTIONS
+A lot of this would work more smoothly with magic. Do they incorporate magic
+into governance? If so, who does the magic / makes the magic items? Do they have
+a magic engineering corps?
+
+Uses of magic:
+- Fast communication up & down the chain of command
+
+Do they have a regular engineering corps? How is massive engineering handled, if
+at all?
+
+Do they have a standing army? That seems infeasible, given the conditions. So
+how does their military work?
+
+How do the various branches recruit?
