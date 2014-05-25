@@ -57,16 +57,21 @@ Preferred worship: Rituals & rites by small groups. Oaths & sacrifices.
 
 Missing beauty, sex (Venus).
 
+_: God of change, destruction, struggle, evolution, revolution, antistasis. Chief Ahaça. (Shiva-Sithis-Ares)
+_: Wife of . (Eris)
+
+FIXME: fix these later gods.
+
 James: God of wisdom, ruling, family, loyalty. God of fire tamed. (Odin)
 Meredith: Goddess of family, motherhood, womanhood. Wife of James. (Hera)
 
-Theodore: God of war, destruction, rites of passage. God of wildfire.
-Leah(?): Goddess of victory in battle. Goddess of taming men. Wife of Theodore. (Nike)
+Theodore: God of war, destruction, rites of passage. God of wildfire, lightning, earthquakes.
+Leah(?): Goddess of victory in battle. Goddess of taming men. Wife of Theodore? Wife of James? (Nike)
 
 Maxwell: God of ambition, self-will, oaths, pacts, treachery (literal genie), technical truths.
-_: Goddess of fate, oath-binding, all-seeing. Wife of Maxwell.
+Chantal: Goddess of fate, oath-binding, all-seeing. Spider goddess. Wife of Maxwell.
 
-God of the dark, of the underworld, of pain and strife.
+God of the dark, of the underworld, of agony and ecstasy. The grimacing god.
 
 ? God of hunting, wild beasts.
 ? Goddess of herding, domestic animals. Wife of ^. Duhaça?
@@ -93,3 +98,4 @@ of the River Pelluin
 of motherhood, childbirth
 trickster
 of Commerce (among Ahaçim or Bramaçim, or Duhaçim pre-reformation?)
+theological explanation of the tides
