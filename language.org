@@ -290,7 +290,7 @@ Many pronouns can be pluralized by suffixing with ???.
 | Dosvendach  | Do S Fe N Da X  |                              |
 | Culun       | Ku Lu N         |                              |
 | Tulgis      | Tu L Ki S       |                              |
-| Amsracht    | Ha N SRa X T    |                              |
+| Amshacht    | Ha N SRa X T    | orig. "Amsracht"             |
 | Folgerhin   | Fo L Ger Hi N   |                              |
 | Cardusin    | Kar Tu Si N     |                              |
 | Tec Valan   | Te K Fa La N    |                              |
