@@ -5,7 +5,7 @@
 # TODO: wizard's journey to bottom of chasm
 # TODO: wizard's conversion of gengusra
 
-# c. -1300: Sikanda genocides the Frost Giants and invades the Low Countries across the Zothi Mountains.
+# c. -1300: Sikanda genocides the Frost Giants (Azilmur erupts) and invades the Low Countries across the Zothi Mountains.
 # c. -1290: Sikanda lays waste to the stronghold of Roke.
 # c. -1260: Sikanda uses an Ancient weapon to devastate the isle to which the Low Country Sorceror-Kings have fled. It is left nearly barren and becomes known as the Desolate Isle.
 # c. -1250: The holy city of Sikandarat is founded, becoming the capital of Sikanda's Empire.
