@@ -25,34 +25,38 @@ Verbs are conjugated by the subject's gender and person. Subjects may be omitted
 * Notes
 The Forthyrian writing system is called the Sikandan Abugida (or just the Abugida). It has two forms, runic and script, which have the same principles despite appearing unrelated at first glance. I hew close to the Sikandan rules when describing Central Forthyrian, even where this conflicts with modern linguistic approaches.
 
+FIXME: "10 consonants" out-of-date
 The Abugida consists of 10 consonants, 5 vowels, and 2 "vowel modifiers". It divides words into syllables consisting of a consonant, optionally followed by a vowel, itself optionally pre- and/or post-modified (see below).
 
 * Phonology
 ** Consonants
+|-------+---------+-----+---------------------------|
+| IPA   | T/lit   | Alt | Approximations            |
+|-------+---------+-----+---------------------------|
+| t     | d       | t   | t, d. Spanish t.          |
+| tʰ    | t       | t́   | English initial t         |
+| p     | b       | p   | Spanish p                 |
+| pʰ    | p       | ṕ   | English p                 |
+| k q   | c k     | k   | k                         |
+| kʰ qʰ | k q     | ḱ   | k in "kill"               |
+| f     | f v     |     | f, v                      |
+| ɸ     | ph      |     | f with the lips only      |
+| θ     | th þ ð  | þ   | th in "thin"              |
+| s     | s       |     | s                         |
+| h     | h       |     | h                         |
+| w, ʍ  | w       |     | w, hw, dialectical "what" |
+| x, ʁ  | ḥ ch x  |     | Scottish "loch"           |
+| ɬ     | ll lh ł |     |                           |
+| n     | n       |     |                           |
+| m     | m       |     |                           |
+|-------+---------+-----+---------------------------|
 
-Voiced/unvoiced generally not a contrastive distinction.
-
-|---------+---+---+---+---+---+----+---+---+--------+----|
-| Phoneme | t | k | n | l | p | w  | f | s | x      | th |
-|---------+---+---+---+---+---+----+---+---+--------+----|
-| IPA     | t | k | n | l | p | ʍ  | f | s | x      | θ  |
-|         | d | g | m | ɫ | b | hʷ | v | z | ʀ      | ð  |
-|         |   |   |   |   |   | h  |   |   | ħ      |    |
-|         |   |   |   |   |   | w  |   |   | ç      |    |
-|---------+---+---+---+---+---+----+---+---+--------+----|
-| English | t | k | n | l | p | hw | f | s | "loch" | th |
-| approx. | d | g | m |   | b | wh | v | z |        |    |
-|---------+---+---+---+---+---+----+---+---+--------+----|
-
-*** Voicing and N/M
 Voicing is not contrastive. However, Forthyrian grammarians do recognize the difference between unvoiced and voiced consonants. The Abugida contains a diacritic marking voicing, but it is used only for foreign and loan-words.
 
-Moreover, the Abugida considers the n/m distinction to be one of voicing—that is, it puts it in the same category as the t/d, k/g, p/b, f/v, s/z and θ/ð distinctions, and marks it with the voicing diacritic. The n/m distinction is particularly important because "m" occurs among old place- and family-names; the collapsing of n/m into a single phoneme is likely a relatively recent occurrence. In some regions, "correct" use of "m" is a distinguishing factor between the dialect of the educated upper classes and of the populace at large.
+*** The "H" consonant
+The "H" consonant has pronounciational peculiarities. The Abugida does not permit a word to begin with a vowel, but in practice some words do. "H" is used as a placeholder consonant to begin these words. Thus, initial "H" is typically silent. However, some dialects pronounce this "placeholder" H; whether this is a "mistake" originating from the use of H as placeholder, or whether the H was in fact originally there and was merely dropped in the majority pronounciation, is unclear. Moreover, some words begin with the sound indicated by "H" in all or almost all dialects; these words are sometimes written with a doubled initial "H", to avoid "H" being interpreted as a silent placeholder.
 
-*** The "W" consonant
-The "W" consonant has pronounciational peculiarities. The Abugida does not permit a word to begin with a vowel, but in practice some words do. "W" is used as a placeholder consonant to begin these words. Thus, initial "W" is typically silent. However, some dialects pronounce this "placeholder" W; whether this is a "mistake" originating from the use of W as placeholder, or whether the W was in fact originally there and was merely dropped in the majority of dialects' pronounciations, is unclear. Moreover, some words begin with the sound indicated by "W" in all or almost all dialects; these words are written with a doubled initial "W", to avoid "W" being interpreted as a silent placeholder.
-
-Moreover, "W" is also silent in some dialects when it occurs after a vowel, especially a vowel post-modified by "r".
+Moreover, "H" is also silent in some dialects when it occurs after a vowel, especially a vowel post-modified by "r".
 
 ** Vowels
 |---------+---+---+---+---+---|
